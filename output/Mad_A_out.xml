@@ -14,1092 +14,1093 @@
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface xml:id="facs_bViHJH"
+    <surface xml:id="facs_k6HoNI"
       points="237,391 243,340 430,340 471,324 491,340 529,327 664,343 696,327 895,327 946,343 969,327 1062,343 1068,397 1023,410 946,397 680,410 558,394 240,407"
-      corresp="#elem_bViHJH">
-      <graphic url="../lignes/IB_15304-237r_bViHJH.png"/>
+      corresp="#elem_k6HoNI">
+      <graphic url="../lignes/IB_15304-237r_k6HoNI.png"/>
     </surface>
-    <surface xml:id="facs_zSRq3d"
+    <surface xml:id="facs_n0q4CU"
       points="240,452 247,410 259,407 484,401 995,404 1023,410 1030,452 1004,465 818,455 680,471 497,455 462,471 417,471 404,458 378,471 247,465"
-      corresp="#elem_zSRq3d">
-      <graphic url="../lignes/IB_15304-237r_zSRq3d.png"/>
+      corresp="#elem_n0q4CU">
+      <graphic url="../lignes/IB_15304-237r_n0q4CU.png"/>
     </surface>
-    <surface xml:id="facs_whnZPC"
+    <surface xml:id="facs_tbd3fZ"
       points="234,516 240,465 484,474 526,462 632,474 651,462 677,474 702,462 715,474 763,474 789,462 831,474 1043,462 1056,516 1030,529 580,519 240,529"
-      corresp="#elem_whnZPC">
-      <graphic url="../lignes/IB_15304-237r_whnZPC.png"/>
+      corresp="#elem_tbd3fZ">
+      <graphic url="../lignes/IB_15304-237r_tbd3fZ.png"/>
     </surface>
-    <surface xml:id="facs_m0QdAK"
+    <surface xml:id="facs_vlRRNR"
       points="240,580 243,539 327,522 661,535 763,519 802,535 882,535 943,519 978,535 1043,535 1052,574 1043,590 995,593 898,593 873,580 844,593 603,583 590,596 523,596 510,583 436,596 243,583"
-      corresp="#elem_m0QdAK">
-      <graphic url="../lignes/IB_15304-237r_m0QdAK.png"/>
+      corresp="#elem_vlRRNR">
+      <graphic url="../lignes/IB_15304-237r_vlRRNR.png"/>
     </surface>
-    <surface xml:id="facs_qVpmdw"
+    <surface xml:id="facs_s6GbPx"
       points="231,644 237,593 812,590 1036,590 1043,644 1017,660 728,660 715,648 645,660 548,648 237,660"
-      corresp="#elem_qVpmdw">
-      <graphic url="../lignes/IB_15304-237r_qVpmdw.png"/>
+      corresp="#elem_s6GbPx">
+      <graphic url="../lignes/IB_15304-237r_s6GbPx.png"/>
     </surface>
-    <surface xml:id="facs_qL6uF7"
+    <surface xml:id="facs_xekR6e"
       points="227,702 231,657 263,651 1011,651 1020,709 966,721 943,709 921,721 885,709 869,721 850,709 786,721 702,709 638,718 622,705 542,718 494,705 231,718"
-      corresp="#elem_qL6uF7">
-      <graphic url="../lignes/IB_15304-237r_qL6uF7.png"/>
+      corresp="#elem_xekR6e">
+      <graphic url="../lignes/IB_15304-237r_xekR6e.png"/>
     </surface>
-    <surface xml:id="facs_hsqrj9"
+    <surface xml:id="facs_n2PZWA"
       points="231,763 237,721 340,709 356,721 414,705 577,721 603,705 718,725 844,712 924,721 943,709 969,721 1027,709 1065,725 1072,770 1030,782 690,782 651,770 234,776"
-      corresp="#elem_hsqrj9">
-      <graphic url="../lignes/IB_15304-237r_hsqrj9.png"/>
+      corresp="#elem_n2PZWA">
+      <graphic url="../lignes/IB_15304-237r_n2PZWA.png"/>
     </surface>
-    <surface xml:id="facs_yeaqu0"
+    <surface xml:id="facs_bILjbV"
       points="227,830 231,776 648,773 683,786 1007,776 1062,786 1072,837 231,843"
-      corresp="#elem_yeaqu0">
-      <graphic url="../lignes/IB_15304-237r_yeaqu0.png"/>
+      corresp="#elem_bILjbV">
+      <graphic url="../lignes/IB_15304-237r_bILjbV.png"/>
     </surface>
-    <surface xml:id="facs_dhNDg6"
+    <surface xml:id="facs_ztlwgP"
       points="227,891 231,843 754,837 776,850 1039,850 1049,901 783,911 706,898 510,907 481,895 231,895"
-      corresp="#elem_dhNDg6">
-      <graphic url="../lignes/IB_15304-237r_dhNDg6.png"/>
+      corresp="#elem_ztlwgP">
+      <graphic url="../lignes/IB_15304-237r_ztlwgP.png"/>
     </surface>
-    <surface xml:id="facs_fgkgFS"
+    <surface xml:id="facs_sFnMiR"
       points="224,952 227,895 398,895 430,907 603,898 664,911 808,901 834,914 1027,907 1036,965 959,965 943,981 911,968 763,975 744,962 683,972 619,959 580,959 561,975 500,959 465,975 388,956 227,972"
-      corresp="#elem_fgkgFS">
-      <graphic url="../lignes/IB_15304-237r_fgkgFS.png"/>
+      corresp="#elem_sFnMiR">
+      <graphic url="../lignes/IB_15304-237r_sFnMiR.png"/>
     </surface>
-    <surface xml:id="facs_gWVMLy"
+    <surface xml:id="facs_ydZWjO"
       points="224,1017 231,975 308,975 337,959 446,962 471,978 641,962 837,968 857,984 953,984 995,968 1059,984 1065,1029 1056,1042 433,1023 227,1033"
-      corresp="#elem_gWVMLy">
-      <graphic url="../lignes/IB_15304-237r_gWVMLy.png"/>
+      corresp="#elem_ydZWjO">
+      <graphic url="../lignes/IB_15304-237r_ydZWjO.png"/>
     </surface>
-    <surface xml:id="facs_aAyNFE"
+    <surface xml:id="facs_uescXt"
       points="224,1078 227,1033 385,1023 417,1036 998,1036 1033,1045 1043,1094 892,1103 802,1090 718,1100 613,1087 227,1087"
-      corresp="#elem_aAyNFE">
-      <graphic url="../lignes/IB_15304-237r_aAyNFE.png"/>
+      corresp="#elem_uescXt">
+      <graphic url="../lignes/IB_15304-237r_uescXt.png"/>
     </surface>
-    <surface xml:id="facs_puH0FX"
+    <surface xml:id="facs_t8YVSK"
       points="221,1138 227,1094 250,1084 385,1084 564,1100 1027,1097 1062,1106 1068,1155 1059,1167 869,1155 561,1167 497,1164 475,1148 391,1164 333,1148 224,1148"
-      corresp="#elem_puH0FX">
-      <graphic url="../lignes/IB_15304-237r_puH0FX.png"/>
+      corresp="#elem_t8YVSK">
+      <graphic url="../lignes/IB_15304-237r_t8YVSK.png"/>
     </surface>
-    <surface xml:id="facs_xp5R2Q"
+    <surface xml:id="facs_rigy48"
       points="221,1206 224,1151 333,1151 359,1167 471,1151 497,1171 1030,1161 1039,1215 1030,1241 940,1241 924,1228 850,1228 837,1241 571,1238 545,1225 500,1238 417,1222 224,1232"
-      corresp="#elem_xp5R2Q">
-      <graphic url="../lignes/IB_15304-237r_xp5R2Q.png"/>
+      corresp="#elem_rigy48">
+      <graphic url="../lignes/IB_15304-237r_rigy48.png"/>
     </surface>
-    <surface xml:id="facs_lq8nmt"
+    <surface xml:id="facs_wz6XcQ"
       points="221,1270 224,1232 237,1225 802,1241 1065,1232 1084,1280 1049,1299 224,1286"
-      corresp="#elem_lq8nmt">
-      <graphic url="../lignes/IB_15304-237r_lq8nmt.png"/>
+      corresp="#elem_wz6XcQ">
+      <graphic url="../lignes/IB_15304-237r_wz6XcQ.png"/>
     </surface>
-    <surface xml:id="facs_dB9szv"
+    <surface xml:id="facs_pr8nOM"
       points="221,1334 224,1286 240,1280 735,1302 876,1302 901,1289 1065,1305 1075,1350 1065,1363 940,1363 901,1350 224,1347"
-      corresp="#elem_dB9szv">
-      <graphic url="../lignes/IB_15304-237r_dB9szv.png"/>
+      corresp="#elem_pr8nOM">
+      <graphic url="../lignes/IB_15304-237r_pr8nOM.png"/>
     </surface>
-    <surface xml:id="facs_itIaJW"
+    <surface xml:id="facs_vyoEjW"
       points="218,1395 221,1344 548,1357 706,1347 1027,1363 1036,1411 1020,1421 635,1405 622,1418 561,1418 385,1411 375,1398 221,1411"
-      corresp="#elem_itIaJW">
-      <graphic url="../lignes/IB_15304-237r_itIaJW.png"/>
+      corresp="#elem_vyoEjW">
+      <graphic url="../lignes/IB_15304-237r_vyoEjW.png"/>
     </surface>
-    <surface xml:id="facs_aGzDDA"
+    <surface xml:id="facs_iG2ek6"
       points="215,1459 221,1414 616,1421 635,1408 786,1408 991,1414 1036,1427 1043,1472 850,1485 824,1472 641,1482 622,1469 452,1479 218,1466"
-      corresp="#elem_aGzDDA">
-      <graphic url="../lignes/IB_15304-237r_aGzDDA.png"/>
+      corresp="#elem_iG2ek6">
+      <graphic url="../lignes/IB_15304-237r_iG2ek6.png"/>
     </surface>
-    <surface xml:id="facs_xudo6f"
+    <surface xml:id="facs_h3XUKp"
       points="215,1520 221,1479 320,1466 369,1479 391,1466 458,1482 635,1485 828,1470 857,1488 901,1475 1043,1479 1061,1557 927,1546 815,1545 680,1543 218,1527"
-      corresp="#elem_xudo6f">
-      <graphic url="../lignes/IB_15304-237r_xudo6f.png"/>
+      corresp="#elem_h3XUKp">
+      <graphic url="../lignes/IB_15304-237r_h3XUKp.png"/>
     </surface>
-    <surface xml:id="facs_bVEhhO"
+    <surface xml:id="facs_iPXTzv"
       points="205,1581 211,1527 246,1539 301,1530 340,1543 378,1530 519,1530 542,1549 616,1536 635,1549 773,1552 792,1536 857,1536 882,1556 937,1556 962,1543 972,1556 1039,1556 1049,1597 1039,1613 1015,1612 882,1613 805,1597 680,1624 510,1591 385,1604 362,1598 208,1600"
-      corresp="#elem_bVEhhO">
-      <graphic url="../lignes/IB_15304-237r_bVEhhO.png"/>
+      corresp="#elem_iPXTzv">
+      <graphic url="../lignes/IB_15304-237r_iPXTzv.png"/>
     </surface>
-    <surface xml:id="facs_gLW60G"
+    <surface xml:id="facs_fZxlMZ"
       points="218,1649 221,1607 253,1594 292,1607 317,1594 353,1607 487,1594 629,1610 735,1610 763,1597 876,1613 1017,1600 1036,1658 808,1668 221,1652"
-      corresp="#elem_gLW60G">
-      <graphic url="../lignes/IB_15304-237r_gLW60G.png"/>
+      corresp="#elem_fZxlMZ">
+      <graphic url="../lignes/IB_15304-237r_fZxlMZ.png"/>
     </surface>
-    <surface xml:id="facs_kfetMu"
+    <surface xml:id="facs_m1yCeT"
       points="218,1706 221,1665 301,1652 545,1671 654,1658 709,1674 754,1661 773,1674 850,1665 873,1677 1023,1665 1033,1722 873,1732 831,1719 779,1729 221,1713"
-      corresp="#elem_kfetMu">
-      <graphic url="../lignes/IB_15304-237r_kfetMu.png"/>
+      corresp="#elem_m1yCeT">
+      <graphic url="../lignes/IB_15304-237r_m1yCeT.png"/>
     </surface>
-    <surface xml:id="facs_hkY3SJ"
+    <surface xml:id="facs_nNfbAA"
       points="215,1767 221,1713 385,1729 507,1716 651,1732 664,1719 712,1719 757,1735 837,1722 879,1738 1033,1726 1039,1783 972,1793 218,1774"
-      corresp="#elem_hkY3SJ">
-      <graphic url="../lignes/IB_15304-237r_hkY3SJ.png"/>
+      corresp="#elem_nNfbAA">
+      <graphic url="../lignes/IB_15304-237r_nNfbAA.png"/>
     </surface>
-    <surface xml:id="facs_werXhX"
+    <surface xml:id="facs_i4f8aW"
       points="218,1835 221,1777 237,1793 391,1777 404,1790 709,1783 725,1799 831,1803 966,1787 1023,1803 1033,1848 221,1838"
-      corresp="#elem_werXhX">
-      <graphic url="../lignes/IB_15304-237r_werXhX.png"/>
+      corresp="#elem_i4f8aW">
+      <graphic url="../lignes/IB_15304-237r_i4f8aW.png"/>
     </surface>
-    <surface xml:id="facs_vPobqC"
+    <surface xml:id="facs_pwPngu"
       points="215,1896 221,1838 1043,1848 1049,1908 978,1921 754,1921 725,1908 658,1921 426,1918 369,1902 353,1915 218,1912"
-      corresp="#elem_vPobqC">
-      <graphic url="../lignes/IB_15304-237r_vPobqC.png"/>
+      corresp="#elem_pwPngu">
+      <graphic url="../lignes/IB_15304-237r_pwPngu.png"/>
     </surface>
-    <surface xml:id="facs_rtaDt3"
+    <surface xml:id="facs_wXjEwU"
       points="215,1960 224,1915 259,1921 282,1908 645,1925 667,1912 754,1925 1056,1912 1065,1966 218,1966"
-      corresp="#elem_rtaDt3">
-      <graphic url="../lignes/IB_15304-237r_rtaDt3.png"/>
+      corresp="#elem_wXjEwU">
+      <graphic url="../lignes/IB_15304-237r_wXjEwU.png"/>
     </surface>
-    <surface xml:id="facs_m8a0gA"
+    <surface xml:id="facs_bcWQL5"
       points="211,2024 215,1966 430,1963 1059,1976 1068,2034 786,2043 722,2030 215,2030"
-      corresp="#elem_m8a0gA">
-      <graphic url="../lignes/IB_15304-237r_m8a0gA.png"/>
+      corresp="#elem_bcWQL5">
+      <graphic url="../lignes/IB_15304-237r_bcWQL5.png"/>
     </surface>
-    <surface xml:id="facs_mZDpvr"
+    <surface xml:id="facs_cJJLzQ"
       points="211,2085 215,2030 256,2030 272,2046 343,2037 439,2050 584,2034 699,2053 725,2037 770,2037 786,2053 840,2043 863,2056 898,2056 917,2040 943,2053 1030,2040 1052,2098 1043,2114 1004,2114 991,2101 930,2111 735,2098 718,2111 641,2111 613,2095 552,2107 503,2095 215,2095"
-      corresp="#elem_mZDpvr">
-      <graphic url="../lignes/IB_15304-237r_mZDpvr.png"/>
+      corresp="#elem_cJJLzQ">
+      <graphic url="../lignes/IB_15304-237r_cJJLzQ.png"/>
     </surface>
-    <surface xml:id="facs_yQoqag"
+    <surface xml:id="facs_riXqA3"
       points="215,2149 218,2095 407,2104 481,2091 536,2107 722,2107 763,2095 789,2111 834,2098 946,2111 991,2101 1030,2111 1039,2159 690,2156 600,2168 571,2156 519,2168 481,2152 369,2165 218,2156"
-      corresp="#elem_yQoqag">
-      <graphic url="../lignes/IB_15304-237r_yQoqag.png"/>
+      corresp="#elem_riXqA3">
+      <graphic url="../lignes/IB_15304-237r_riXqA3.png"/>
     </surface>
-    <surface xml:id="facs_npvQPb"
+    <surface xml:id="facs_n0xvYn"
       points="215,2210 231,2159 356,2168 455,2152 487,2156 500,2172 725,2172 751,2156 1023,2159 1049,2175 1056,2220 1046,2236 988,2223 776,2233 760,2220 658,2220 641,2233 497,2233 398,2216 292,2229 218,2220"
-      corresp="#elem_npvQPb">
-      <graphic url="../lignes/IB_15304-237r_npvQPb.png"/>
+      corresp="#elem_n0xvYn">
+      <graphic url="../lignes/IB_15304-237r_n0xvYn.png"/>
     </surface>
-    <surface xml:id="facs_hBlPvS"
+    <surface xml:id="facs_gOfifW"
       points="211,2271 218,2220 234,2233 398,2220 436,2233 629,2236 985,2223 1030,2236 1039,2277 943,2290 215,2281"
-      corresp="#elem_hBlPvS">
-      <graphic url="../lignes/IB_15304-237r_hBlPvS.png"/>
+      corresp="#elem_gOfifW">
+      <graphic url="../lignes/IB_15304-237r_gOfifW.png"/>
     </surface>
-    <surface xml:id="facs_zuRgTG"
+    <surface xml:id="facs_mpNSVg"
       points="211,2332 218,2284 362,2290 452,2277 507,2290 590,2277 629,2293 702,2281 953,2293 978,2281 1030,2293 1039,2338 215,2345"
-      corresp="#elem_zuRgTG">
-      <graphic url="../lignes/IB_15304-237r_zuRgTG.png"/>
+      corresp="#elem_mpNSVg">
+      <graphic url="../lignes/IB_15304-237r_mpNSVg.png"/>
     </surface>
-    <surface xml:id="facs_m6PqOO"
+    <surface xml:id="facs_lPklrY"
       points="215,2406 224,2354 487,2338 571,2338 590,2354 1023,2345 1046,2396 1036,2412 491,2406 446,2419 218,2419"
-      corresp="#elem_m6PqOO">
-      <graphic url="../lignes/IB_15304-237r_m6PqOO.png"/>
+      corresp="#elem_lPklrY">
+      <graphic url="../lignes/IB_15304-237r_lPklrY.png"/>
     </surface>
-    <surface xml:id="facs_dDwSmO"
+    <surface xml:id="facs_qW5iNY"
       points="215,2460 218,2415 301,2406 670,2419 1014,2409 1036,2467 218,2473"
-      corresp="#elem_dDwSmO">
-      <graphic url="../lignes/IB_15304-237r_dDwSmO.png"/>
+      corresp="#elem_qW5iNY">
+      <graphic url="../lignes/IB_15304-237r_qW5iNY.png"/>
     </surface>
-    <surface xml:id="facs_siUeNw"
+    <surface xml:id="facs_mNVsEZ"
       points="215,2521 221,2476 237,2473 622,2467 718,2480 995,2470 1046,2480 1052,2528 1043,2541 218,2534"
-      corresp="#elem_siUeNw">
-      <graphic url="../lignes/IB_15304-237r_siUeNw.png"/>
+      corresp="#elem_mNVsEZ">
+      <graphic url="../lignes/IB_15304-237r_mNVsEZ.png"/>
     </surface>
-    <surface xml:id="facs_hwtm9t"
+    <surface xml:id="facs_oH2gKL"
       points="215,2576 221,2531 301,2524 664,2541 1027,2534 1065,2544 1072,2589 1033,2601 898,2601 857,2589 645,2598 606,2585 430,2595 218,2582"
-      corresp="#elem_hwtm9t">
-      <graphic url="../lignes/IB_15304-237r_hwtm9t.png"/>
+      corresp="#elem_oH2gKL">
+      <graphic url="../lignes/IB_15304-237r_oH2gKL.png"/>
     </surface>
-    <surface xml:id="facs_evKlKb"
+    <surface xml:id="facs_nZPrzc"
       points="215,2637 218,2595 234,2585 269,2598 494,2601 552,2589 587,2601 728,2589 1036,2605 1046,2646 218,2643"
-      corresp="#elem_evKlKb">
-      <graphic url="../lignes/IB_15304-237r_evKlKb.png"/>
+      corresp="#elem_nZPrzc">
+      <graphic url="../lignes/IB_15304-237r_nZPrzc.png"/>
     </surface>
-    <surface xml:id="facs_hDFgWK"
+    <surface xml:id="facs_ntDUm5"
       points="215,2701 218,2650 240,2643 487,2643 1033,2650 1043,2711 218,2714"
-      corresp="#elem_hDFgWK">
-      <graphic url="../lignes/IB_15304-237r_hDFgWK.png"/>
+      corresp="#elem_ntDUm5">
+      <graphic url="../lignes/IB_15304-237r_ntDUm5.png"/>
     </surface>
-    <surface xml:id="facs_h6kMmb"
+    <surface xml:id="facs_fxqqOE"
       points="215,2765 221,2717 237,2707 494,2707 507,2720 972,2711 1046,2723 1052,2775 218,2778"
-      corresp="#elem_h6kMmb">
-      <graphic url="../lignes/IB_15304-237r_h6kMmb.png"/>
+      corresp="#elem_fxqqOE">
+      <graphic url="../lignes/IB_15304-237r_fxqqOE.png"/>
     </surface>
-    <surface xml:id="facs_mt71pE"
+    <surface xml:id="facs_w7FOVz"
       points="202,2829 208,2778 247,2772 625,2784 1033,2775 1049,2836 690,2849 542,2845 529,2832 333,2845 205,2836"
-      corresp="#elem_mt71pE">
-      <graphic url="../lignes/IB_15304-237r_mt71pE.png"/>
+      corresp="#elem_w7FOVz">
+      <graphic url="../lignes/IB_15304-237r_w7FOVz.png"/>
     </surface>
-    <surface xml:id="facs_hTGhRL"
+    <surface xml:id="facs_xCtXik"
       points="205,2893 211,2836 237,2849 333,2849 346,2836 532,2836 545,2849 1046,2836 1059,2893 1001,2909 712,2900 683,2913 625,2900 600,2913 507,2913 494,2900 362,2900 340,2913 211,2913"
-      corresp="#elem_hTGhRL">
-      <graphic url="../lignes/IB_15304-237r_hTGhRL.png"/>
+      corresp="#elem_xCtXik">
+      <graphic url="../lignes/IB_15304-237r_xCtXik.png"/>
     </surface>
-    <surface xml:id="facs_cPy24F"
+    <surface xml:id="facs_wxGFfK"
       points="211,2948 221,2906 337,2909 359,2897 641,2916 767,2897 1049,2900 1062,2961 1030,2977 982,2964 943,2977 744,2961 725,2974 651,2974 625,2961 580,2970 423,2954 215,2964"
-      corresp="#elem_cPy24F">
-      <graphic url="../lignes/IB_15304-237r_cPy24F.png"/>
+      corresp="#elem_wxGFfK">
+      <graphic url="../lignes/IB_15304-237r_wxGFfK.png"/>
     </surface>
-    <surface xml:id="facs_mzbLft"
+    <surface xml:id="facs_nsouuc"
       points="208,3015 218,2967 272,2974 333,2958 369,2974 385,2958 481,2958 497,2977 532,2964 616,2977 641,2961 654,2974 712,2977 744,2961 789,2977 876,2967 940,2980 982,2964 1023,2980 1033,3025 889,3038 455,3019 311,3031 269,3019 211,3031"
-      corresp="#elem_mzbLft">
-      <graphic url="../lignes/IB_15304-237r_mzbLft.png"/>
+      corresp="#elem_nsouuc">
+      <graphic url="../lignes/IB_15304-237r_nsouuc.png"/>
     </surface>
-    <surface xml:id="facs_eUIogi"
+    <surface xml:id="facs_kmqh5f"
       points="211,3080 215,3038 259,3025 304,3025 317,3038 638,3041 658,3028 882,3028 895,3041 921,3028 946,3041 1014,3028 1049,3031 1059,3086 1049,3144 1027,3160 779,3160 722,3124 564,3131 539,3118 433,3118 359,3157 324,3144 311,3153 259,3118 215,3118"
-      corresp="#elem_eUIogi">
-      <graphic url="../lignes/IB_15304-237r_eUIogi.png"/>
+      corresp="#elem_kmqh5f">
+      <graphic url="../lignes/IB_15304-237r_kmqh5f.png"/>
     </surface>
-    <surface xml:id="facs_yxzajF" points="2493,1665 2497,1620 2567,1620 2567,1684 2497,1690"
-      corresp="#elem_yxzajF">
-      <graphic url="../lignes/IB_15304-237r_yxzajF.png"/>
+    <surface xml:id="facs_aOAcjk" points="2493,1665 2497,1620 2567,1620 2567,1684 2497,1690"
+      corresp="#elem_aOAcjk">
+      <graphic url="../lignes/IB_15304-237r_aOAcjk.png"/>
     </surface>
-    <surface xml:id="facs_dbE7It"
+    <surface xml:id="facs_kdgDJu"
       points="991,218 1007,137 1043,131 1065,133 1120,136 1142,137 1187,144 1203,131 1235,147 1235,240 1059,250 998,234"
-      corresp="#elem_dbE7It">
-      <graphic url="../lignes/IB_15304-237r_dbE7It.png"/>
+      corresp="#elem_kdgDJu">
+      <graphic url="../lignes/IB_15304-237r_kdgDJu.png"/>
     </surface>
-    <surface xml:id="facs_nIIgFb"
+    <surface xml:id="facs_w5vk33"
       points="1322,401 1328,349 1364,336 1402,346 1425,330 1454,330 1482,352 1521,340 1630,356 1681,336 1755,359 1868,359 1880,346 1896,359 1925,346 1951,359 2006,343 2034,365 2076,365 2095,346 2169,346 2176,420 2166,433 2047,433 1733,413 1325,417"
-      corresp="#elem_nIIgFb">
-      <graphic url="../lignes/IB_15304-237r_nIIgFb.png"/>
+      corresp="#elem_w5vk33">
+      <graphic url="../lignes/IB_15304-237r_w5vk33.png"/>
     </surface>
-    <surface xml:id="facs_huMjUa"
+    <surface xml:id="facs_mblUvj"
       points="1328,465 1332,426 1386,413 1598,426 1858,417 1900,433 2115,423 2166,433 2176,474 2163,494 1893,478 1877,490 1620,490 1563,474 1332,484"
-      corresp="#elem_huMjUa">
-      <graphic url="../lignes/IB_15304-237r_huMjUa.png"/>
+      corresp="#elem_mblUvj">
+      <graphic url="../lignes/IB_15304-237r_mblUvj.png"/>
     </surface>
-    <surface xml:id="facs_uwDvTs"
+    <surface xml:id="facs_etF01I"
       points="1325,526 1332,484 1415,478 1537,490 1643,481 1697,494 1787,481 1842,497 2002,484 2022,500 2147,494 2163,500 2173,542 2006,551 1996,539 1328,539"
-      corresp="#elem_uwDvTs">
-      <graphic url="../lignes/IB_15304-237r_uwDvTs.png"/>
+      corresp="#elem_etF01I">
+      <graphic url="../lignes/IB_15304-237r_etF01I.png"/>
     </surface>
-    <surface xml:id="facs_jOBG9E"
+    <surface xml:id="facs_qDOMwi"
       points="1325,583 1328,539 1746,535 2034,555 2150,545 2173,603 2034,612 1328,596"
-      corresp="#elem_jOBG9E">
-      <graphic url="../lignes/IB_15304-237r_jOBG9E.png"/>
+      corresp="#elem_qDOMwi">
+      <graphic url="../lignes/IB_15304-237r_qDOMwi.png"/>
     </surface>
-    <surface xml:id="facs_zCphSP"
+    <surface xml:id="facs_ntHjH0"
       points="1325,651 1332,609 1393,596 1511,596 1547,612 1762,599 1887,616 2185,619 2192,664 2182,676 2102,683 1990,683 1941,667 1762,680 1707,664 1582,676 1569,664 1476,673 1376,660 1328,673"
-      corresp="#elem_zCphSP">
-      <graphic url="../lignes/IB_15304-237r_zCphSP.png"/>
+      corresp="#elem_ntHjH0">
+      <graphic url="../lignes/IB_15304-237r_ntHjH0.png"/>
     </surface>
-    <surface xml:id="facs_fdVaTu"
+    <surface xml:id="facs_uowBWh"
       points="1328,715 1338,670 1534,676 1547,664 1585,680 1714,667 1739,680 1913,670 1925,683 1993,686 2179,673 2198,676 2208,728 2198,744 1900,731 1819,741 1765,728 1332,734"
-      corresp="#elem_fdVaTu">
-      <graphic url="../lignes/IB_15304-237r_fdVaTu.png"/>
+      corresp="#elem_uowBWh">
+      <graphic url="../lignes/IB_15304-237r_uowBWh.png"/>
     </surface>
-    <surface xml:id="facs_keQH6A"
+    <surface xml:id="facs_eMx8Jy"
       points="1328,782 1338,731 1534,728 1665,741 1736,731 1765,744 2153,737 2189,744 2198,795 2189,811 2176,798 2140,811 2092,811 2079,798 2054,811 2028,798 1983,808 1932,792 1848,808 1816,792 1332,802"
-      corresp="#elem_keQH6A">
-      <graphic url="../lignes/IB_15304-237r_keQH6A.png"/>
+      corresp="#elem_eMx8Jy">
+      <graphic url="../lignes/IB_15304-237r_eMx8Jy.png"/>
     </surface>
-    <surface xml:id="facs_ypEFRQ"
+    <surface xml:id="facs_b0V9QT"
       points="1328,847 1332,805 1556,795 1707,808 1720,795 1868,795 1884,808 2083,798 2095,811 2140,811 2176,798 2189,856 2153,872 1900,856 1845,869 1791,859 1723,872 1704,856 1620,869 1550,853 1498,853 1479,869 1332,869"
-      corresp="#elem_ypEFRQ">
-      <graphic url="../lignes/IB_15304-237r_ypEFRQ.png"/>
+      corresp="#elem_b0V9QT">
+      <graphic url="../lignes/IB_15304-237r_b0V9QT.png"/>
     </surface>
-    <surface xml:id="facs_ajh2Gu"
+    <surface xml:id="facs_iRHsm9"
       points="1328,917 1335,875 1505,875 1556,863 1620,875 1778,875 1794,863 2073,863 2095,875 2169,866 2192,875 2198,917 2185,933 1335,930"
-      corresp="#elem_ajh2Gu">
-      <graphic url="../lignes/IB_15304-237r_ajh2Gu.png"/>
+      corresp="#elem_iRHsm9">
+      <graphic url="../lignes/IB_15304-237r_iRHsm9.png"/>
     </surface>
-    <surface xml:id="facs_a4zrms"
+    <surface xml:id="facs_bOyTmf"
       points="1335,972 1338,933 1409,933 1431,920 1601,933 1617,920 1665,936 1890,924 1903,940 2163,927 2185,981 1913,994 1900,981 1653,991 1588,978 1338,978"
-      corresp="#elem_a4zrms">
-      <graphic url="../lignes/IB_15304-237r_a4zrms.png"/>
+      corresp="#elem_bOyTmf">
+      <graphic url="../lignes/IB_15304-237r_bOyTmf.png"/>
     </surface>
-    <surface xml:id="facs_fgbdFN"
+    <surface xml:id="facs_dNmVal"
       points="1332,1039 1335,994 1348,988 1675,994 1787,981 2156,988 2166,1033 2108,1055 1977,1055 1913,1039 1890,1052 1797,1039 1746,1058 1335,1042"
-      corresp="#elem_fgbdFN">
-      <graphic url="../lignes/IB_15304-237r_fgbdFN.png"/>
+      corresp="#elem_dNmVal">
+      <graphic url="../lignes/IB_15304-237r_dNmVal.png"/>
     </surface>
-    <surface xml:id="facs_hZK6fk"
+    <surface xml:id="facs_mxwIuG"
       points="1328,1097 1344,1042 1470,1042 1489,1058 1579,1042 1614,1058 1800,1049 1858,1061 1890,1061 1906,1045 1996,1049 2015,1061 2099,1049 2112,1061 2166,1061 2176,1103 2105,1119 1332,1106"
-      corresp="#elem_hZK6fk">
-      <graphic url="../lignes/IB_15304-237r_hZK6fk.png"/>
+      corresp="#elem_mxwIuG">
+      <graphic url="../lignes/IB_15304-237r_mxwIuG.png"/>
     </surface>
-    <surface xml:id="facs_xo6O2e"
+    <surface xml:id="facs_hrqpLZ"
       points="1332,1164 1338,1119 1421,1110 1903,1122 2144,1110 2192,1122 2198,1171 2189,1183 1335,1177"
-      corresp="#elem_xo6O2e">
-      <graphic url="../lignes/IB_15304-237r_xo6O2e.png"/>
+      corresp="#elem_hrqpLZ">
+      <graphic url="../lignes/IB_15304-237r_hrqpLZ.png"/>
     </surface>
-    <surface xml:id="facs_eGpVZQ"
+    <surface xml:id="facs_hEsavU"
       points="1335,1232 1341,1187 1495,1174 1572,1187 1636,1174 2166,1187 2173,1232 1341,1241"
-      corresp="#elem_eGpVZQ">
-      <graphic url="../lignes/IB_15304-237r_eGpVZQ.png"/>
+      corresp="#elem_hEsavU">
+      <graphic url="../lignes/IB_15304-237r_hEsavU.png"/>
     </surface>
-    <surface xml:id="facs_nXM6QU"
+    <surface xml:id="facs_peUi9a"
       points="1332,1289 1335,1241 1896,1235 1964,1248 2182,1248 2192,1299 1335,1302"
-      corresp="#elem_nXM6QU">
-      <graphic url="../lignes/IB_15304-237r_nXM6QU.png"/>
+      corresp="#elem_peUi9a">
+      <graphic url="../lignes/IB_15304-237r_peUi9a.png"/>
     </surface>
-    <surface xml:id="facs_fvGGxd"
+    <surface xml:id="facs_puHWZR"
       points="1332,1353 1335,1305 1370,1299 1681,1296 1916,1312 2153,1302 2189,1312 2198,1360 2144,1373 1335,1363"
-      corresp="#elem_fvGGxd">
-      <graphic url="../lignes/IB_15304-237r_fvGGxd.png"/>
+      corresp="#elem_puHWZR">
+      <graphic url="../lignes/IB_15304-237r_puHWZR.png"/>
     </surface>
-    <surface xml:id="facs_m00KOD"
+    <surface xml:id="facs_tbl1L2"
       points="1322,1418 1328,1360 1653,1373 1868,1363 1900,1376 2182,1366 2189,1427 2179,1443 2144,1427 2079,1443 2067,1430 1755,1427 1704,1440 1649,1424 1569,1424 1556,1437 1341,1437 1325,1424"
-      corresp="#elem_m00KOD">
-      <graphic url="../lignes/IB_15304-237r_m00KOD.png"/>
+      corresp="#elem_tbl1L2">
+      <graphic url="../lignes/IB_15304-237r_tbl1L2.png"/>
     </surface>
-    <surface xml:id="facs_kDiPJD"
+    <surface xml:id="facs_nyev4N"
       points="1332,1479 1335,1430 1592,1440 1614,1424 1653,1443 1855,1427 1935,1446 1980,1430 2067,1430 2095,1446 2121,1430 2137,1446 2176,1440 2189,1488 2160,1501 1938,1501 1835,1488 1636,1498 1569,1485 1335,1485"
-      corresp="#elem_kDiPJD">
-      <graphic url="../lignes/IB_15304-237r_kDiPJD.png"/>
+      corresp="#elem_nyev4N">
+      <graphic url="../lignes/IB_15304-237r_nyev4N.png"/>
     </surface>
-    <surface xml:id="facs_qCxMCw"
+    <surface xml:id="facs_cLMksw"
       points="1328,1540 1341,1491 1906,1491 2041,1504 2179,1498 2192,1504 2198,1549 2176,1562 1553,1546 1332,1556"
-      corresp="#elem_qCxMCw">
-      <graphic url="../lignes/IB_15304-237r_qCxMCw.png"/>
+      corresp="#elem_cLMksw">
+      <graphic url="../lignes/IB_15304-237r_cLMksw.png"/>
     </surface>
-    <surface xml:id="facs_ws2t0Z"
+    <surface xml:id="facs_fBmZhd"
       points="1332,1604 1338,1562 1367,1552 1665,1549 1723,1562 1755,1549 1925,1565 2169,1559 2201,1565 2208,1610 2198,1623 1335,1613"
-      corresp="#elem_ws2t0Z">
-      <graphic url="../lignes/IB_15304-237r_ws2t0Z.png"/>
+      corresp="#elem_fBmZhd">
+      <graphic url="../lignes/IB_15304-237r_fBmZhd.png"/>
     </surface>
-    <surface xml:id="facs_l5erwC"
+    <surface xml:id="facs_v0dPug"
       points="1328,1668 1332,1610 1531,1610 1617,1626 2134,1620 2166,1629 2176,1677 1929,1687 1332,1674"
-      corresp="#elem_l5erwC">
-      <graphic url="../lignes/IB_15304-237r_l5erwC.png"/>
+      corresp="#elem_v0dPug">
+      <graphic url="../lignes/IB_15304-237r_v0dPug.png"/>
     </surface>
-    <surface xml:id="facs_cLx9V6"
+    <surface xml:id="facs_vVDTwS"
       points="1325,1729 1328,1681 1730,1674 1810,1687 2153,1684 2173,1742 1328,1735"
-      corresp="#elem_cLx9V6">
-      <graphic url="../lignes/IB_15304-237r_cLx9V6.png"/>
+      corresp="#elem_vVDTwS">
+      <graphic url="../lignes/IB_15304-237r_vVDTwS.png"/>
     </surface>
-    <surface xml:id="facs_dNdqYg"
+    <surface xml:id="facs_q2epad"
       points="1328,1799 1335,1754 1454,1754 1473,1742 1608,1742 1636,1754 1701,1742 1746,1754 1784,1742 1855,1754 2189,1742 2195,1799 2163,1812 2028,1799 1929,1799 1913,1812 1691,1799 1335,1812"
-      corresp="#elem_dNdqYg">
-      <graphic url="../lignes/IB_15304-237r_dNdqYg.png"/>
+      corresp="#elem_q2epad">
+      <graphic url="../lignes/IB_15304-237r_q2epad.png"/>
     </surface>
-    <surface xml:id="facs_hTEJLe"
+    <surface xml:id="facs_esXyVp"
       points="1319,1857 1322,1815 1431,1803 1508,1803 1521,1815 1569,1815 1582,1803 2083,1803 2185,1822 2192,1867 1322,1867"
-      corresp="#elem_hTEJLe">
-      <graphic url="../lignes/IB_15304-237r_hTEJLe.png"/>
+      corresp="#elem_esXyVp">
+      <graphic url="../lignes/IB_15304-237r_esXyVp.png"/>
     </surface>
-    <surface xml:id="facs_geBZ62"
+    <surface xml:id="facs_ww3TfP"
       points="1319,1921 1338,1867 2047,1867 2144,1876 2150,1921 2144,1937 1325,1925"
-      corresp="#elem_geBZ62">
-      <graphic url="../lignes/IB_15304-237r_geBZ62.png"/>
+      corresp="#elem_ww3TfP">
+      <graphic url="../lignes/IB_15304-237r_ww3TfP.png"/>
     </surface>
-    <surface xml:id="facs_uzEyMi"
+    <surface xml:id="facs_wl7Oke"
       points="1322,1979 1328,1937 1402,1931 1614,1944 1903,1931 1974,1947 2176,1934 2195,1989 1906,1998 1325,1985"
-      corresp="#elem_uzEyMi">
-      <graphic url="../lignes/IB_15304-237r_uzEyMi.png"/>
+      corresp="#elem_wl7Oke">
+      <graphic url="../lignes/IB_15304-237r_wl7Oke.png"/>
     </surface>
-    <surface xml:id="facs_hj8g1r"
+    <surface xml:id="facs_eeprpc"
       points="1316,2037 1322,1985 1550,1985 1595,1998 1730,1985 1742,2002 1835,1989 2079,1992 2092,2005 2144,2005 2150,2050 1319,2050"
-      corresp="#elem_hj8g1r">
-      <graphic url="../lignes/IB_15304-237r_hj8g1r.png"/>
+      corresp="#elem_eeprpc">
+      <graphic url="../lignes/IB_15304-237r_eeprpc.png"/>
     </surface>
-    <surface xml:id="facs_yAMtPO"
+    <surface xml:id="facs_zjrLKq"
       points="1319,2101 1332,2046 1550,2056 1611,2043 1707,2056 2134,2056 2144,2117 2099,2117 2083,2133 1794,2111 1592,2111 1569,2123 1537,2111 1457,2120 1444,2107 1322,2117"
-      corresp="#elem_yAMtPO">
-      <graphic url="../lignes/IB_15304-237r_yAMtPO.png"/>
+      corresp="#elem_zjrLKq">
+      <graphic url="../lignes/IB_15304-237r_zjrLKq.png"/>
     </surface>
-    <surface xml:id="facs_xYv4st"
+    <surface xml:id="facs_rDZyQc"
       points="1319,2162 1322,2120 1405,2111 1486,2123 1534,2111 1550,2123 1601,2111 1794,2111 1980,2133 2028,2120 2083,2133 2118,2117 2134,2120 2144,2178 2134,2191 1983,2191 1932,2178 1659,2184 1624,2172 1495,2181 1322,2168"
-      corresp="#elem_xYv4st">
-      <graphic url="../lignes/IB_15304-237r_xYv4st.png"/>
+      corresp="#elem_rDZyQc">
+      <graphic url="../lignes/IB_15304-237r_rDZyQc.png"/>
     </surface>
-    <surface xml:id="facs_vX6XaP"
+    <surface xml:id="facs_eRXtM0"
       points="1322,2223 1325,2181 1383,2172 1685,2184 1787,2175 1884,2191 2137,2191 2153,2194 2163,2239 2153,2252 2002,2252 1967,2239 1858,2249 1325,2229"
-      corresp="#elem_vX6XaP">
-      <graphic url="../lignes/IB_15304-237r_vX6XaP.png"/>
+      corresp="#elem_eRXtM0">
+      <graphic url="../lignes/IB_15304-237r_eRXtM0.png"/>
     </surface>
-    <surface xml:id="facs_hWA7Ii"
+    <surface xml:id="facs_gAasF0"
       points="1328,2281 1332,2245 1396,2233 1540,2249 1566,2236 1582,2249 1742,2236 1864,2252 2115,2245 2153,2255 2163,2293 2060,2310 1954,2297 1332,2297"
-      corresp="#elem_hWA7Ii">
-      <graphic url="../lignes/IB_15304-237r_hWA7Ii.png"/>
+      corresp="#elem_gAasF0">
+      <graphic url="../lignes/IB_15304-237r_gAasF0.png"/>
     </surface>
-    <surface xml:id="facs_hCvDYv"
+    <surface xml:id="facs_yeCJL3"
       points="1325,2348 1328,2306 1518,2297 1531,2310 1627,2310 1681,2297 1736,2313 1778,2300 1887,2313 1916,2300 1948,2316 2134,2316 2144,2361 1328,2361"
-      corresp="#elem_hCvDYv">
-      <graphic url="../lignes/IB_15304-237r_hCvDYv.png"/>
+      corresp="#elem_yeCJL3">
+      <graphic url="../lignes/IB_15304-237r_yeCJL3.png"/>
     </surface>
-    <surface xml:id="facs_i4ggiR"
+    <surface xml:id="facs_zI8E4R"
       points="1325,2419 1328,2370 1351,2358 1592,2354 1874,2377 2137,2364 2147,2428 1328,2431"
-      corresp="#elem_i4ggiR">
-      <graphic url="../lignes/IB_15304-237r_i4ggiR.png"/>
+      corresp="#elem_zI8E4R">
+      <graphic url="../lignes/IB_15304-237r_zI8E4R.png"/>
     </surface>
-    <surface xml:id="facs_vF9ObW"
+    <surface xml:id="facs_znnzXy"
       points="1319,2473 1335,2428 1697,2425 1710,2438 1784,2425 1832,2441 2140,2435 2160,2444 2166,2489 2009,2499 1993,2486 1832,2496 1791,2483 1669,2492 1322,2476"
-      corresp="#elem_vF9ObW">
-      <graphic url="../lignes/IB_15304-237r_vF9ObW.png"/>
+      corresp="#elem_znnzXy">
+      <graphic url="../lignes/IB_15304-237r_znnzXy.png"/>
     </surface>
-    <surface xml:id="facs_lPKHgU"
+    <surface xml:id="facs_e9dVZb"
       points="1319,2531 1325,2486 1534,2480 1572,2492 2121,2492 2163,2499 2169,2544 2160,2557 1322,2544"
-      corresp="#elem_lPKHgU">
-      <graphic url="../lignes/IB_15304-237r_lPKHgU.png"/>
+      corresp="#elem_e9dVZb">
+      <graphic url="../lignes/IB_15304-237r_e9dVZb.png"/>
     </surface>
-    <surface xml:id="facs_hQJhPm"
+    <surface xml:id="facs_wbE0Ul"
       points="1319,2592 1325,2541 1726,2541 1755,2553 2131,2553 2147,2605 1941,2614 1322,2598"
-      corresp="#elem_hQJhPm">
-      <graphic url="../lignes/IB_15304-237r_hQJhPm.png"/>
+      corresp="#elem_wbE0Ul">
+      <graphic url="../lignes/IB_15304-237r_wbE0Ul.png"/>
     </surface>
-    <surface xml:id="facs_xRmArt"
+    <surface xml:id="facs_b6va3j"
       points="1316,2650 1325,2598 1482,2595 1697,2611 2099,2608 2153,2618 2160,2666 2144,2682 1993,2682 1823,2678 1771,2662 1714,2675 1665,2662 1319,2656"
-      corresp="#elem_xRmArt">
-      <graphic url="../lignes/IB_15304-237r_xRmArt.png"/>
+      corresp="#elem_b6va3j">
+      <graphic url="../lignes/IB_15304-237r_b6va3j.png"/>
     </surface>
-    <surface xml:id="facs_jINWKR"
+    <surface xml:id="facs_gUJzQB"
       points="1316,2717 1319,2672 1335,2662 1630,2662 1697,2678 1797,2666 1819,2682 2134,2675 2153,2733 2144,2746 2028,2746 1977,2733 1842,2743 1758,2730 1319,2730"
-      corresp="#elem_jINWKR">
-      <graphic url="../lignes/IB_15304-237r_jINWKR.png"/>
+      corresp="#elem_gUJzQB">
+      <graphic url="../lignes/IB_15304-237r_gUJzQB.png"/>
     </surface>
-    <surface xml:id="facs_fa3Ylc"
+    <surface xml:id="facs_xXehPP"
       points="1316,2781 1322,2736 1742,2730 2160,2746 2166,2794 2156,2807 1964,2807 1877,2794 1531,2800 1492,2788 1319,2788"
-      corresp="#elem_fa3Ylc">
-      <graphic url="../lignes/IB_15304-237r_fa3Ylc.png"/>
+      corresp="#elem_xXehPP">
+      <graphic url="../lignes/IB_15304-237r_xXehPP.png"/>
     </surface>
-    <surface xml:id="facs_mbMSrV"
+    <surface xml:id="facs_xj1c0y"
       points="1316,2842 1328,2784 1341,2797 1444,2784 1463,2804 1678,2810 1726,2810 1746,2794 1893,2797 1964,2800 1999,2820 2054,2804 2140,2813 2169,2823 2176,2868 2092,2877 1852,2858 1640,2865 1396,2845 1319,2855"
-      corresp="#elem_mbMSrV">
-      <graphic url="../lignes/IB_15304-237r_mbMSrV.png"/>
+      corresp="#elem_xj1c0y">
+      <graphic url="../lignes/IB_15304-237r_xj1c0y.png"/>
     </surface>
-    <surface xml:id="facs_x8un20"
+    <surface xml:id="facs_faWc2n"
       points="1312,2903 1328,2849 1341,2858 1393,2845 1502,2861 1563,2852 1592,2865 1726,2855 1736,2868 2137,2868 2147,2922 2137,2935 2009,2935 1829,2919 1733,2929 1714,2916 1592,2926 1531,2913 1316,2913"
-      corresp="#elem_x8un20">
-      <graphic url="../lignes/IB_15304-237r_x8un20.png"/>
+      corresp="#elem_faWc2n">
+      <graphic url="../lignes/IB_15304-237r_faWc2n.png"/>
     </surface>
-    <surface xml:id="facs_g1RWVZ"
+    <surface xml:id="facs_q0yVzp"
       points="1312,2967 1316,2926 1447,2913 1598,2932 1620,2919 1717,2919 1755,2935 1999,2929 2009,2942 2079,2929 2140,2942 2147,2986 2137,2999 2002,2986 1871,2996 1823,2980 1784,2993 1720,2977 1592,2990 1559,2974 1441,2970 1316,2983"
-      corresp="#elem_g1RWVZ">
-      <graphic url="../lignes/IB_15304-237r_g1RWVZ.png"/>
+      corresp="#elem_q0yVzp">
+      <graphic url="../lignes/IB_15304-237r_q0yVzp.png"/>
     </surface>
-    <surface xml:id="facs_wLjqCC"
+    <surface xml:id="facs_nM8zSv"
       points="1312,3028 1316,2990 1470,2990 1515,2977 1572,2993 1691,2993 1717,2980 1736,2996 1890,2996 1906,2983 1967,2999 2051,2986 2115,2996 2124,3041 1922,3051 1316,3038"
-      corresp="#elem_wLjqCC">
-      <graphic url="../lignes/IB_15304-237r_wLjqCC.png"/>
+      corresp="#elem_nM8zSv">
+      <graphic url="../lignes/IB_15304-237r_nM8zSv.png"/>
     </surface>
-    <surface xml:id="facs_kCcQFf"
+    <surface xml:id="facs_gWRT6d"
       points="1309,3089 1316,3038 1450,3031 1556,3035 1595,3051 1675,3051 1691,3038 2015,3060 2105,3051 2147,3057 2153,3108 2144,3166 2112,3150 2095,3166 2038,3150 2015,3166 1986,3140 1957,3153 1925,3144 1893,3163 1742,3157 1710,3134 1588,3128 1550,3128 1515,3150 1447,3124 1364,3150 1312,3144"
-      corresp="#elem_kCcQFf">
-      <graphic url="../lignes/IB_15304-237r_kCcQFf.png"/>
+      corresp="#elem_gWRT6d">
+      <graphic url="../lignes/IB_15304-237r_gWRT6d.png"/>
     </surface>
-    <surface xml:id="facs_zhMrz1"
+    <surface xml:id="facs_fb9lRM"
       points="901,402 917,338 958,351 1125,351 1166,332 1304,332 1339,354 1412,354 1431,341 1492,354 1511,335 1594,351 1607,338 1668,335 1700,354 1729,351 1735,408 1677,428 1320,428 1211,415 904,424"
-      corresp="#elem_zhMrz1">
-      <graphic url="../lignes/IB_15304-237v_zhMrz1.png"/>
+      corresp="#elem_fb9lRM">
+      <graphic url="../lignes/IB_15304-237v_fb9lRM.png"/>
     </surface>
-    <surface xml:id="facs_iIHFlJ"
+    <surface xml:id="facs_e6DttD"
       points="917,456 920,424 946,421 1387,418 1396,431 1444,431 1502,418 1550,434 1751,421 1757,469 1706,482 1415,485 920,466"
-      corresp="#elem_iIHFlJ">
-      <graphic url="../lignes/IB_15304-237v_iIHFlJ.png"/>
+      corresp="#elem_e6DttD">
+      <graphic url="../lignes/IB_15304-237v_e6DttD.png"/>
     </surface>
-    <surface xml:id="facs_uIPB7C"
+    <surface xml:id="facs_zbgpaT"
       points="910,533 923,488 1332,495 1345,482 1393,495 1703,482 1716,495 1761,495 1767,533 1757,549 917,546"
-      corresp="#elem_uIPB7C">
-      <graphic url="../lignes/IB_15304-237v_uIPB7C.png"/>
+      corresp="#elem_zbgpaT">
+      <graphic url="../lignes/IB_15304-237v_zbgpaT.png"/>
     </surface>
-    <surface xml:id="facs_gtx7nS"
+    <surface xml:id="facs_wPpA7u"
       points="914,591 920,539 946,552 978,539 1051,552 1169,552 1201,539 1214,552 1339,555 1748,543 1757,597 1719,613 1684,597 1598,597 1582,613 1505,597 1339,613 917,594"
-      corresp="#elem_gtx7nS">
-      <graphic url="../lignes/IB_15304-237v_gtx7nS.png"/>
+      corresp="#elem_wPpA7u">
+      <graphic url="../lignes/IB_15304-237v_wPpA7u.png"/>
     </surface>
-    <surface xml:id="facs_nMbj0s"
+    <surface xml:id="facs_qlUbMc"
       points="901,654 907,600 1057,600 1080,619 1355,623 1441,623 1463,603 1553,603 1575,623 1633,623 1690,603 1757,623 1764,661 1716,677 904,664"
-      corresp="#elem_nMbj0s">
-      <graphic url="../lignes/IB_15304-237v_nMbj0s.png"/>
+      corresp="#elem_qlUbMc">
+      <graphic url="../lignes/IB_15304-237v_qlUbMc.png"/>
     </surface>
-    <surface xml:id="facs_cn05Gk"
+    <surface xml:id="facs_vuQqrp"
       points="901,722 914,667 955,680 1358,670 1387,683 1441,670 1502,683 1665,670 1677,683 1738,677 1748,728 1505,728 1492,741 1460,728 1441,741 1348,741 1316,728 1297,738 1182,725 1137,738 904,738"
-      corresp="#elem_cn05Gk">
-      <graphic url="../lignes/IB_15304-237v_cn05Gk.png"/>
+      corresp="#elem_vuQqrp">
+      <graphic url="../lignes/IB_15304-237v_vuQqrp.png"/>
     </surface>
-    <surface xml:id="facs_ybZyOj"
+    <surface xml:id="facs_arcee0"
       points="898,792 904,750 952,734 1003,734 1019,750 1351,750 1371,734 1399,750 1492,750 1508,734 1745,734 1754,792 1748,808 1492,795 1409,795 1396,808 1061,795 981,808 968,795 904,795"
-      corresp="#elem_ybZyOj">
-      <graphic url="../lignes/IB_15304-237v_ybZyOj.png"/>
+      corresp="#elem_arcee0">
+      <graphic url="../lignes/IB_15304-237v_arcee0.png"/>
     </surface>
-    <surface xml:id="facs_iByMie"
+    <surface xml:id="facs_xugGnF"
       points="901,859 904,801 958,817 1019,801 1281,817 1310,798 1393,814 1412,798 1492,814 1719,814 1729,853 1713,865 1623,869 1486,869 1444,856 1351,856 1310,872 1284,859 1176,859 1163,872 1121,859 1051,872 904,869"
-      corresp="#elem_iByMie">
-      <graphic url="../lignes/IB_15304-237v_iByMie.png"/>
+      corresp="#elem_xugGnF">
+      <graphic url="../lignes/IB_15304-237v_xugGnF.png"/>
     </surface>
-    <surface xml:id="facs_pv48BT"
+    <surface xml:id="facs_tbVEsI"
       points="901,923 907,865 1048,875 1061,862 1141,862 1153,875 1172,862 1278,862 1313,875 1729,859 1741,916 1633,932 1483,920 1371,932 1323,920 1304,936 1275,923 1224,936 1195,923 904,936"
-      corresp="#elem_pv48BT">
-      <graphic url="../lignes/IB_15304-237v_pv48BT.png"/>
+      corresp="#elem_tbVEsI">
+      <graphic url="../lignes/IB_15304-237v_tbVEsI.png"/>
     </surface>
-    <surface xml:id="facs_s7ECyc"
+    <surface xml:id="facs_nngZgv"
       points="894,984 898,939 1201,939 1240,926 1323,936 1335,923 1377,936 1396,923 1431,936 1451,923 1530,923 1543,936 1729,923 1738,977 1674,993 1380,980 1211,996 1089,984 1035,996 1022,984 942,996 898,984"
-      corresp="#elem_s7ECyc">
-      <graphic url="../lignes/IB_15304-237v_s7ECyc.png"/>
+      corresp="#elem_nngZgv">
+      <graphic url="../lignes/IB_15304-237v_nngZgv.png"/>
     </surface>
-    <surface xml:id="facs_zxYxe6"
+    <surface xml:id="facs_t7vQgA"
       points="898,1047 901,1003 981,990 1025,1003 1067,990 1316,1003 1431,1000 1444,987 1492,1000 1562,1000 1585,987 1668,1000 1716,987 1738,1000 1748,1041 1716,1054 901,1047"
-      corresp="#elem_zxYxe6">
-      <graphic url="../lignes/IB_15304-237v_zxYxe6.png"/>
+      corresp="#elem_t7vQgA">
+      <graphic url="../lignes/IB_15304-237v_t7vQgA.png"/>
     </surface>
-    <surface xml:id="facs_iIxqbx"
+    <surface xml:id="facs_sZTgD7"
       points="898,1108 901,1063 926,1054 1131,1063 1195,1047 1259,1060 1320,1047 1725,1051 1735,1099 1700,1118 1451,1121 1428,1105 1345,1105 1307,1121 1284,1105 1179,1105 1157,1121 1016,1124 1000,1108 952,1108 901,1124"
-      corresp="#elem_iIxqbx">
-      <graphic url="../lignes/IB_15304-237v_iIxqbx.png"/>
+      corresp="#elem_sZTgD7">
+      <graphic url="../lignes/IB_15304-237v_sZTgD7.png"/>
     </surface>
-    <surface xml:id="facs_dixA64"
+    <surface xml:id="facs_pwIJaT"
       points="894,1166 901,1127 952,1115 1003,1115 1016,1127 1070,1115 1284,1115 1297,1127 1671,1118 1732,1127 1738,1166 1722,1182 1652,1169 1419,1182 1406,1169 1332,1178 1291,1166 1243,1182 1192,1166 1137,1178 1045,1166 901,1182"
-      corresp="#elem_dixA64">
-      <graphic url="../lignes/IB_15304-237v_dixA64.png"/>
+      corresp="#elem_pwIJaT">
+      <graphic url="../lignes/IB_15304-237v_pwIJaT.png"/>
     </surface>
-    <surface xml:id="facs_kCgzFl"
+    <surface xml:id="facs_dO7Ofj"
       points="901,1220 904,1185 1013,1185 1035,1169 1102,1185 1166,1169 1182,1185 1246,1175 1323,1188 1697,1172 1729,1188 1738,1226 1415,1246 1383,1233 1342,1246 1185,1242 1160,1230 1134,1242 904,1242"
-      corresp="#elem_kCgzFl">
-      <graphic url="../lignes/IB_15304-237v_kCgzFl.png"/>
+      corresp="#elem_dO7Ofj">
+      <graphic url="../lignes/IB_15304-237v_dO7Ofj.png"/>
     </surface>
-    <surface xml:id="facs_zTzO54"
+    <surface xml:id="facs_jJahmD"
       points="904,1287 910,1249 930,1239 1438,1249 1486,1236 1716,1236 1738,1287 1729,1309 1658,1293 1492,1293 1457,1309 1272,1309 1256,1293 1220,1309 1172,1293 1121,1293 1099,1309 1000,1309 984,1293 955,1309 910,1300"
-      corresp="#elem_zTzO54">
-      <graphic url="../lignes/IB_15304-237v_zTzO54.png"/>
+      corresp="#elem_jJahmD">
+      <graphic url="../lignes/IB_15304-237v_jJahmD.png"/>
     </surface>
-    <surface xml:id="facs_cHoYNL"
+    <surface xml:id="facs_qnZmcC"
       points="904,1351 910,1303 1591,1303 1722,1313 1729,1351 1722,1373 1530,1373 1518,1361 1502,1373 1399,1373 1383,1357 1134,1357 1105,1370 987,1361 974,1373 942,1361 910,1373"
-      corresp="#elem_cHoYNL">
-      <graphic url="../lignes/IB_15304-237v_cHoYNL.png"/>
+      corresp="#elem_qnZmcC">
+      <graphic url="../lignes/IB_15304-237v_qnZmcC.png"/>
     </surface>
-    <surface xml:id="facs_gHJCSn"
+    <surface xml:id="facs_qEXbDh"
       points="904,1415 910,1373 942,1361 955,1373 990,1361 1722,1373 1729,1415 910,1424"
-      corresp="#elem_gHJCSn">
-      <graphic url="../lignes/IB_15304-237v_gHJCSn.png"/>
+      corresp="#elem_qEXbDh">
+      <graphic url="../lignes/IB_15304-237v_qEXbDh.png"/>
     </surface>
-    <surface xml:id="facs_urIShA"
+    <surface xml:id="facs_leNpyw"
       points="907,1472 914,1421 933,1418 1483,1418 1489,1431 1620,1418 1662,1431 1741,1424 1761,1482 1729,1495 1693,1482 1677,1495 1626,1482 1553,1495 1121,1476 910,1485"
-      corresp="#elem_urIShA">
-      <graphic url="../lignes/IB_15304-237v_urIShA.png"/>
+      corresp="#elem_leNpyw">
+      <graphic url="../lignes/IB_15304-237v_leNpyw.png"/>
     </surface>
-    <surface xml:id="facs_v55js4"
+    <surface xml:id="facs_rq0NIC"
       points="907,1543 910,1501 923,1498 1249,1501 1307,1488 1690,1492 1706,1498 1716,1536 1307,1555 1236,1543 936,1555 910,1543"
-      corresp="#elem_v55js4">
-      <graphic url="../lignes/IB_15304-237v_v55js4.png"/>
+      corresp="#elem_rq0NIC">
+      <graphic url="../lignes/IB_15304-237v_rq0NIC.png"/>
     </surface>
-    <surface xml:id="facs_yZOYir"
+    <surface xml:id="facs_y6tPfQ"
       points="901,1607 907,1555 1157,1565 1185,1546 1214,1559 1374,1562 1393,1546 1454,1559 1642,1559 1658,1543 1732,1543 1741,1597 1732,1616 1665,1616 1630,1600 1457,1619 1300,1619 1284,1603 904,1616"
-      corresp="#elem_yZOYir">
-      <graphic url="../lignes/IB_15304-237v_yZOYir.png"/>
+      corresp="#elem_y6tPfQ">
+      <graphic url="../lignes/IB_15304-237v_y6tPfQ.png"/>
     </surface>
-    <surface xml:id="facs_lK6LpW"
+    <surface xml:id="facs_tjIBer"
       points="904,1667 907,1626 946,1626 962,1610 1112,1626 1134,1610 1188,1607 1233,1607 1252,1623 1371,1623 1390,1610 1470,1623 1540,1603 1630,1603 1754,1619 1764,1658 1725,1677 1502,1661 1323,1667 1304,1680 1278,1664 1236,1680 1172,1667 1153,1683 1032,1683 997,1667 968,1683 910,1683"
-      corresp="#elem_lK6LpW">
-      <graphic url="../lignes/IB_15304-237v_lK6LpW.png"/>
+      corresp="#elem_tjIBer">
+      <graphic url="../lignes/IB_15304-237v_tjIBer.png"/>
     </surface>
-    <surface xml:id="facs_y4o5R8"
+    <surface xml:id="facs_pq0HS3"
       points="904,1718 917,1680 968,1686 994,1670 1029,1686 1115,1686 1185,1667 1208,1686 1249,1667 1300,1683 1320,1667 1348,1690 1518,1690 1543,1670 1716,1683 1751,1670 1761,1725 1741,1741 1681,1728 1562,1728 1543,1741 1441,1728 1425,1741 1323,1728 907,1738"
-      corresp="#elem_y4o5R8">
-      <graphic url="../lignes/IB_15304-237v_y4o5R8.png"/>
+      corresp="#elem_pq0HS3">
+      <graphic url="../lignes/IB_15304-237v_pq0HS3.png"/>
     </surface>
-    <surface xml:id="facs_isalq0"
+    <surface xml:id="facs_g0lWaY"
       points="901,1789 907,1744 987,1744 1000,1731 1019,1744 1083,1731 1166,1731 1182,1744 1684,1731 1706,1741 1713,1789 1706,1801 1604,1792 1588,1808 1537,1808 1514,1792 1409,1795 1396,1808 1246,1808 1220,1795 1179,1808 930,1795 907,1808"
-      corresp="#elem_isalq0">
-      <graphic url="../lignes/IB_15304-237v_isalq0.png"/>
+      corresp="#elem_g0lWaY">
+      <graphic url="../lignes/IB_15304-237v_g0lWaY.png"/>
     </surface>
-    <surface xml:id="facs_gpRUDc"
+    <surface xml:id="facs_eRJRfg"
       points="898,1853 901,1808 1169,1814 1233,1801 1300,1814 1383,1811 1399,1798 1470,1798 1483,1811 1681,1798 1709,1811 1719,1846 1687,1862 901,1856"
-      corresp="#elem_gpRUDc">
-      <graphic url="../lignes/IB_15304-237v_gpRUDc.png"/>
+      corresp="#elem_eRJRfg">
+      <graphic url="../lignes/IB_15304-237v_eRJRfg.png"/>
     </surface>
-    <surface xml:id="facs_iCYQ0F"
+    <surface xml:id="facs_k5ecOf"
       points="898,1917 901,1872 955,1859 978,1872 1032,1859 1118,1859 1131,1872 1278,1859 1307,1872 1323,1859 1425,1869 1438,1856 1511,1856 1524,1869 1569,1869 1700,1856 1722,1869 1732,1910 1642,1920 1630,1932 1211,1936 1198,1923 1019,1923 949,1936 901,1923"
-      corresp="#elem_iCYQ0F">
-      <graphic url="../lignes/IB_15304-237v_iCYQ0F.png"/>
+      corresp="#elem_k5ecOf">
+      <graphic url="../lignes/IB_15304-237v_k5ecOf.png"/>
     </surface>
-    <surface xml:id="facs_sTXQtU"
+    <surface xml:id="facs_fnTbk0"
       points="894,1977 910,1932 1025,1939 1083,1923 1141,1936 1201,1923 1217,1939 1588,1939 1642,1923 1729,1923 1735,1977 1713,1990 1649,1990 1636,1977 1559,1990 901,1980"
-      corresp="#elem_sTXQtU">
-      <graphic url="../lignes/IB_15304-237v_sTXQtU.png"/>
+      corresp="#elem_fnTbk0">
+      <graphic url="../lignes/IB_15304-237v_fnTbk0.png"/>
     </surface>
-    <surface xml:id="facs_tXWsOs"
+    <surface xml:id="facs_d4AkOF"
       points="907,2047 910,1987 923,1980 1131,1980 1147,1996 1192,1996 1217,1980 1233,1996 1278,1980 1709,1990 1719,2035 1706,2051 1553,2051 1530,2038 1511,2054 1316,2041 984,2060 910,2047"
-      corresp="#elem_tXWsOs">
-      <graphic url="../lignes/IB_15304-237v_tXWsOs.png"/>
+      corresp="#elem_d4AkOF">
+      <graphic url="../lignes/IB_15304-237v_d4AkOF.png"/>
     </surface>
-    <surface xml:id="facs_aNE7lD"
+    <surface xml:id="facs_hWJxIf"
       points="907,2092 910,2051 1399,2044 1415,2060 1511,2060 1543,2044 1559,2060 1623,2047 1703,2054 1722,2099 910,2115"
-      corresp="#elem_aNE7lD">
-      <graphic url="../lignes/IB_15304-237v_aNE7lD.png"/>
+      corresp="#elem_hWJxIf">
+      <graphic url="../lignes/IB_15304-237v_hWJxIf.png"/>
     </surface>
-    <surface xml:id="facs_tpm9bG"
+    <surface xml:id="facs_hZjU2y"
       points="914,2166 926,2118 1032,2121 1048,2105 1121,2102 1172,2118 1188,2102 1438,2099 1540,2115 1642,2099 1745,2111 1754,2153 1745,2166 1550,2156 1479,2169 1348,2159 1275,2175 1201,2166 1057,2178 1019,2166 1006,2178 917,2178"
-      corresp="#elem_tpm9bG">
-      <graphic url="../lignes/IB_15304-237v_tpm9bG.png"/>
+      corresp="#elem_hZjU2y">
+      <graphic url="../lignes/IB_15304-237v_hZjU2y.png"/>
     </surface>
-    <surface xml:id="facs_vUOGcc"
+    <surface xml:id="facs_kJr6Z7"
       points="920,2223 926,2182 1013,2182 1029,2169 1064,2182 1201,2182 1214,2169 1227,2182 1310,2182 1339,2166 1470,2166 1486,2182 1741,2166 1748,2223 1697,2246 1671,2246 1652,2226 1626,2246 1451,2246 1431,2226 1281,2226 1227,2246 1176,2246 1144,2226 1096,2246 1032,2230 1016,2246 926,2246"
-      corresp="#elem_vUOGcc">
-      <graphic url="../lignes/IB_15304-237v_vUOGcc.png"/>
+      corresp="#elem_kJr6Z7">
+      <graphic url="../lignes/IB_15304-237v_kJr6Z7.png"/>
     </surface>
-    <surface xml:id="facs_uk3Oj6"
+    <surface xml:id="facs_sdJKCK"
       points="920,2294 923,2252 984,2252 1019,2236 1070,2236 1089,2252 1125,2233 1220,2249 1236,2236 1326,2246 1335,2233 1358,2242 1383,2230 1518,2246 1623,2242 1639,2226 1700,2242 1745,2226 1754,2281 1706,2294 1562,2284 923,2300"
-      corresp="#elem_uk3Oj6">
-      <graphic url="../lignes/IB_15304-237v_uk3Oj6.png"/>
+      corresp="#elem_sdJKCK">
+      <graphic url="../lignes/IB_15304-237v_sdJKCK.png"/>
     </surface>
-    <surface xml:id="facs_jFVjyH"
+    <surface xml:id="facs_sHHWDy"
       points="920,2351 923,2300 1172,2309 1224,2297 1236,2309 1329,2309 1348,2294 1393,2306 1677,2294 1690,2306 1741,2306 1751,2345 1690,2361 1399,2351 1259,2367 1125,2367 1099,2354 1067,2367 1025,2354 1006,2367 923,2367"
-      corresp="#elem_jFVjyH">
-      <graphic url="../lignes/IB_15304-237v_jFVjyH.png"/>
+      corresp="#elem_sHHWDy">
+      <graphic url="../lignes/IB_15304-237v_sHHWDy.png"/>
     </surface>
-    <surface xml:id="facs_kGoFZI"
+    <surface xml:id="facs_ykLHQx"
       points="914,2415 926,2367 1003,2370 1029,2357 1041,2370 1185,2370 1275,2367 1288,2354 1377,2367 1470,2351 1502,2364 1556,2364 1572,2351 1741,2354 1751,2405 1729,2428 1668,2415 1623,2428 1569,2415 1543,2428 1499,2428 1486,2415 1326,2428 1259,2418 1246,2431 1192,2418 1153,2434 917,2425"
-      corresp="#elem_kGoFZI">
-      <graphic url="../lignes/IB_15304-237v_kGoFZI.png"/>
+      corresp="#elem_ykLHQx">
+      <graphic url="../lignes/IB_15304-237v_ykLHQx.png"/>
     </surface>
-    <surface xml:id="facs_auNy7K"
+    <surface xml:id="facs_b9nFIn"
       points="917,2479 923,2425 962,2437 1003,2421 1038,2437 1278,2437 1294,2421 1329,2431 1342,2418 1371,2418 1387,2434 1415,2418 1444,2434 1463,2418 1508,2434 1562,2418 1585,2434 1677,2418 1709,2434 1719,2472 1709,2495 1617,2495 1604,2482 1451,2482 1415,2495 1265,2485 1249,2498 1192,2498 1179,2485 1134,2498 920,2492"
-      corresp="#elem_auNy7K">
-      <graphic url="../lignes/IB_15304-237v_auNy7K.png"/>
+      corresp="#elem_b9nFIn">
+      <graphic url="../lignes/IB_15304-237v_b9nFIn.png"/>
     </surface>
-    <surface xml:id="facs_wOfb88"
+    <surface xml:id="facs_vmekze"
       points="917,2540 920,2492 1118,2501 1163,2488 1188,2501 1265,2485 1332,2498 1550,2495 1562,2482 1617,2495 1741,2488 1754,2530 1738,2559 923,2549"
-      corresp="#elem_wOfb88">
-      <graphic url="../lignes/IB_15304-237v_wOfb88.png"/>
+      corresp="#elem_vmekze">
+      <graphic url="../lignes/IB_15304-237v_vmekze.png"/>
     </surface>
-    <surface xml:id="facs_lnXobi"
+    <surface xml:id="facs_coX7jY"
       points="917,2603 920,2556 1029,2556 1064,2568 1153,2552 1224,2565 1256,2552 1291,2565 1677,2552 1722,2559 1732,2591 1722,2603 1502,2610 923,2610"
-      corresp="#elem_lnXobi">
-      <graphic url="../lignes/IB_15304-237v_lnXobi.png"/>
+      corresp="#elem_coX7jY">
+      <graphic url="../lignes/IB_15304-237v_coX7jY.png"/>
     </surface>
-    <surface xml:id="facs_x1WwpZ"
+    <surface xml:id="facs_ixJb1Y"
       points="920,2664 923,2610 942,2623 1009,2623 1025,2610 1125,2623 1185,2607 1451,2619 1505,2603 1540,2616 1716,2603 1725,2655 1662,2667 1476,2661 1454,2674 1393,2661 1345,2674 1204,2661 1185,2677 949,2664 923,2677"
-      corresp="#elem_x1WwpZ">
-      <graphic url="../lignes/IB_15304-237v_x1WwpZ.png"/>
+      corresp="#elem_ixJb1Y">
+      <graphic url="../lignes/IB_15304-237v_ixJb1Y.png"/>
     </surface>
-    <surface xml:id="facs_i9ipyB"
+    <surface xml:id="facs_w9UwZr"
       points="917,2725 920,2677 936,2671 974,2683 1025,2671 1038,2683 1185,2686 1240,2683 1256,2667 1284,2683 1463,2683 1562,2680 1588,2664 1738,2664 1748,2715 1725,2728 920,2731"
-      corresp="#elem_i9ipyB">
-      <graphic url="../lignes/IB_15304-237v_i9ipyB.png"/>
+      corresp="#elem_w9UwZr">
+      <graphic url="../lignes/IB_15304-237v_w9UwZr.png"/>
     </surface>
-    <surface xml:id="facs_hqBzqN"
+    <surface xml:id="facs_bnXzbp"
       points="917,2786 930,2741 1000,2728 1077,2731 1093,2747 1403,2747 1438,2728 1620,2728 1687,2747 1757,2728 1764,2786 1697,2805 1572,2792 1431,2792 1412,2805 1364,2792 1310,2792 1297,2805 1045,2792 923,2805"
-      corresp="#elem_hqBzqN">
-      <graphic url="../lignes/IB_15304-237v_hqBzqN.png"/>
+      corresp="#elem_bnXzbp">
+      <graphic url="../lignes/IB_15304-237v_bnXzbp.png"/>
     </surface>
-    <surface xml:id="facs_oCzpWP"
+    <surface xml:id="facs_bsgwHL"
       points="923,2846 930,2795 981,2808 997,2795 1188,2808 1297,2805 1310,2792 1361,2792 1374,2805 1700,2802 1729,2789 1741,2837 1732,2859 1572,2859 1527,2846 1514,2859 1403,2849 1275,2862 1214,2849 971,2853 926,2865"
-      corresp="#elem_oCzpWP">
-      <graphic url="../lignes/IB_15304-237v_oCzpWP.png"/>
+      corresp="#elem_bsgwHL">
+      <graphic url="../lignes/IB_15304-237v_bsgwHL.png"/>
     </surface>
-    <surface xml:id="facs_lQd7r4" points="757,2891 767,2824 834,2846 840,2897 808,2913 760,2907"
-      corresp="#elem_lQd7r4">
-      <graphic url="../lignes/IB_15304-237v_lQd7r4.png"/>
+    <surface xml:id="facs_pHSqwK" points="757,2891 767,2824 834,2846 840,2897 808,2913 760,2907"
+      corresp="#elem_pHSqwK">
+      <graphic url="../lignes/IB_15304-237v_pHSqwK.png"/>
     </surface>
-    <surface xml:id="facs_tRpd6I"
+    <surface xml:id="facs_xJdd9N"
       points="920,2907 923,2869 1000,2869 1022,2853 1259,2853 1275,2869 1326,2869 1406,2865 1422,2849 1473,2849 1492,2865 1524,2849 1572,2865 1732,2862 1745,2901 1735,2923 1610,2923 1578,2907 1556,2923 1473,2923 1441,2907 1383,2907 1367,2923 1329,2926 1265,2926 1246,2910 1073,2910 1038,2926 923,2917"
-      corresp="#elem_tRpd6I">
-      <graphic url="../lignes/IB_15304-237v_tRpd6I.png"/>
+      corresp="#elem_xJdd9N">
+      <graphic url="../lignes/IB_15304-237v_xJdd9N.png"/>
     </surface>
-    <surface xml:id="facs_bvbKP7"
+    <surface xml:id="facs_kDBnj1"
       points="917,2968 943,2920 1320,2929 1598,2917 1725,2926 1735,2961 1668,2987 1607,2987 1578,2971 1534,2987 1486,2971 1444,2987 1358,2971 1294,2990 1131,2990 1115,2974 1006,2974 955,2990 920,2980"
-      corresp="#elem_bvbKP7">
-      <graphic url="../lignes/IB_15304-237v_bvbKP7.png"/>
+      corresp="#elem_kDBnj1">
+      <graphic url="../lignes/IB_15304-237v_kDBnj1.png"/>
     </surface>
-    <surface xml:id="facs_xFTOJT"
+    <surface xml:id="facs_edr02T"
       points="920,3032 923,2993 939,2987 1118,2980 1172,2993 1335,2977 1367,2990 1396,2977 1409,2990 1457,2990 1566,2974 1604,2987 1713,2974 1735,3022 1709,3038 1511,3032 1460,3048 1272,3048 1259,3035 1134,3038 1121,3051 1086,3035 1041,3035 1025,3051 923,3041"
-      corresp="#elem_xFTOJT">
-      <graphic url="../lignes/IB_15304-237v_xFTOJT.png"/>
+      corresp="#elem_edr02T">
+      <graphic url="../lignes/IB_15304-237v_edr02T.png"/>
     </surface>
-    <surface xml:id="facs_oJxiek"
+    <surface xml:id="facs_cDEhrA"
       points="925,3100 928,3052 941,3049 1278,3041 1317,3048 1356,3048 1401,3036 1580,3046 1641,3030 1740,3042 1750,3084 1740,3122 1695,3151 1596,3125 1567,3145 1551,3129 1510,3138 1494,3125 1424,3122 1328,3157 1149,3161 1110,3129 1059,3141 973,3132 944,3157 928,3154"
-      corresp="#elem_oJxiek">
-      <graphic url="../lignes/IB_15304-237v_oJxiek.png"/>
+      corresp="#elem_cDEhrA">
+      <graphic url="../lignes/IB_15304-237v_cDEhrA.png"/>
     </surface>
-    <surface xml:id="facs_xBDMPe"
+    <surface xml:id="facs_yr5LZC"
       points="1666,227 1693,153 1767,153 1818,173 1936,159 1975,188 2010,188 2019,214 2013,236 1972,246 1814,252 1783,252 1735,239 1713,252"
-      corresp="#elem_xBDMPe">
-      <graphic url="../lignes/IB_15304-237v_xBDMPe.png"/>
+      corresp="#elem_yr5LZC">
+      <graphic url="../lignes/IB_15304-237v_yr5LZC.png"/>
     </surface>
-    <surface xml:id="facs_s4UYiU"
+    <surface xml:id="facs_tuBLXx"
       points="2042,408 2048,335 2106,354 2138,335 2166,354 2221,338 2253,357 2294,335 2317,354 2333,338 2381,354 2422,341 2441,354 2470,338 2505,361 2579,364 2656,341 2697,345 2713,361 2745,341 2787,364 2831,364 2838,418 2790,437 2774,424 2732,437 2630,437 2614,424 2576,437 2547,424 2499,434 2473,421 2438,434 2298,418 2045,431"
-      corresp="#elem_s4UYiU">
-      <graphic url="../lignes/IB_15304-237v_s4UYiU.png"/>
+      corresp="#elem_tuBLXx">
+      <graphic url="../lignes/IB_15304-237v_tuBLXx.png"/>
     </surface>
-    <surface xml:id="facs_hW5Cek"
+    <surface xml:id="facs_bzgBAN"
       points="2045,469 2048,431 2144,431 2170,418 2250,434 2266,421 2294,434 2397,421 2448,437 2483,424 2499,437 2649,440 2732,440 2751,428 2799,440 2838,428 2847,482 2048,479"
-      corresp="#elem_hW5Cek">
-      <graphic url="../lignes/IB_15304-237v_hW5Cek.png"/>
+      corresp="#elem_bzgBAN">
+      <graphic url="../lignes/IB_15304-237v_bzgBAN.png"/>
     </surface>
-    <surface xml:id="facs_prcEqn"
+    <surface xml:id="facs_bULC0t"
       points="2039,533 2045,495 2179,495 2195,479 2246,479 2262,495 2384,482 2400,498 2528,482 2585,501 2675,501 2697,485 2838,488 2854,543 2834,555 2314,555 2269,539 2042,552"
-      corresp="#elem_prcEqn">
-      <graphic url="../lignes/IB_15304-237v_prcEqn.png"/>
+      corresp="#elem_bULC0t">
+      <graphic url="../lignes/IB_15304-237v_bULC0t.png"/>
     </surface>
-    <surface xml:id="facs_fRRzzT"
+    <surface xml:id="facs_jYnZGg"
       points="2042,600 2045,562 2096,552 2157,562 2182,546 2240,546 2314,565 2441,549 2461,568 2550,568 2572,555 2608,568 2643,552 2662,568 2726,571 2742,559 2834,571 2844,613 2489,623 2467,610 2141,603 2045,616"
-      corresp="#elem_fRRzzT">
-      <graphic url="../lignes/IB_15304-237v_fRRzzT.png"/>
+      corresp="#elem_jYnZGg">
+      <graphic url="../lignes/IB_15304-237v_jYnZGg.png"/>
     </surface>
-    <surface xml:id="facs_y6w7kr"
+    <surface xml:id="facs_yBZoa5"
       points="2045,661 2051,623 2080,623 2096,607 2310,607 2345,629 2496,632 2796,616 2847,623 2854,677 2831,690 2748,677 2493,686 2307,667 2131,680 2048,664"
-      corresp="#elem_y6w7kr">
-      <graphic url="../lignes/IB_15304-237v_y6w7kr.png"/>
+      corresp="#elem_yBZoa5">
+      <graphic url="../lignes/IB_15304-237v_yBZoa5.png"/>
     </surface>
-    <surface xml:id="facs_xwEif1"
+    <surface xml:id="facs_nZmG0k"
       points="2045,725 2048,683 2154,683 2170,667 2256,686 2282,670 2361,670 2429,690 2521,693 2780,680 2775,692 2828,690 2838,741 2809,750 2668,738 2598,750 2470,734 2208,744 2186,728 2048,728"
-      corresp="#elem_xwEif1">
-      <graphic url="../lignes/IB_15304-237v_xwEif1.png"/>
+      corresp="#elem_nZmG0k">
+      <graphic url="../lignes/IB_15304-237v_nZmG0k.png"/>
     </surface>
-    <surface xml:id="facs_v8ugtf"
+    <surface xml:id="facs_dSMi92"
       points="2039,785 2042,744 2071,734 2250,747 2317,731 2371,744 2409,734 2432,750 2470,738 2579,741 2592,754 2759,753 2822,757 2831,798 2822,814 2745,805 2697,825 2620,801 2550,814 2453,829 2349,808 2320,795 2157,808 2042,792"
-      corresp="#elem_v8ugtf">
-      <graphic url="../lignes/IB_15304-237v_v8ugtf.png"/>
+      corresp="#elem_dSMi92">
+      <graphic url="../lignes/IB_15304-237v_dSMi92.png"/>
     </surface>
-    <surface xml:id="facs_a601A5"
+    <surface xml:id="facs_tzHuhD"
       points="2032,874 2029,821 2250,821 2272,805 2349,805 2365,821 2457,821 2486,805 2624,805 2678,821 2716,808 2850,808 2860,856 2836,868 2210,905"
-      corresp="#elem_a601A5">
-      <graphic url="../lignes/IB_15304-237v_a601A5.png"/>
+      corresp="#elem_tzHuhD">
+      <graphic url="../lignes/IB_15304-237v_tzHuhD.png"/>
     </surface>
-    <surface xml:id="facs_yykrq5"
+    <surface xml:id="facs_mniiFA"
       points="2039,926 2089,868 2200,883 2735,869 2825,878 2831,926 2822,939 2044,941"
-      corresp="#elem_yykrq5">
-      <graphic url="../lignes/IB_15304-237v_yykrq5.png"/>
+      corresp="#elem_mniiFA">
+      <graphic url="../lignes/IB_15304-237v_mniiFA.png"/>
     </surface>
-    <surface xml:id="facs_hknJqb"
+    <surface xml:id="facs_i5DKsv"
       points="2039,984 2042,936 2576,929 2687,942 2723,929 2834,939 2844,993 2579,1003 2042,990"
-      corresp="#elem_hknJqb">
-      <graphic url="../lignes/IB_15304-237v_hknJqb.png"/>
+      corresp="#elem_i5DKsv">
+      <graphic url="../lignes/IB_15304-237v_i5DKsv.png"/>
     </surface>
-    <surface xml:id="facs_xdjaGx"
+    <surface xml:id="facs_eYOO3N"
       points="2039,1047 2042,993 2339,993 2438,1009 2496,996 2508,1009 2620,1009 2646,993 2694,993 2803,1000 2822,1009 2831,1054 2042,1054"
-      corresp="#elem_xdjaGx">
-      <graphic url="../lignes/IB_15304-237v_xdjaGx.png"/>
+      corresp="#elem_eYOO3N">
+      <graphic url="../lignes/IB_15304-237v_eYOO3N.png"/>
     </surface>
-    <surface xml:id="facs_s8ZDpA"
+    <surface xml:id="facs_fb8yIi"
       points="2039,1108 2042,1067 2083,1057 2166,1054 2195,1067 2272,1054 2320,1067 2349,1054 2441,1070 2579,1057 2796,1063 2828,1070 2838,1115 2042,1121"
-      corresp="#elem_s8ZDpA">
-      <graphic url="../lignes/IB_15304-237v_s8ZDpA.png"/>
+      corresp="#elem_fb8yIi">
+      <graphic url="../lignes/IB_15304-237v_fb8yIi.png"/>
     </surface>
-    <surface xml:id="facs_fR83Vb"
+    <surface xml:id="facs_u2EuCv"
       points="2032,1172 2039,1127 2141,1127 2157,1115 2218,1127 2278,1115 2486,1115 2502,1127 2518,1115 2537,1127 2787,1121 2825,1127 2831,1172 2809,1185 2039,1182"
-      corresp="#elem_fR83Vb">
-      <graphic url="../lignes/IB_15304-237v_fR83Vb.png"/>
+      corresp="#elem_u2EuCv">
+      <graphic url="../lignes/IB_15304-237v_u2EuCv.png"/>
     </surface>
-    <surface xml:id="facs_aHosLb"
+    <surface xml:id="facs_btiXaw"
       points="2032,1233 2035,1191 2230,1175 2285,1191 2432,1194 2467,1182 2787,1178 2815,1185 2825,1239 2755,1252 2723,1239 2671,1239 2659,1252 2547,1239 2432,1252 2413,1236 2035,1246"
-      corresp="#elem_aHosLb">
-      <graphic url="../lignes/IB_15304-237v_aHosLb.png"/>
+      corresp="#elem_btiXaw">
+      <graphic url="../lignes/IB_15304-237v_btiXaw.png"/>
     </surface>
-    <surface xml:id="facs_en2yE8"
+    <surface xml:id="facs_ay4wfV"
       points="2039,1287 2048,1249 2390,1239 2451,1255 2505,1242 2553,1255 2659,1255 2671,1242 2755,1255 2850,1242 2857,1293 2665,1309 2304,1293 2042,1306"
-      corresp="#elem_en2yE8">
-      <graphic url="../lignes/IB_15304-237v_en2yE8.png"/>
+      corresp="#elem_ay4wfV">
+      <graphic url="../lignes/IB_15304-237v_ay4wfV.png"/>
     </surface>
-    <surface xml:id="facs_oQbq5u"
+    <surface xml:id="facs_zn0ykt"
       points="2051,1370 2037,1318 2246,1313 2301,1300 2505,1313 2815,1303 2834,1313 2841,1351 2834,1373 2806,1361 2723,1364 2687,1384 2553,1370 2426,1377 2243,1370 2173,1385"
-      corresp="#elem_oQbq5u">
-      <graphic url="../lignes/IB_15304-237v_oQbq5u.png"/>
+      corresp="#elem_zn0ykt">
+      <graphic url="../lignes/IB_15304-237v_zn0ykt.png"/>
     </surface>
-    <surface xml:id="facs_gzqabl"
+    <surface xml:id="facs_vEuxv3"
       points="2032,1418 2035,1377 2055,1373 2298,1375 2336,1364 2438,1377 2454,1361 2608,1361 2620,1373 2812,1364 2850,1373 2860,1412 2854,1428 2777,1415 2448,1418 2435,1431 2358,1418 2307,1431 2039,1421"
-      corresp="#elem_gzqabl">
-      <graphic url="../lignes/IB_15304-237v_gzqabl.png"/>
+      corresp="#elem_vEuxv3">
+      <graphic url="../lignes/IB_15304-237v_vEuxv3.png"/>
     </surface>
-    <surface xml:id="facs_wAEazX"
+    <surface xml:id="facs_aIVV8f"
       points="2029,1479 2032,1431 2221,1428 2250,1440 2333,1428 2345,1440 2400,1440 2435,1424 2834,1437 2844,1472 2834,1488 2032,1505"
-      corresp="#elem_wAEazX">
-      <graphic url="../lignes/IB_15304-237v_wAEazX.png"/>
+      corresp="#elem_aIVV8f">
+      <graphic url="../lignes/IB_15304-237v_aIVV8f.png"/>
     </surface>
-    <surface xml:id="facs_fBgZrW"
+    <surface xml:id="facs_mCD19z"
       points="2032,1539 2039,1501 2218,1501 2230,1488 2243,1501 2413,1501 2425,1488 2825,1498 2841,1501 2847,1539 2828,1552 2739,1546 2684,1559 2617,1546 2544,1546 2524,1559 2473,1546 2432,1559 2374,1559 2361,1546 2039,1552"
-      corresp="#elem_fBgZrW">
-      <graphic url="../lignes/IB_15304-237v_fBgZrW.png"/>
+      corresp="#elem_mCD19z">
+      <graphic url="../lignes/IB_15304-237v_mCD19z.png"/>
     </surface>
-    <surface xml:id="facs_wL6wSD"
+    <surface xml:id="facs_pCnFgH"
       points="2029,1610 2032,1568 2061,1559 2152,1553 2195,1552 2226,1562 2339,1562 2416,1565 2435,1549 2477,1549 2493,1565 2550,1565 2566,1546 2604,1562 2831,1562 2841,1600 2831,1616 2323,1607 2218,1623 2093,1610 2067,1634 2032,1610"
-      corresp="#elem_wL6wSD">
-      <graphic url="../lignes/IB_15304-237v_wL6wSD.png"/>
+      corresp="#elem_pCnFgH">
+      <graphic url="../lignes/IB_15304-237v_pCnFgH.png"/>
     </surface>
-    <surface xml:id="facs_tyq24c"
+    <surface xml:id="facs_bO9aM5"
       points="2026,1664 2029,1610 2055,1626 2093,1610 2262,1626 2336,1607 2374,1623 2400,1607 2480,1623 2524,1623 2550,1607 2617,1619 2825,1616 2834,1655 2809,1670 2029,1670"
-      corresp="#elem_tyq24c">
-      <graphic url="../lignes/IB_15304-237v_tyq24c.png"/>
+      corresp="#elem_bO9aM5">
+      <graphic url="../lignes/IB_15304-237v_bO9aM5.png"/>
     </surface>
-    <surface xml:id="facs_fre1Sv"
+    <surface xml:id="facs_j4m4OZ"
       points="2026,1718 2032,1677 2365,1677 2451,1664 2630,1680 2857,1667 2873,1680 2879,1725 2857,1738 2029,1738"
-      corresp="#elem_fre1Sv">
-      <graphic url="../lignes/IB_15304-237v_fre1Sv.png"/>
+      corresp="#elem_j4m4OZ">
+      <graphic url="../lignes/IB_15304-237v_j4m4OZ.png"/>
     </surface>
-    <surface xml:id="facs_cnl7sT"
+    <surface xml:id="facs_ei35bT"
       points="2019,1782 2029,1741 2314,1744 2330,1731 2425,1728 2588,1731 2617,1747 2656,1731 2828,1744 2838,1789 2668,1792 2646,1805 2601,1805 2588,1792 2461,1805 2429,1789 2023,1801"
-      corresp="#elem_cnl7sT">
-      <graphic url="../lignes/IB_15304-237v_cnl7sT.png"/>
+      corresp="#elem_ei35bT">
+      <graphic url="../lignes/IB_15304-237v_ei35bT.png"/>
     </surface>
-    <surface xml:id="facs_c6UJYZ"
+    <surface xml:id="facs_gWyztN"
       points="2019,1853 2023,1808 2109,1808 2122,1795 2214,1808 2304,1792 2339,1805 2387,1792 2480,1805 2544,1792 2652,1801 2841,1789 2850,1843 2825,1859 2595,1849 2515,1862 2301,1853 2237,1865 2023,1865"
-      corresp="#elem_c6UJYZ">
-      <graphic url="../lignes/IB_15304-237v_c6UJYZ.png"/>
+      corresp="#elem_gWyztN">
+      <graphic url="../lignes/IB_15304-237v_gWyztN.png"/>
     </surface>
-    <surface xml:id="facs_l1gJJT"
+    <surface xml:id="facs_ohIXf1"
       points="2013,1913 2016,1872 2029,1869 2400,1859 2422,1872 2531,1856 2582,1869 2646,1856 2697,1856 2710,1869 2825,1859 2850,1865 2860,1907 2850,1923 2019,1920"
-      corresp="#elem_l1gJJT">
-      <graphic url="../lignes/IB_15304-237v_l1gJJT.png"/>
+      corresp="#elem_ohIXf1">
+      <graphic url="../lignes/IB_15304-237v_ohIXf1.png"/>
     </surface>
-    <surface xml:id="facs_mlUt93"
+    <surface xml:id="facs_lhvqBi"
       points="2013,1980 2026,1923 2112,1936 2266,1936 2278,1923 2435,1932 2454,1920 2515,1932 2844,1923 2857,1974 2812,1990 2483,1990 2435,1977 2240,1993 2198,1980 2016,1990"
-      corresp="#elem_mlUt93">
-      <graphic url="../lignes/IB_15304-237v_mlUt93.png"/>
+      corresp="#elem_lhvqBi">
+      <graphic url="../lignes/IB_15304-237v_lhvqBi.png"/>
     </surface>
-    <surface xml:id="facs_bAu3YP"
+    <surface xml:id="facs_kSLHFj"
       points="2019,2038 2029,1990 2355,1993 2432,1980 2831,1987 2850,2032 2822,2047 2713,2041 2700,2054 2601,2041 2553,2054 2467,2041 2432,2057 2323,2057 2310,2044 2282,2057 2246,2044 2173,2057 2023,2051"
-      corresp="#elem_bAu3YP">
-      <graphic url="../lignes/IB_15304-237v_bAu3YP.png"/>
+      corresp="#elem_kSLHFj">
+      <graphic url="../lignes/IB_15304-237v_kSLHFj.png"/>
     </surface>
-    <surface xml:id="facs_tEXrPi"
+    <surface xml:id="facs_bq9ThC"
       points="2026,2095 2039,2047 2831,2047 2838,2095 2809,2115 2767,2105 2742,2118 2719,2105 2668,2118 2614,2118 2601,2105 2467,2118 2387,2118 2368,2105 2336,2118 2275,2118 2262,2105 2186,2118 2173,2105 2128,2105 2032,2118"
-      corresp="#elem_tEXrPi">
-      <graphic url="../lignes/IB_15304-237v_tEXrPi.png"/>
+      corresp="#elem_bq9ThC">
+      <graphic url="../lignes/IB_15304-237v_bq9ThC.png"/>
     </surface>
-    <surface xml:id="facs_vCeiha"
+    <surface xml:id="facs_scNMvF"
       points="2026,2156 2032,2121 2125,2121 2144,2108 2192,2121 2333,2121 2349,2108 2390,2121 2464,2121 2480,2108 2665,2121 2780,2108 2828,2121 2834,2156 2790,2172 2032,2169"
-      corresp="#elem_vCeiha">
-      <graphic url="../lignes/IB_15304-237v_vCeiha.png"/>
+      corresp="#elem_scNMvF">
+      <graphic url="../lignes/IB_15304-237v_scNMvF.png"/>
     </surface>
-    <surface xml:id="facs_nWIlGt"
+    <surface xml:id="facs_vq7X5S"
       points="2026,2217 2039,2163 2067,2175 2096,2163 2128,2175 2176,2163 2275,2175 2349,2163 2493,2172 2512,2159 2556,2172 2822,2166 2831,2210 2822,2230 2432,2217 2406,2233 2234,2233 2221,2220 2195,2233 2048,2233 2029,2220"
-      corresp="#elem_nWIlGt">
-      <graphic url="../lignes/IB_15304-237v_nWIlGt.png"/>
+      corresp="#elem_vq7X5S">
+      <graphic url="../lignes/IB_15304-237v_vq7X5S.png"/>
     </surface>
-    <surface xml:id="facs_w0qQVp"
+    <surface xml:id="facs_c1xhQ6"
       points="2029,2281 2032,2239 2067,2226 2099,2239 2202,2226 2339,2239 2355,2226 2429,2223 2496,2223 2508,2236 2812,2226 2838,2274 2812,2290 2735,2294 2636,2290 2624,2278 2486,2290 2211,2284 2198,2297 2032,2284"
-      corresp="#elem_w0qQVp">
-      <graphic url="../lignes/IB_15304-237v_w0qQVp.png"/>
+      corresp="#elem_c1xhQ6">
+      <graphic url="../lignes/IB_15304-237v_c1xhQ6.png"/>
     </surface>
-    <surface xml:id="facs_wlMDdb"
+    <surface xml:id="facs_xIJ1NF"
       points="2023,2345 2029,2306 2198,2306 2214,2290 2234,2306 2352,2306 2371,2290 2416,2306 2467,2290 2608,2290 2627,2306 2809,2306 2841,2294 2847,2345 2825,2361 2029,2351"
-      corresp="#elem_wlMDdb">
-      <graphic url="../lignes/IB_15304-237v_wlMDdb.png"/>
+      corresp="#elem_xIJ1NF">
+      <graphic url="../lignes/IB_15304-237v_xIJ1NF.png"/>
     </surface>
-    <surface xml:id="facs_zODXnn"
+    <surface xml:id="facs_lkRtPL"
       points="2007,2405 2019,2351 2051,2367 2182,2367 2202,2351 2221,2367 2422,2370 2451,2370 2467,2354 2726,2354 2742,2370 2825,2357 2834,2412 2748,2415 2726,2431 2457,2415 2163,2415 2103,2428 2087,2412 2010,2428"
-      corresp="#elem_zODXnn">
-      <graphic url="../lignes/IB_15304-237v_zODXnn.png"/>
+      corresp="#elem_lkRtPL">
+      <graphic url="../lignes/IB_15304-237v_lkRtPL.png"/>
     </surface>
-    <surface xml:id="facs_bmBihY"
+    <surface xml:id="facs_wPB4vM"
       points="2026,2472 2032,2425 2045,2418 2096,2418 2119,2434 2160,2418 2195,2418 2211,2434 2291,2418 2333,2434 2393,2418 2457,2418 2480,2434 2569,2418 2592,2434 2831,2418 2838,2472 2787,2492 2534,2479 2416,2479 2403,2492 2243,2492 2202,2479 2141,2492 2122,2479 2032,2479"
-      corresp="#elem_bmBihY">
-      <graphic url="../lignes/IB_15304-237v_bmBihY.png"/>
+      corresp="#elem_wPB4vM">
+      <graphic url="../lignes/IB_15304-237v_wPB4vM.png"/>
     </surface>
-    <surface xml:id="facs_i8TiXU"
+    <surface xml:id="facs_pGsV2y"
       points="2026,2533 2032,2492 2096,2485 2806,2485 2828,2492 2834,2533 2739,2546 2614,2536 2598,2549 2435,2549 2387,2536 2032,2549"
-      corresp="#elem_i8TiXU">
-      <graphic url="../lignes/IB_15304-237v_i8TiXU.png"/>
+      corresp="#elem_pGsV2y">
+      <graphic url="../lignes/IB_15304-237v_pGsV2y.png"/>
     </surface>
-    <surface xml:id="facs_aMSZZA"
+    <surface xml:id="facs_i0ntNW"
       points="2026,2594 2032,2552 2055,2546 2071,2559 2243,2559 2262,2543 2349,2543 2371,2559 2477,2559 2502,2543 2528,2559 2598,2559 2614,2543 2656,2543 2671,2559 2812,2552 2828,2594 2032,2603"
-      corresp="#elem_aMSZZA">
-      <graphic url="../lignes/IB_15304-237v_aMSZZA.png"/>
+      corresp="#elem_i0ntNW">
+      <graphic url="../lignes/IB_15304-237v_i0ntNW.png"/>
     </surface>
-    <surface xml:id="facs_ogIHUv"
+    <surface xml:id="facs_ahZStq"
       points="2029,2658 2032,2603 2071,2597 2812,2597 2831,2607 2841,2651 2831,2664 2032,2661"
-      corresp="#elem_ogIHUv">
-      <graphic url="../lignes/IB_15304-237v_ogIHUv.png"/>
+      corresp="#elem_ahZStq">
+      <graphic url="../lignes/IB_15304-237v_ahZStq.png"/>
     </surface>
-    <surface xml:id="facs_tGHHBq"
+    <surface xml:id="facs_fIVSn3"
       points="2026,2718 2029,2677 2045,2674 2218,2664 2288,2677 2361,2661 2429,2674 2441,2661 2524,2671 2560,2658 2585,2671 2822,2671 2831,2709 2822,2725 2029,2725"
-      corresp="#elem_tGHHBq">
-      <graphic url="../lignes/IB_15304-237v_tGHHBq.png"/>
+      corresp="#elem_fIVSn3">
+      <graphic url="../lignes/IB_15304-237v_fIVSn3.png"/>
     </surface>
-    <surface xml:id="facs_yAPQUM"
+    <surface xml:id="facs_brel6p"
       points="2026,2779 2029,2738 2045,2734 2141,2738 2186,2725 2218,2738 2230,2722 2381,2731 2432,2718 2566,2731 2652,2718 2831,2722 2841,2766 2767,2786 2467,2789 2432,2776 2403,2792 2243,2779 2029,2795"
-      corresp="#elem_yAPQUM">
-      <graphic url="../lignes/IB_15304-237v_yAPQUM.png"/>
+      corresp="#elem_brel6p">
+      <graphic url="../lignes/IB_15304-237v_brel6p.png"/>
     </surface>
-    <surface xml:id="facs_tN8oJ3"
+    <surface xml:id="facs_xKphyU"
       points="2023,2840 2026,2802 2064,2792 2192,2786 2243,2802 2326,2795 2339,2782 2563,2798 2719,2782 2780,2795 2815,2779 2841,2795 2850,2830 2831,2846 2646,2837 2563,2849 2301,2840 2285,2853 2029,2853"
-      corresp="#elem_tN8oJ3">
-      <graphic url="../lignes/IB_15304-237v_tN8oJ3.png"/>
+      corresp="#elem_xKphyU">
+      <graphic url="../lignes/IB_15304-237v_xKphyU.png"/>
     </surface>
-    <surface xml:id="facs_zIfPUB"
+    <surface xml:id="facs_qEbpqS"
       points="2019,2901 2023,2856 2119,2843 2419,2856 2451,2840 2496,2853 2582,2853 2598,2840 2614,2853 2646,2840 2774,2853 2796,2840 2828,2853 2838,2894 2732,2901 2713,2913 2640,2913 2598,2897 2432,2897 2393,2917 2365,2901 2243,2904 2230,2917 2163,2917 2147,2901 2115,2901 2099,2917 2023,2913"
-      corresp="#elem_zIfPUB">
-      <graphic url="../lignes/IB_15304-237v_zIfPUB.png"/>
+      corresp="#elem_qEbpqS">
+      <graphic url="../lignes/IB_15304-237v_qEbpqS.png"/>
     </surface>
-    <surface xml:id="facs_bfCPOq"
+    <surface xml:id="facs_baVkMm"
       points="2016,2961 2029,2913 2400,2923 2486,2910 2777,2910 2815,2920 2825,2955 2796,2971 2019,2971"
-      corresp="#elem_bfCPOq">
-      <graphic url="../lignes/IB_15304-237v_bfCPOq.png"/>
+      corresp="#elem_baVkMm">
+      <graphic url="../lignes/IB_15304-237v_baVkMm.png"/>
     </surface>
-    <surface xml:id="facs_lJ916t"
+    <surface xml:id="facs_bpVOfO"
       points="2013,3009 2016,2974 2272,2961 2381,2977 2493,2977 2524,2964 2697,2980 2783,2968 2809,2980 2819,3019 2694,3025 2675,3041 2620,3022 2601,3038 2534,3022 2461,3025 2448,3038 2301,3038 2282,3019 2166,3019 2151,3035 2016,3025"
-      corresp="#elem_lJ916t">
-      <graphic url="../lignes/IB_15304-237v_lJ916t.png"/>
+      corresp="#elem_bpVOfO">
+      <graphic url="../lignes/IB_15304-237v_bpVOfO.png"/>
     </surface>
-    <surface xml:id="facs_qFsex0"
+    <surface xml:id="facs_fTuy14"
       points="2010,3079 2016,3044 2032,3038 2128,3044 2160,3032 2214,3044 2234,3025 2272,3044 2448,3044 2531,3025 2598,3044 2617,3025 2675,3041 2697,3028 2834,3025 2841,3079 2834,3137 2774,3137 2735,3118 2697,3131 2678,3118 2572,3121 2553,3134 2537,3118 2502,3137 2454,3118 2397,3137 2355,3118 2250,3121 2224,3137 2189,3124 2170,3137 2016,3137"
-      corresp="#elem_qFsex0">
-      <graphic url="../lignes/IB_15304-237v_qFsex0.png"/>
+      corresp="#elem_fTuy14">
+      <graphic url="../lignes/IB_15304-237v_fTuy14.png"/>
     </surface>
   </facsimile>
   <text>
     <body>
       <div>
-        <p><pb n="237r" facs="test/IB_15304-237r.jpg"/><lb break="?" facs="#facs_bViHJH"
-            xml:id="elem_bViHJH"/>alos magos el çielo. Nin deuėos<lb break="?" facs="#facs_zSRq3d"
-            xml:id="elem_zSRq3d"/>dubdar poꝛ q̄ era pobꝛe el ⁊ ſus<lb break="?" facs="#facs_whnZPC"
-            xml:id="elem_whnZPC"/>parientes. Ca a el ſeruian todos<lb break="?" facs="#facs_m0QdAK"
-            xml:id="elem_m0QdAK"/>los angeles. E ninguno non ꝫ<lb break="?" facs="#facs_qVpmdw"
-            xml:id="elem_qVpmdw"/>dubdaria de aquel quele pareſ<lb break="?" facs="#facs_qL6uF7"
-            xml:id="elem_qL6uF7"/>çieſe pobꝛe q̄ue non fueſe el muy<lb break="?" facs="#facs_hsqrj9"
-            xml:id="elem_hsqrj9"/>noble. ſi vieſe q̄ muchos nobles<lb break="?" facs="#facs_yeaqu0"
-            xml:id="elem_yeaqu0"/>eſcuderos ⁊ much honrrados an<lb break="?" facs="#facs_dhNDg6"
-            xml:id="elem_dhNDg6"/>dauan cone. mas poꝛ q̄ ſe asi ꝫ<lb break="?" facs="#facs_fgkgFS"
-            xml:id="elem_fgkgFS"/>quiſo  deſpꝛeçiar eſte rey deſpꝛe<lb break="?" facs="#facs_gWVMLy"
-            xml:id="elem_gWVMLy"/>ciaronlo los ſoberuios ⁊ non ha<lb break="?" facs="#facs_aAyNFE"
-            xml:id="elem_aAyNFE"/>uia otro remedio contra la ſo<lb break="?" facs="#facs_puH0FX"
-            xml:id="elem_puH0FX"/>beruia ſinon grande humildat<lb break="?" facs="#facs_xp5R2Q"
-            xml:id="elem_xp5R2Q"/>Ca ſi el fiſico quiere guareſçer<lb break="?" facs="#facs_lq8nmt"
-            xml:id="elem_lq8nmt"/>dela dolençia conuiene q̄ ſienpꝛe<lb break="?" facs="#facs_dB9szv"
-            xml:id="elem_dB9szv"/>tome manera contraria. E poꝛ<lb break="?" facs="#facs_itIaJW"
-            xml:id="elem_itIaJW"/>quela dolencia del oṁe fuera<lb break="?" facs="#facs_aGzDDA"
-            xml:id="elem_aGzDDA"/>de ſoberuia. Conviene q̄ diese ꝫ<lb break="?" facs="#facs_xudo6f"
-            xml:id="elem_xudo6f"/>melezina de grant humildat. ꝫ<lb break="?" facs="#facs_bVEhhO"
-            xml:id="elem_bVEhhO"/>E eſta humildat grande moſtro<lb break="?" facs="#facs_gLW60G"
-            xml:id="elem_gLW60G"/>eſtenueſtro fiſico ⁊ nueſtro rey<lb break="?" facs="#facs_kfetMu"
-            xml:id="elem_kfetMu"/>enſu veſtir de veſtidura humil<lb break="?" facs="#facs_hkY3SJ"
-            xml:id="elem_hkY3SJ"/>doſa. Ca ſi dos conpaṅeros eſ<lb break="?" facs="#facs_werXhX"
-            xml:id="elem_werXhX"/>tudieſen en vno el vno muy ri<lb break="?" facs="#facs_vPobqC"
-            xml:id="elem_vPobqC"/>co ⁊ el oro muy pobꝛe grant hu<lb break="?" facs="#facs_rtaDt3"
-            xml:id="elem_rtaDt3"/>mildat moſtraria el rico enſe veſ<lb break="?" facs="#facs_m8a0gA"
-            xml:id="elem_m8a0gA"/>tir paṅo grueſo o vil poꝛſe fazer<lb break="?"
-            facs="#facs_mZDpvr" xml:id="elem_mZDpvr"/>ſemeiante aſu conpaṅero. E aſi<lb break="?"
-            facs="#facs_yQoqag" xml:id="elem_yQoqag"/>lo fizo el fijo de dios veſtio ſe<lb break="?"
-            facs="#facs_npvQPb" xml:id="elem_npvQPb"/>de paṅo ſemeiane coṅl tomando<lb break="?"
-            facs="#facs_hBlPvS" xml:id="elem_hBlPvS"/>tal veſtidura coṁo el ⁊ eſta fue ꝫ<lb
-            break="?" facs="#facs_zuRgTG" xml:id="elem_zuRgTG"/>la humildat. Epoꝛ eſſo dixo el ꝫ<lb
-            break="?" facs="#facs_m6PqOO" xml:id="elem_m6PqOO"/>apoſtol ad felipenſes al ſegundo<lb
-            break="?" facs="#facs_dDwSmO" xml:id="elem_dDwSmO"/>capitulo humillioſe el fijo de<lb
-            break="?" facs="#facs_siUeNw" xml:id="elem_siUeNw"/>dios tomando foꝛma de ſieruo<lb
-            break="?" facs="#facs_hwtm9t" xml:id="elem_hwtm9t"/>enſemeiança de oṁe ⁊ en habito<lb
-            break="?" facs="#facs_evKlKb" xml:id="elem_evKlKb"/>ſemeiante de humanidat. E co<lb
-            break="?" facs="#facs_hDFgWK" xml:id="elem_hDFgWK"/>ṁo quier q̄ en eſto moſtro el fi<lb
-            break="?" facs="#facs_h6kMmb" xml:id="elem_h6kMmb"/>io de dios la ſu gran humildat<lb
-            break="?" facs="#facs_mt71pE" xml:id="elem_mt71pE"/>.Enpero eſto fizo poꝛ tres coſas<lb
-            break="?" facs="#facs_hTGhRL" xml:id="elem_hTGhRL"/>la pꝛimera es poꝛ que meioꝛ noᷤ<lb
-            break="?" facs="#facs_cPy24F" xml:id="elem_cPy24F"/>reconçiliaſe con dios. la segu̇da<lb
-            break="?" facs="#facs_mzbLft" xml:id="elem_mzbLft"/>poꝛ q̄ nos meioꝛ libꝛaſe del diab<lb
-            break="?" facs="#facs_eUIogi" xml:id="elem_eUIogi"/>lo. la terçera poꝛ q̄ nos meior
-            en<cb break="?"/><fw type="foliation"><lb break="?" facs="#facs_yxzajF"
-              xml:id="elem_yxzajF"/>237</fw><fw type="titre_courant"/><lb break="?"
-            facs="#facs_dbE7It" xml:id="elem_dbE7It"/>·ꝑ· ij·<lb break="?" facs="#facs_nIIgFb"
-            xml:id="elem_nIIgFb"/>foꝛmaſe a eſcuſar el peccado. lo<lb break="?" facs="#facs_huMjUa"
-            xml:id="elem_huMjUa"/>pꝛimero pareſçe aſi. Ca el oṁe<lb break="?" facs="#facs_uwDvTs"
-            xml:id="elem_uwDvTs"/>peccador non podꝛia ſer reconci<lb break="?" facs="#facs_jOBG9E"
-            xml:id="elem_jOBG9E"/>liado con dios ſi non poꝛ ſacriffi<lb break="?"
-            facs="#facs_zCphSP" xml:id="elem_zCphSP"/>çio. E poꝛ ende el fijo de dios beno<lb
-            break="?" facs="#facs_fdVaTu" xml:id="elem_fdVaTu"/>a fazer ſacrifficio deſſi poꝛ el
-            oṁe<lb break="?" facs="#facs_keQH6A" xml:id="elem_keQH6A"/>ſegunt  q̄ dixo ſamuel
-            quandole<lb break="?" facs="#facs_ypEFRQ" xml:id="elem_ypEFRQ"/>pꝛeguntaron q̄ aq̄
-          benia. E el reſ<lb break="?" facs="#facs_ajh2Gu" xml:id="elem_ajh2Gu"/>pondio q̄ para
-          pꝛocurar paz ⁊ pa<lb break="?" facs="#facs_a4zrms" xml:id="elem_a4zrms"/>ra fazer
-          ſacrificio adios. Mas<lb break="?" facs="#facs_fgbdFN" xml:id="elem_fgbdFN"/>conuenia q̄
-          el fijo de dios para<lb break="?" facs="#facs_hZK6fk" xml:id="elem_hZK6fk"/>fazer eſte
-          ſacrifficio  q̄ entraſe ꝫ<lb break="?" facs="#facs_xo6O2e" xml:id="elem_xo6O2e"/>enla
-          ſacriſtanania a reueſtirſe la ſu<lb break="?" facs="#facs_eGpVZQ" xml:id="elem_eGpVZQ"
-          />caſulla ⁊ eſta ſancriſtania era<lb break="?" facs="#facs_nXM6QU" xml:id="elem_nXM6QU"
-          />el vientre de ſanta maria doſe re<lb break="?" facs="#facs_fvGGxd" xml:id="elem_fvGGxd"
-          />ueſtio dela nueſtra humanidat<lb break="?" facs="#facs_m00KOD" xml:id="elem_m00KOD"
-          />Enla qual ſegunt dize el apoſ<lb break="?" facs="#facs_kDiPJD" xml:id="elem_kDiPJD"/>ol
-          fue oydo poꝛſu reuerençia.E<lb break="?" facs="#facs_qCxMCw" xml:id="elem_qCxMCw"/>deſto
-          ay muy buena figura enel<lb break="?" facs="#facs_ws2t0Z" xml:id="elem_ws2t0Z"/>eſter alos
-          .xv.capitulos quando<lb break="?" facs="#facs_l5erwC" xml:id="elem_l5erwC"/>dize q̄ quando
-          la reyna eſtaua<lb break="?" facs="#facs_cLx9V6" xml:id="elem_cLx9V6"/>veſtida de habito
-          real llamo al<lb break="?" facs="#facs_dNdqYg" xml:id="elem_dNdqYg"/>gouerrnador de todas
-          las coſas<lb break="?" facs="#facs_hTEJLe" xml:id="elem_hTEJLe"/>⁊ al ſaluador del mundo ⁊
-          fue oy<lb break="?" facs="#facs_geBZ62" xml:id="elem_geBZ62"/>da entodo lo q̄ demando
-            aq̄lla<lb break="?" facs="#facs_uzEyMi" xml:id="elem_uzEyMi"/>veſtidura real era la
-            humanidat<lb break="?" facs="#facs_hj8g1r" xml:id="elem_hj8g1r"/>de ihu̇ xṗo. E llamola
-            veſtidura<lb break="?" facs="#facs_yAMtPO" xml:id="elem_yAMtPO"/>real poꝛ q̄la firmo
-          dios padꝛe ⁊<lb break="?" facs="#facs_xYv4st" xml:id="elem_xYv4st"/>poꝛ q̄la veſtio dios
-          fijo ⁊ poꝛ q̄<lb break="?" facs="#facs_vX6XaP" xml:id="elem_vX6XaP"/>la conſagro dios
-          eſpu̇ ſanto. E<lb break="?" facs="#facs_hWA7Ii" xml:id="elem_hWA7Ii"/>eſte ſacrificio fizo
-          ihu̇ xṗo eṅlꝫ<lb break="?" facs="#facs_hCvDYv" xml:id="elem_hCvDYv"/>ara dela cruz do
-          fue oydo con<lb break="?" facs="#facs_i4ggiR" xml:id="elem_i4ggiR"/>lagrimas poꝛ ſu
-          reuerençia are<lb break="?" facs="#facs_vF9ObW" xml:id="elem_vF9ObW"/>dep̄çion del oṁe.
-          lo ſegundo pa<lb break="?" facs="#facs_lPKHgU" xml:id="elem_lPKHgU"/>reſçe aſi. Ca ninguno
-          nō podia<lb break="?" facs="#facs_hQJhPm" xml:id="elem_hQJhPm"/>libꝛar el oṁe del diablo
-            ſinon<lb break="?" facs="#facs_xRmArt" xml:id="elem_xRmArt"/>vençiendolo. E poꝛ q̄ non
-            hauia<lb break="?" facs="#facs_jINWKR" xml:id="elem_jINWKR"/>poderio enla tierra q̄lo
-            pudieſe<lb break="?" facs="#facs_fa3Ylc" xml:id="elem_fa3Ylc"/>vençer ſegunt q̄ dize
-            iob:poꝛen<lb break="?" facs="#facs_mbMSrV" xml:id="elem_mbMSrV"/>de fue enbiado el
-          fuerte luchadoꝛ<lb break="?" facs="#facs_x8un20" xml:id="elem_x8un20"/>del cielo fijo de
-          dios q̄ luchaſe cō<lb break="?" facs="#facs_g1RWVZ" xml:id="elem_g1RWVZ"/>el ⁊lo
-          vençieſe. E poꝛ q̄ el diablo<lb break="?" facs="#facs_wLjqCC" xml:id="elem_wLjqCC"/>non
-          oſara entrar coṅl enla ꝫ<lb break="?" facs="#facs_kCcQFf" xml:id="elem_kCcQFf"/>lucha
-          ſilo conoçiera comunole<pb n="237v" facs="test/IB_15304-237v.jpg"/><lb break="?"
-            facs="#facs_zhMrz1" xml:id="elem_zhMrz1"/>de ſe reueſtir de otro habito en q̄ le<lb
-            break="?" facs="#facs_iIHFlJ" xml:id="elem_iIHFlJ"/>non pudieſe conoſcer. E poꝛ eſo
-            di<lb break="?" facs="#facs_uIPB7C" xml:id="elem_uIPB7C"/>xo dios padꝛe enel terçero
-            libꝛode<lb break="?" facs="#facs_gtx7nS" xml:id="elem_gtx7nS"/>los reyes alos catoꝛze
-            capituloᷤ<lb break="?" facs="#facs_nMbj0s" xml:id="elem_nMbj0s"/>leuantate ⁊ muda tu
-          habito poꝛ<lb break="?" facs="#facs_cn05Gk" xml:id="elem_cn05Gk"/>q̄ nonſeas conoſcido. E
-          eſto fizo<lb break="?" facs="#facs_ybZyOj" xml:id="elem_ybZyOj"/>el fijo de dios poꝛ q̄
-          cuydaſe el dia<lb break="?" facs="#facs_iByMie" xml:id="elem_iByMie"/>blo q̄ era puro
-          hombꝛe ⁊ acome<lb break="?" facs="#facs_pv48BT" xml:id="elem_pv48BT"/>tiendole fueſe
-          vencido del. E fizo<lb break="?" facs="#facs_s7ECyc" xml:id="elem_s7ECyc"/>dios padꝛe aſi
-          coṁo faze el peſ<lb break="?" facs="#facs_zxYxe6" xml:id="elem_zxYxe6"/>cadoꝛ q̄ pone
-          carne enl anzuelo<lb break="?" facs="#facs_iIxqbx" xml:id="elem_iIxqbx"/>con q̄ le encubꝛe
-          ⁊aſi toma el peçe<lb break="?" facs="#facs_dixA64" xml:id="elem_dixA64"/>aſi lo dixo iob
-          coṁo podꝛas to<lb break="?" facs="#facs_kCgzFl" xml:id="elem_kCgzFl"/>mar alematan entu
-          anzuelo ꝫ<lb break="?" facs="#facs_zTzO54" xml:id="elem_zTzO54"/>pone euel carrne. E aſi
-          fizo. ihu̇<lb break="?" facs="#facs_cHoYNL" xml:id="elem_cHoYNL"/>xṗo moſtrole la carne ⁊
-            encubꝛio<lb break="?" facs="#facs_gHJCSn" xml:id="elem_gHJCSn"/>el anzuelo dela
-          diuinidat con<lb break="?" facs="#facs_urIShA" xml:id="elem_urIShA"/>q̄ tomo aldiablo
-          leuiatan. E poꝛ<lb break="?" facs="#facs_v55js4" xml:id="elem_v55js4"/>ende quando algunas
-            ſeṅales<lb break="?" facs="#facs_yZOYir" xml:id="elem_yZOYir"/>dela diuinidat pareſçian
-          en ihu̇<lb break="?" facs="#facs_lK6LpW" xml:id="elem_lK6LpW"/>xṗo luego las encubꝛie cō
-            ſeṅales<lb break="?" facs="#facs_y4o5R8" xml:id="elem_y4o5R8"/>de humanidataſi coṁo
-          qn̈do naſ<lb break="?" facs="#facs_isalq0" xml:id="elem_isalq0"/>çio la virgen ⁊ ſalio del
-            ſepulcroc<lb break="?" facs="#facs_gpRUDc" xml:id="elem_gpRUDc"/>cerrado coṁo quiſo
-          luego ſer<lb break="?" facs="#facs_iCYQ0F" xml:id="elem_iCYQ0F"/>echado enel peſebꝛe coṁo
-            verda<lb break="?" facs="#facs_sTXQtU" xml:id="elem_sTXQtU"/>dero oṁe. E quando murio
-          lo q̇ſo<lb break="?" facs="#facs_tXWsOs" xml:id="elem_tXWsOs"/>ſer pueſto enel ſepulro ⁊
-            quan<lb break="?" facs="#facs_aNE7lD" xml:id="elem_aNE7lD"/>do fue repꝛeſentado enel
-            çieloꝫ<lb break="?" facs="#facs_tpm9bG" xml:id="elem_tpm9bG"/>poꝛ el eſtrella aſi coṁo
-          dios lue<lb break="?" facs="#facs_vUOGcc" xml:id="elem_vUOGcc"/>go fuyo de herodes aſi
-          coṁo ho<lb break="?" facs="#facs_uk3Oj6" xml:id="elem_uk3Oj6"/>me. E qn̈do dio teſtimonio
-            dioᷤ<lb break="?" facs="#facs_jFVjyH" xml:id="elem_jFVjyH"/>padꝛe enel bautiſmo q̄ era
-          ſu ꝫ<lb break="?" facs="#facs_kGoFZI" xml:id="elem_kGoFZI"/>fijo verdadero dios luego
-            quiſo<lb break="?" facs="#facs_auNy7K" xml:id="elem_auNy7K"/>ſer bautizado aſi coṁo
-            verda<lb break="?" facs="#facs_wOfb88" xml:id="elem_wOfb88"/>dero oṁe E qn̈do ayuno
-            q̄renta<lb break="?" facs="#facs_lnXobi" xml:id="elem_lnXobi"/>dias emel diſierto ⁊ non
-            comio<lb break="?" facs="#facs_x1WwpZ" xml:id="elem_x1WwpZ"/>como dios luego quiſo
-            auer<lb break="?" facs="#facs_i9ipyB" xml:id="elem_i9ipyB"/>fanbꝛe como verdadero oṁe ⁊
-            cō<lb break="?" facs="#facs_hqBzqN" xml:id="elem_hqBzqN"/>eſtas maneras encubrio al
-            diab<lb break="?" facs="#facs_oCzpWP" xml:id="elem_oCzpWP"/>lo la diuinidat. lo terçero
-            pareſ<lb break="?" facs="#facs_lQd7r4" xml:id="elem_lQd7r4"/>aſi<lb break="?"
-            facs="#facs_tRpd6I" xml:id="elem_tRpd6I"/>çe. Ca dizen los oṁes q̄ non po<lb break="?"
-            facs="#facs_bvbKP7" xml:id="elem_bvbKP7"/>ḋen traer veſtidura de oṁe nin<lb break="?"
-            facs="#facs_xFTOJT" xml:id="elem_xFTOJT"/>carne humanal ſin peccado. E<lb break="?"
-            facs="#facs_oJxiek" xml:id="elem_oJxiek"/>porꝛ ende el fijo de dios contraꝫ<cb break="?"
-            /><fw type="titre_courant"/><lb break="?" facs="#facs_xBDMPe" xml:id="elem_xBDMPe"
-          />·li°· iij·<lb break="?" facs="#facs_s4UYiU" xml:id="elem_s4UYiU"/>eſtos  ſe veſtio oſe
-          quiſo veſtir la<lb break="?" facs="#facs_hW5Cek" xml:id="elem_hW5Cek"/>nueſtra humanidat ⁊
-          traxola ſi<lb break="?" facs="#facs_prcEqn" xml:id="elem_prcEqn"/>enpꝛe ſin peccado para
-          dar enxė<lb break="?" facs="#facs_fRRzzT" xml:id="elem_fRRzzT"/>plo alos oṁes q̄ pueden
-            traer<lb break="?" facs="#facs_y6w7kr" xml:id="elem_y6w7kr"/>eſta veſtidura ⁊ quardarla
-          de pec<lb break="?" facs="#facs_xwEif1" xml:id="elem_xwEif1"/>cado. E poꝛ eſo dixo el
-          apoſtol ad<lb break="?" facs="#facs_v8ugtf" xml:id="elem_v8ugtf"/>felipenſes al ſegundo
-            capitulo<lb break="?" facs="#facs_a601A5" xml:id="elem_a601A5"/>.amygos eſo meſmo ſentid
-          en boᷤ<lb break="?" facs="#facs_yykrq5" xml:id="elem_yykrq5"/>q̄ ſentides en ihu̇ xṗo el
-          qual eſ<lb break="?" facs="#facs_hknJqb" xml:id="elem_hknJqb"/>tando enla foꝛma de dios
-          fue fal<lb break="?" facs="#facs_xdjaGx" xml:id="elem_xdjaGx"/>lado enveſtidura de oṁe
-          fin pec<lb break="?" facs="#facs_s8ZDpA" xml:id="elem_s8ZDpA"/>cado. E moſtronos el poꝛ ſu
-            vida<lb break="?" facs="#facs_fR83Vb" xml:id="elem_fR83Vb"/>⁊ poꝛ ſu dotrina q̄
-            leuantaſemos<lb break="?" facs="#facs_aHosLb" xml:id="elem_aHosLb"/>eſta veſtidiura de
-          tierra poꝛ q̄la<lb break="?" facs="#facs_en2yE8" xml:id="elem_en2yE8"/>non enſuziaſemos.
-          Ca quando el<lb break="?" facs="#facs_oQbq5u" xml:id="elem_oQbq5u"/>cuerpo oel coꝛaçon
-          anda poꝛla ti<lb break="?" facs="#facs_gzqabl" xml:id="elem_gzqabl"/>erra con cobdiçia
-          delas coſas ten<lb break="?" facs="#facs_wAEazX" xml:id="elem_wAEazX"/>poꝛales enſuziaſe.
-          E moſtronos ꝫ<lb break="?" facs="#facs_fBgZrW" xml:id="elem_fBgZrW"/>ſacudirle con pertiga
-          de pꝛemia ꝫ<lb break="?" facs="#facs_wL6wSD" xml:id="elem_wL6wSD"/>poꝛ q̄ non tomaſe poluo
-          nin po<lb break="?" facs="#facs_tyq24c" xml:id="elem_tyq24c"/>lilla ⁊ moſtronos ſemeiar
-            alos<lb break="?" facs="#facs_fre1Sv" xml:id="elem_fre1Sv"/>angeles ⁊ non alas beſtias.
-          Ca aſi<lb break="?" facs="#facs_cnl7sT" xml:id="elem_cnl7sT"/>coṁo poꝛla ſuziedat el oṁe
-            ſeme<lb break="?" facs="#facs_c6UJYZ" xml:id="elem_c6UJYZ"/>ia alas beſtias quando toma
-            coſ<lb break="?" facs="#facs_l1gJJT" xml:id="elem_l1gJJT"/>tunbꝛe de beſtias. Eaſi coṁo
-            poꝛla<lb break="?" facs="#facs_mlUt93" xml:id="elem_mlUt93"/>ſuziedat el oṁe. ſemeia al
-            puerco<lb break="?" facs="#facs_bAu3YP" xml:id="elem_bAu3YP"/>⁊ poꝛla ſaṅa al can ⁊poꝛ
-          el robo al<lb break="?" facs="#facs_tEXrPi" xml:id="elem_tEXrPi"/>lobo ⁊ poꝛ el engaṅo
-          ala gulpeia<lb break="?" facs="#facs_vCeiha" xml:id="elem_vCeiha"/>⁊ poꝛla tragonia al
-          oſſo. E de to<lb break="?" facs="#facs_nWIlGt" xml:id="elem_nWIlGt"/>das eſtas coſas malas
-          nos enſe<lb break="?" facs="#facs_w0qQVp" xml:id="elem_w0qQVp"/>ṅo aredꝛarnos aſi como de
-            malas<lb break="?" facs="#facs_wlMDdb" xml:id="elem_wlMDdb"/>coſtunbꝛes ⁊ de malas
-            veſtiduras<lb break="?" facs="#facs_zODXnn" xml:id="elem_zODXnn"/>.lo tercero moſtro la
-          ſu grant cari<lb break="?" facs="#facs_bmBihY" xml:id="elem_bmBihY"/>dat quando quiſo
-          entrar enla ba<lb break="?" facs="#facs_i8TiXU" xml:id="elem_i8TiXU"/>talla poꝛ nos. E poꝛ
-          eſo dixo enla<lb break="?" facs="#facs_aMSZZA" xml:id="elem_aMSZZA"/>actoꝛidat ſobꝛedicha.
-          El rey de ir<lb break="?" facs="#facs_ogIHUv" xml:id="elem_ogIHUv"/>rael mudando ſu habito
-          entro eṅl<lb break="?" facs="#facs_tGHHBq" xml:id="elem_tGHHBq"/>canpo. do moſtrola ſu
-          grant beni<lb break="?" facs="#facs_yAPQUM" xml:id="elem_yAPQUM"/>gnjdat do quiſo entrar
-          alidiar cō<lb break="?" facs="#facs_tN8oJ3" xml:id="elem_tN8oJ3"/>el diablo poꝛ ſacar
-          amos de ſu cati<lb break="?" facs="#facs_zIfPUB" xml:id="elem_zIfPUB"/>uerio. E non podia
-          ninguno ꝫ<lb break="?" facs="#facs_bfCPOq" xml:id="elem_bfCPOq"/>moſtrar tan grant
-          caridat. Ca<lb break="?" facs="#facs_lJ916t" xml:id="elem_lJ916t"/>maguera q̄ algunt rey
-            manſa<lb break="?" facs="#facs_qFsex0" xml:id="elem_qFsex0"/>mente ſe aya con ſus
-          ſubdictos</p>
+        <p><pb n="237r" facs="test/IB_15304-237r.jpg"/>
+          <lb break="?" facs="#facs_k6HoNI" xml:id="elem_k6HoNI"/>alos magos el çielo. Nin deuėos
+          <lb break="?" facs="#facs_n0q4CU" xml:id="elem_n0q4CU"/>dubdar poꝛ q̄ era pobꝛe el ⁊ ſus
+          <lb break="?" facs="#facs_tbd3fZ" xml:id="elem_tbd3fZ"/>parientes. Ca a el ſeruian todos
+          <lb break="?" facs="#facs_vlRRNR" xml:id="elem_vlRRNR"/>los angeles. E ninguno non ꝫ
+          <lb break="?" facs="#facs_s6GbPx" xml:id="elem_s6GbPx"/>dubdaria de aquel quele pareſ
+          <lb break="?" facs="#facs_xekR6e" xml:id="elem_xekR6e"/>çieſe pobꝛe q̄ue non fueſe el muy
+          <lb break="?" facs="#facs_n2PZWA" xml:id="elem_n2PZWA"/>noble. ſi vieſe q̄ muchos nobles
+          <lb break="?" facs="#facs_bILjbV" xml:id="elem_bILjbV"/>eſcuderos ⁊ much honrrados an
+          <lb break="?" facs="#facs_ztlwgP" xml:id="elem_ztlwgP"/>dauan cone. mas poꝛ q̄ ſe asi ꝫ
+          <lb break="?" facs="#facs_sFnMiR" xml:id="elem_sFnMiR"/>quiſo  deſpꝛeçiar eſte rey deſpꝛe
+          <lb break="?" facs="#facs_ydZWjO" xml:id="elem_ydZWjO"/>ciaronlo los ſoberuios ⁊ non ha
+          <lb break="?" facs="#facs_uescXt" xml:id="elem_uescXt"/>uia otro remedio contra la ſo
+          <lb break="?" facs="#facs_t8YVSK" xml:id="elem_t8YVSK"/>beruia ſinon grande humildat
+          <lb break="?" facs="#facs_rigy48" xml:id="elem_rigy48"/>Ca ſi el fiſico quiere guareſçer
+          <lb break="?" facs="#facs_wz6XcQ" xml:id="elem_wz6XcQ"/>dela dolençia conuiene q̄ ſienpꝛe
+          <lb break="?" facs="#facs_pr8nOM" xml:id="elem_pr8nOM"/>tome manera contraria. E poꝛ
+          <lb break="?" facs="#facs_vyoEjW" xml:id="elem_vyoEjW"/>quela dolencia del oṁe fuera
+          <lb break="?" facs="#facs_iG2ek6" xml:id="elem_iG2ek6"/>de ſoberuia. Conviene q̄ diese ꝫ
+          <lb break="?" facs="#facs_h3XUKp" xml:id="elem_h3XUKp"/>melezina de grant humildat. ꝫ
+          <lb break="?" facs="#facs_iPXTzv" xml:id="elem_iPXTzv"/>E eſta humildat grande moſtro
+          <lb break="?" facs="#facs_fZxlMZ" xml:id="elem_fZxlMZ"/>eſtenueſtro fiſico ⁊ nueſtro rey
+          <lb break="?" facs="#facs_m1yCeT" xml:id="elem_m1yCeT"/>enſu veſtir de veſtidura humil
+          <lb break="?" facs="#facs_nNfbAA" xml:id="elem_nNfbAA"/>doſa. Ca ſi dos conpaṅeros eſ
+          <lb break="?" facs="#facs_i4f8aW" xml:id="elem_i4f8aW"/>tudieſen en vno el vno muy ri
+          <lb break="?" facs="#facs_pwPngu" xml:id="elem_pwPngu"/>co ⁊ el oro muy pobꝛe grant hu
+          <lb break="?" facs="#facs_wXjEwU" xml:id="elem_wXjEwU"/>mildat moſtraria el rico enſe veſ
+          <lb break="?" facs="#facs_bcWQL5" xml:id="elem_bcWQL5"/>tir paṅo grueſo o vil poꝛſe fazer
+          <lb break="?" facs="#facs_cJJLzQ" xml:id="elem_cJJLzQ"/>ſemeiante aſu conpaṅero. E aſi
+          <lb break="?" facs="#facs_riXqA3" xml:id="elem_riXqA3"/>lo fizo el fijo de dios veſtio ſe
+          <lb break="?" facs="#facs_n0xvYn" xml:id="elem_n0xvYn"/>de paṅo ſemeiane coṅl tomando
+          <lb break="?" facs="#facs_gOfifW" xml:id="elem_gOfifW"/>tal veſtidura coṁo el ⁊ eſta fue ꝫ
+          <lb break="?" facs="#facs_mpNSVg" xml:id="elem_mpNSVg"/>la humildat. Epoꝛ eſſo dixo el ꝫ
+          <lb break="?" facs="#facs_lPklrY" xml:id="elem_lPklrY"/>apoſtol ad felipenſes al ſegundo
+          <lb break="?" facs="#facs_qW5iNY" xml:id="elem_qW5iNY"/>capitulo humillioſe el fijo de
+          <lb break="?" facs="#facs_mNVsEZ" xml:id="elem_mNVsEZ"/>dios tomando foꝛma de ſieruo
+          <lb break="?" facs="#facs_oH2gKL" xml:id="elem_oH2gKL"/>enſemeiança de oṁe ⁊ en habito
+          <lb break="?" facs="#facs_nZPrzc" xml:id="elem_nZPrzc"/>ſemeiante de humanidat. E co
+          <lb break="?" facs="#facs_ntDUm5" xml:id="elem_ntDUm5"/>ṁo quier q̄ en eſto moſtro el fi
+          <lb break="?" facs="#facs_fxqqOE" xml:id="elem_fxqqOE"/>io de dios la ſu gran humildat
+          <lb break="?" facs="#facs_w7FOVz" xml:id="elem_w7FOVz"/>.Enpero eſto fizo poꝛ tres coſas
+          <lb break="?" facs="#facs_xCtXik" xml:id="elem_xCtXik"/>la pꝛimera es poꝛ que meioꝛ noᷤ
+          <lb break="?" facs="#facs_wxGFfK" xml:id="elem_wxGFfK"/>reconçiliaſe con dios. la segu̇da
+          <lb break="?" facs="#facs_nsouuc" xml:id="elem_nsouuc"/>poꝛ q̄ nos meioꝛ libꝛaſe del diab
+          <lb break="?" facs="#facs_kmqh5f" xml:id="elem_kmqh5f"/>lo. la terçera poꝛ q̄ nos meior
+            en<cb break="?"/><fw type="foliation">
+            <lb break="?" facs="#facs_aOAcjk" xml:id="elem_aOAcjk"/>237</fw><fw type="titre_courant"/>
+          <lb break="?" facs="#facs_kdgDJu" xml:id="elem_kdgDJu"/>·ꝑ· ij·
+          <lb break="?" facs="#facs_w5vk33" xml:id="elem_w5vk33"/>foꝛmaſe a eſcuſar el peccado. lo
+          <lb break="?" facs="#facs_mblUvj" xml:id="elem_mblUvj"/>pꝛimero pareſçe aſi. Ca el oṁe
+          <lb break="?" facs="#facs_etF01I" xml:id="elem_etF01I"/>peccador non podꝛia ſer reconci
+          <lb break="?" facs="#facs_qDOMwi" xml:id="elem_qDOMwi"/>liado con dios ſi non poꝛ ſacriffi
+          <lb break="?" facs="#facs_ntHjH0" xml:id="elem_ntHjH0"/>çio. E poꝛ ende el fijo de dios beno
+          <lb break="?" facs="#facs_uowBWh" xml:id="elem_uowBWh"/>a fazer ſacrifficio deſſi poꝛ el oṁe
+          <lb break="?" facs="#facs_eMx8Jy" xml:id="elem_eMx8Jy"/>ſegunt  q̄ dixo ſamuel quandole
+          <lb break="?" facs="#facs_b0V9QT" xml:id="elem_b0V9QT"/>pꝛeguntaron q̄ aq̄ benia. E el reſ
+          <lb break="?" facs="#facs_iRHsm9" xml:id="elem_iRHsm9"/>pondio q̄ para pꝛocurar paz ⁊ pa
+          <lb break="?" facs="#facs_bOyTmf" xml:id="elem_bOyTmf"/>ra fazer ſacrificio adios. Mas
+          <lb break="?" facs="#facs_dNmVal" xml:id="elem_dNmVal"/>conuenia q̄ el fijo de dios para
+          <lb break="?" facs="#facs_mxwIuG" xml:id="elem_mxwIuG"/>fazer eſte ſacrifficio  q̄ entraſe ꝫ
+          <lb break="?" facs="#facs_hrqpLZ" xml:id="elem_hrqpLZ"/>enla ſacriſtanania a reueſtirſe la ſu
+          <lb break="?" facs="#facs_hEsavU" xml:id="elem_hEsavU"/>caſulla ⁊ eſta ſancriſtania era
+          <lb break="?" facs="#facs_peUi9a" xml:id="elem_peUi9a"/>el vientre de ſanta maria doſe re
+          <lb break="?" facs="#facs_puHWZR" xml:id="elem_puHWZR"/>ueſtio dela nueſtra humanidat
+          <lb break="?" facs="#facs_tbl1L2" xml:id="elem_tbl1L2"/>Enla qual ſegunt dize el apoſ
+          <lb break="?" facs="#facs_nyev4N" xml:id="elem_nyev4N"/>ol fue oydo poꝛſu reuerençia.E
+          <lb break="?" facs="#facs_cLMksw" xml:id="elem_cLMksw"/>deſto ay muy buena figura enel
+          <lb break="?" facs="#facs_fBmZhd" xml:id="elem_fBmZhd"/>eſter alos .xv.capitulos quando
+          <lb break="?" facs="#facs_v0dPug" xml:id="elem_v0dPug"/>dize q̄ quando la reyna eſtaua
+          <lb break="?" facs="#facs_vVDTwS" xml:id="elem_vVDTwS"/>veſtida de habito real llamo al
+          <lb break="?" facs="#facs_q2epad" xml:id="elem_q2epad"/>gouerrnador de todas las coſas
+          <lb break="?" facs="#facs_esXyVp" xml:id="elem_esXyVp"/>⁊ al ſaluador del mundo ⁊ fue oy
+          <lb break="?" facs="#facs_ww3TfP" xml:id="elem_ww3TfP"/>da entodo lo q̄ demando aq̄lla
+          <lb break="?" facs="#facs_wl7Oke" xml:id="elem_wl7Oke"/>veſtidura real era la humanidat
+          <lb break="?" facs="#facs_eeprpc" xml:id="elem_eeprpc"/>de ihu̇ xṗo. E llamola veſtidura
+          <lb break="?" facs="#facs_zjrLKq" xml:id="elem_zjrLKq"/>real poꝛ q̄la firmo dios padꝛe ⁊
+          <lb break="?" facs="#facs_rDZyQc" xml:id="elem_rDZyQc"/>poꝛ q̄la veſtio dios fijo ⁊ poꝛ q̄
+          <lb break="?" facs="#facs_eRXtM0" xml:id="elem_eRXtM0"/>la conſagro dios eſpu̇ ſanto. E
+          <lb break="?" facs="#facs_gAasF0" xml:id="elem_gAasF0"/>eſte ſacrificio fizo ihu̇ xṗo eṅlꝫ
+          <lb break="?" facs="#facs_yeCJL3" xml:id="elem_yeCJL3"/>ara dela cruz do fue oydo con
+          <lb break="?" facs="#facs_zI8E4R" xml:id="elem_zI8E4R"/>lagrimas poꝛ ſu reuerençia are
+          <lb break="?" facs="#facs_znnzXy" xml:id="elem_znnzXy"/>dep̄çion del oṁe. lo ſegundo pa
+          <lb break="?" facs="#facs_e9dVZb" xml:id="elem_e9dVZb"/>reſçe aſi. Ca ninguno nō podia
+          <lb break="?" facs="#facs_wbE0Ul" xml:id="elem_wbE0Ul"/>libꝛar el oṁe del diablo ſinon
+          <lb break="?" facs="#facs_b6va3j" xml:id="elem_b6va3j"/>vençiendolo. E poꝛ q̄ non hauia
+          <lb break="?" facs="#facs_gUJzQB" xml:id="elem_gUJzQB"/>poderio enla tierra q̄lo pudieſe
+          <lb break="?" facs="#facs_xXehPP" xml:id="elem_xXehPP"/>vençer ſegunt q̄ dize iob:poꝛen
+          <lb break="?" facs="#facs_xj1c0y" xml:id="elem_xj1c0y"/>de fue enbiado el fuerte luchadoꝛ
+          <lb break="?" facs="#facs_faWc2n" xml:id="elem_faWc2n"/>del cielo fijo de dios q̄ luchaſe cō
+          <lb break="?" facs="#facs_q0yVzp" xml:id="elem_q0yVzp"/>el ⁊lo vençieſe. E poꝛ q̄ el diablo
+          <lb break="?" facs="#facs_nM8zSv" xml:id="elem_nM8zSv"/>non oſara entrar coṅl enla ꝫ
+          <lb break="?" facs="#facs_gWRT6d" xml:id="elem_gWRT6d"/>lucha ſilo conoçiera comunole<pb
+            n="237v" facs="test/IB_15304-237v.jpg"/>
+          <lb break="?" facs="#facs_fb9lRM" xml:id="elem_fb9lRM"/>de ſe reueſtir de otro habito en
+          q̄ le
+          <lb break="?" facs="#facs_e6DttD" xml:id="elem_e6DttD"/>non pudieſe conoſcer. E poꝛ eſo di
+          <lb break="?" facs="#facs_zbgpaT" xml:id="elem_zbgpaT"/>xo dios padꝛe enel terçero libꝛode
+          <lb break="?" facs="#facs_wPpA7u" xml:id="elem_wPpA7u"/>los reyes alos catoꝛze capituloᷤ
+          <lb break="?" facs="#facs_qlUbMc" xml:id="elem_qlUbMc"/>leuantate ⁊ muda tu habito poꝛ
+          <lb break="?" facs="#facs_vuQqrp" xml:id="elem_vuQqrp"/>q̄ nonſeas conoſcido. E eſto fizo
+          <lb break="?" facs="#facs_arcee0" xml:id="elem_arcee0"/>el fijo de dios poꝛ q̄ cuydaſe el dia
+          <lb break="?" facs="#facs_xugGnF" xml:id="elem_xugGnF"/>blo q̄ era puro hombꝛe ⁊ acome
+          <lb break="?" facs="#facs_tbVEsI" xml:id="elem_tbVEsI"/>tiendole fueſe vencido del. E fizo
+          <lb break="?" facs="#facs_nngZgv" xml:id="elem_nngZgv"/>dios padꝛe aſi coṁo faze el peſ
+          <lb break="?" facs="#facs_t7vQgA" xml:id="elem_t7vQgA"/>cadoꝛ q̄ pone carne enl anzuelo
+          <lb break="?" facs="#facs_sZTgD7" xml:id="elem_sZTgD7"/>con q̄ le encubꝛe ⁊aſi toma el peçe
+          <lb break="?" facs="#facs_pwIJaT" xml:id="elem_pwIJaT"/>aſi lo dixo iob coṁo podꝛas to
+          <lb break="?" facs="#facs_dO7Ofj" xml:id="elem_dO7Ofj"/>mar alematan entu anzuelo ꝫ
+          <lb break="?" facs="#facs_jJahmD" xml:id="elem_jJahmD"/>pone euel carrne. E aſi fizo. ihu̇
+          <lb break="?" facs="#facs_qnZmcC" xml:id="elem_qnZmcC"/>xṗo moſtrole la carne ⁊ encubꝛio
+          <lb break="?" facs="#facs_qEXbDh" xml:id="elem_qEXbDh"/>el anzuelo dela diuinidat con
+          <lb break="?" facs="#facs_leNpyw" xml:id="elem_leNpyw"/>q̄ tomo aldiablo leuiatan. E poꝛ
+          <lb break="?" facs="#facs_rq0NIC" xml:id="elem_rq0NIC"/>ende quando algunas ſeṅales
+          <lb break="?" facs="#facs_y6tPfQ" xml:id="elem_y6tPfQ"/>dela diuinidat pareſçian en ihu̇
+          <lb break="?" facs="#facs_tjIBer" xml:id="elem_tjIBer"/>xṗo luego las encubꝛie cō ſeṅales
+          <lb break="?" facs="#facs_pq0HS3" xml:id="elem_pq0HS3"/>de humanidataſi coṁo qn̈do naſ
+          <lb break="?" facs="#facs_g0lWaY" xml:id="elem_g0lWaY"/>çio la virgen ⁊ ſalio del ſepulcroc
+          <lb break="?" facs="#facs_eRJRfg" xml:id="elem_eRJRfg"/>cerrado coṁo quiſo luego ſer
+          <lb break="?" facs="#facs_k5ecOf" xml:id="elem_k5ecOf"/>echado enel peſebꝛe coṁo verda
+          <lb break="?" facs="#facs_fnTbk0" xml:id="elem_fnTbk0"/>dero oṁe. E quando murio lo q̇ſo
+          <lb break="?" facs="#facs_d4AkOF" xml:id="elem_d4AkOF"/>ſer pueſto enel ſepulro ⁊ quan
+          <lb break="?" facs="#facs_hWJxIf" xml:id="elem_hWJxIf"/>do fue repꝛeſentado enel çieloꝫ
+          <lb break="?" facs="#facs_hZjU2y" xml:id="elem_hZjU2y"/>poꝛ el eſtrella aſi coṁo dios lue
+          <lb break="?" facs="#facs_kJr6Z7" xml:id="elem_kJr6Z7"/>go fuyo de herodes aſi coṁo ho
+          <lb break="?" facs="#facs_sdJKCK" xml:id="elem_sdJKCK"/>me. E qn̈do dio teſtimonio dioᷤ
+          <lb break="?" facs="#facs_sHHWDy" xml:id="elem_sHHWDy"/>padꝛe enel bautiſmo q̄ era ſu ꝫ
+          <lb break="?" facs="#facs_ykLHQx" xml:id="elem_ykLHQx"/>fijo verdadero dios luego quiſo
+          <lb break="?" facs="#facs_b9nFIn" xml:id="elem_b9nFIn"/>ſer bautizado aſi coṁo verda
+          <lb break="?" facs="#facs_vmekze" xml:id="elem_vmekze"/>dero oṁe E qn̈do ayuno q̄renta
+          <lb break="?" facs="#facs_coX7jY" xml:id="elem_coX7jY"/>dias emel diſierto ⁊ non comio
+          <lb break="?" facs="#facs_ixJb1Y" xml:id="elem_ixJb1Y"/>como dios luego quiſo auer
+          <lb break="?" facs="#facs_w9UwZr" xml:id="elem_w9UwZr"/>fanbꝛe como verdadero oṁe ⁊ cō
+          <lb break="?" facs="#facs_bnXzbp" xml:id="elem_bnXzbp"/>eſtas maneras encubrio al diab
+          <lb break="?" facs="#facs_bsgwHL" xml:id="elem_bsgwHL"/>lo la diuinidat. lo terçero pareſ
+          <lb break="?" facs="#facs_pHSqwK" xml:id="elem_pHSqwK"/>aſi
+          <lb break="?" facs="#facs_xJdd9N" xml:id="elem_xJdd9N"/>çe. Ca dizen los oṁes q̄ non po
+          <lb break="?" facs="#facs_kDBnj1" xml:id="elem_kDBnj1"/>ḋen traer veſtidura de oṁe nin
+          <lb break="?" facs="#facs_edr02T" xml:id="elem_edr02T"/>carne humanal ſin peccado. E
+          <lb break="?" facs="#facs_cDEhrA" xml:id="elem_cDEhrA"/>porꝛ ende el fijo de dios
+            contraꝫ<cb break="?"/><fw type="titre_courant"/>
+          <lb break="?" facs="#facs_yr5LZC" xml:id="elem_yr5LZC"/>·li°· iij·
+          <lb break="?" facs="#facs_tuBLXx" xml:id="elem_tuBLXx"/>eſtos  ſe veſtio oſe quiſo veſtir la
+          <lb break="?" facs="#facs_bzgBAN" xml:id="elem_bzgBAN"/>nueſtra humanidat ⁊ traxola ſi
+          <lb break="?" facs="#facs_bULC0t" xml:id="elem_bULC0t"/>enpꝛe ſin peccado para dar enxė
+          <lb break="?" facs="#facs_jYnZGg" xml:id="elem_jYnZGg"/>plo alos oṁes q̄ pueden traer
+          <lb break="?" facs="#facs_yBZoa5" xml:id="elem_yBZoa5"/>eſta veſtidura ⁊ quardarla de pec
+          <lb break="?" facs="#facs_nZmG0k" xml:id="elem_nZmG0k"/>cado. E poꝛ eſo dixo el apoſtol ad
+          <lb break="?" facs="#facs_dSMi92" xml:id="elem_dSMi92"/>felipenſes al ſegundo capitulo
+          <lb break="?" facs="#facs_tzHuhD" xml:id="elem_tzHuhD"/>.amygos eſo meſmo ſentid en boᷤ
+          <lb break="?" facs="#facs_mniiFA" xml:id="elem_mniiFA"/>q̄ ſentides en ihu̇ xṗo el qual eſ
+          <lb break="?" facs="#facs_i5DKsv" xml:id="elem_i5DKsv"/>tando enla foꝛma de dios fue fal
+          <lb break="?" facs="#facs_eYOO3N" xml:id="elem_eYOO3N"/>lado enveſtidura de oṁe fin pec
+          <lb break="?" facs="#facs_fb8yIi" xml:id="elem_fb8yIi"/>cado. E moſtronos el poꝛ ſu vida
+          <lb break="?" facs="#facs_u2EuCv" xml:id="elem_u2EuCv"/>⁊ poꝛ ſu dotrina q̄ leuantaſemos
+          <lb break="?" facs="#facs_btiXaw" xml:id="elem_btiXaw"/>eſta veſtidiura de tierra poꝛ q̄la
+          <lb break="?" facs="#facs_ay4wfV" xml:id="elem_ay4wfV"/>non enſuziaſemos. Ca quando el
+          <lb break="?" facs="#facs_zn0ykt" xml:id="elem_zn0ykt"/>cuerpo oel coꝛaçon anda poꝛla ti
+          <lb break="?" facs="#facs_vEuxv3" xml:id="elem_vEuxv3"/>erra con cobdiçia delas coſas ten
+          <lb break="?" facs="#facs_aIVV8f" xml:id="elem_aIVV8f"/>poꝛales enſuziaſe. E moſtronos ꝫ
+          <lb break="?" facs="#facs_mCD19z" xml:id="elem_mCD19z"/>ſacudirle con pertiga de pꝛemia ꝫ
+          <lb break="?" facs="#facs_pCnFgH" xml:id="elem_pCnFgH"/>poꝛ q̄ non tomaſe poluo nin po
+          <lb break="?" facs="#facs_bO9aM5" xml:id="elem_bO9aM5"/>lilla ⁊ moſtronos ſemeiar alos
+          <lb break="?" facs="#facs_j4m4OZ" xml:id="elem_j4m4OZ"/>angeles ⁊ non alas beſtias. Ca aſi
+          <lb break="?" facs="#facs_ei35bT" xml:id="elem_ei35bT"/>coṁo poꝛla ſuziedat el oṁe ſeme
+          <lb break="?" facs="#facs_gWyztN" xml:id="elem_gWyztN"/>ia alas beſtias quando toma coſ
+          <lb break="?" facs="#facs_ohIXf1" xml:id="elem_ohIXf1"/>tunbꝛe de beſtias. Eaſi coṁo poꝛla
+          <lb break="?" facs="#facs_lhvqBi" xml:id="elem_lhvqBi"/>ſuziedat el oṁe. ſemeia al puerco
+          <lb break="?" facs="#facs_kSLHFj" xml:id="elem_kSLHFj"/>⁊ poꝛla ſaṅa al can ⁊poꝛ el robo al
+          <lb break="?" facs="#facs_bq9ThC" xml:id="elem_bq9ThC"/>lobo ⁊ poꝛ el engaṅo ala gulpeia
+          <lb break="?" facs="#facs_scNMvF" xml:id="elem_scNMvF"/>⁊ poꝛla tragonia al oſſo. E de to
+          <lb break="?" facs="#facs_vq7X5S" xml:id="elem_vq7X5S"/>das eſtas coſas malas nos enſe
+          <lb break="?" facs="#facs_c1xhQ6" xml:id="elem_c1xhQ6"/>ṅo aredꝛarnos aſi como de malas
+          <lb break="?" facs="#facs_xIJ1NF" xml:id="elem_xIJ1NF"/>coſtunbꝛes ⁊ de malas veſtiduras
+          <lb break="?" facs="#facs_lkRtPL" xml:id="elem_lkRtPL"/>.lo tercero moſtro la ſu grant cari
+          <lb break="?" facs="#facs_wPB4vM" xml:id="elem_wPB4vM"/>dat quando quiſo entrar enla ba
+          <lb break="?" facs="#facs_pGsV2y" xml:id="elem_pGsV2y"/>talla poꝛ nos. E poꝛ eſo dixo enla
+          <lb break="?" facs="#facs_i0ntNW" xml:id="elem_i0ntNW"/>actoꝛidat ſobꝛedicha. El rey de ir
+          <lb break="?" facs="#facs_ahZStq" xml:id="elem_ahZStq"/>rael mudando ſu habito entro eṅl
+          <lb break="?" facs="#facs_fIVSn3" xml:id="elem_fIVSn3"/>canpo. do moſtrola ſu grant beni
+          <lb break="?" facs="#facs_brel6p" xml:id="elem_brel6p"/>gnjdat do quiſo entrar alidiar cō
+          <lb break="?" facs="#facs_xKphyU" xml:id="elem_xKphyU"/>el diablo poꝛ ſacar amos de ſu cati
+          <lb break="?" facs="#facs_qEbpqS" xml:id="elem_qEbpqS"/>uerio. E non podia ninguno ꝫ
+          <lb break="?" facs="#facs_baVkMm" xml:id="elem_baVkMm"/>moſtrar tan grant caridat. Ca
+          <lb break="?" facs="#facs_bpVOfO" xml:id="elem_bpVOfO"/>maguera q̄ algunt rey manſa
+          <lb break="?" facs="#facs_fTuy14" xml:id="elem_fTuy14"/>mente ſe aya con ſus ſubdictos</p>
       </div>
     </body>
   </text>
