@@ -10,13 +10,36 @@ import subprocess
 
 
 class DocumentXML:
-    def __init__(self, fichier_entree, sigle):
-        self.entree = fichier_entree
-        self.sortie = self.entree.replace('.xml', '_out.xml')
-        f = etree.parse(self.entree)
-        self.root = f.getroot()
+    def __init__(self, dossier_entree, sigle):
+        self.input_folder = dossier_entree
         self.sigle = sigle
+        self.sortie = None
+        self.root = None
         self.coordonnees = None  # On la définit plus bas.
+        self.pre_extraction_file = f"output/{sigle}.xml"
+
+    def to_tei(self):
+        """
+        Cette fonction produit la transformation xsl.
+        :return:
+        """
+        # On utilise le fichier xsl comme fichier xml d'entrée: on a toujours besoin d'un fichier
+        # d'entrée...
+        list_command = [
+                        "java",
+                        "-jar",
+                        saxon,
+                        "-xi:on",
+                        f"input_files={self.input_folder}",
+                        f"output_file={self.pre_extraction_file}",
+                        f"sigle={self.sigle}",
+                        "to_tei.xsl",
+                        "to_tei.xsl"
+                        ]
+
+        subprocess.run(list_command)
+        f = etree.parse(self.pre_extraction_file)
+        self.root = f.getroot()
 
     def get_coordinates(self, element):
         """
@@ -143,17 +166,10 @@ def generateur_id(size=5, chars=string.ascii_uppercase + string.ascii_lowercase 
     return generateur_lettre_initiale() + ''.join(random.choice(chars) for _ in range(size))
 
 
-def to_tei(input_folder, output_file, sigle):
-    # On utilise le fichier xsl comme fichier xml d'entrée: on a toujours besoin d'un fichier
-    # d'entrée...
-    subprocess.run(["java", "-jar", saxon, "-xi:on", f"input_files={input_folder}", f"output_file={output_file}",
-                    f"sigle={sigle}", "to_tei.xsl", "to_tei.xsl"])
 
-
-def main(fichier, sigle):
-    output_file = f"output/{sigle}.xml"
-    to_tei(fichier, output_file, sigle)
-    fichier_xml = DocumentXML(output_file, sigle)
+def main(dossier, sigle):
+    fichier_xml = DocumentXML(dossier, sigle)
+    fichier_xml.to_tei()
     fichier_xml.get_images("//tei:lb")
     fichier_xml.get_images("//tei:graphic[@type='lettrine']")
     fichier_xml.get_images("//tei:add")
