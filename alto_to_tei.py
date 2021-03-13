@@ -10,11 +10,12 @@ import subprocess
 
 
 class DocumentXML:
-    def __init__(self, fichier_entree):
+    def __init__(self, fichier_entree, sigle):
         self.entree = fichier_entree
         self.sortie = self.entree.replace('.xml', '_out.xml')
         f = etree.parse(self.entree)
         self.root = f.getroot()
+        self.sigle = sigle
         self.coordonnees = None  # On la définit plus bas.
 
     def get_coordinates(self, element):
@@ -114,7 +115,7 @@ class DocumentXML:
             current_lb = all_element[position]
             current_lb.set("facs", f"#facs_{identifiant}")
             current_lb.set('{http://www.w3.org/XML/1998/namespace}id', xml_id)
-        sortie = 'final.xml'
+        sortie = f'output/{self.sigle}_out.xml'
         with open(sortie, 'w+') as sortie_xml:
             output = etree.tostring(self.root, pretty_print=True, encoding='utf-8', xml_declaration=True).decode('utf8')
             sortie_xml.write(str(output))
@@ -146,9 +147,9 @@ def to_tei(input_folder, output_file):
 
 
 def main(fichier, sigle):
-    output_file = f"{sigle}.xml"
+    output_file = f"output/{sigle}.xml"
     to_tei(fichier, output_file)
-    fichier_xml = DocumentXML(output_file)
+    fichier_xml = DocumentXML(output_file, sigle)
 
     fichier_xml.get_images("//tei:lb")
     fichier_xml.get_images("//tei:graphic[@type='lettrine']")

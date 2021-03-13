@@ -4,9 +4,9 @@
     exclude-result-prefixes="xs" version="2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:alto="http://www.loc.gov/standards/alto/ns-v4#">
 
-    <xsl:param name="sigle">Mad_A</xsl:param>
-    <xsl:param name="input_files">../Mad_A/folios</xsl:param>
-    <xsl:variable name="output_file">Mad_A.xml</xsl:variable>
+    <xsl:param name="sigle"></xsl:param>
+    <xsl:param name="input_files"></xsl:param>
+    <xsl:param name="output_file"></xsl:param>
 
     <xsl:strip-space elements="*"/>
     <xsl:output method="xml"/>
@@ -19,7 +19,7 @@
                     <xsl:element name="fileDesc" namespace="http://www.tei-c.org/ns/1.0">
                         <xsl:element name="titleStmt" namespace="http://www.tei-c.org/ns/1.0">
                             <xsl:element name="title" namespace="http://www.tei-c.org/ns/1.0"
-                                >Manuscrit A, fundación Lázaro Galdiano</xsl:element>
+                                ><xsl:value-of select="$sigle"/></xsl:element>
                         </xsl:element>
                         <xsl:element name="publicationStmt" namespace="http://www.tei-c.org/ns/1.0">
                             <xsl:element name="p" namespace="http://www.tei-c.org/ns/1.0"
