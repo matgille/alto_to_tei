@@ -4,7 +4,8 @@
 
 Ce dépôt contient les fichier permettant de transformer des sources au format ALTO 4.0 (acquises via
 eScriptorium par exemple)
-en fichier TEI, avec extraction des images et création d'un élément `tei:facsimile`. Il requiert un dossier comprenant les fichiers xml et les images.
+en fichier TEI, avec extraction des images et création d'un élément `tei:facsimile` dans lequel sont
+contenus les liens vers les images et les informations de zonage. Il requiert un dossier comprenant les fichiers xml et les images.
 
 ## Installation
 
