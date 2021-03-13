@@ -26,16 +26,16 @@ class DocumentXML:
         # On utilise le fichier xsl comme fichier xml d'entrée: on a toujours besoin d'un fichier
         # d'entrée...
         list_command = [
-                        "java",
-                        "-jar",
-                        saxon,
-                        "-xi:on",
-                        f"input_files={self.input_folder}",
-                        f"output_file={self.pre_extraction_file}",
-                        f"sigle={self.sigle}",
-                        "to_tei.xsl",
-                        "to_tei.xsl"
-                        ]
+            "java",
+            "-jar",
+            saxon,
+            "-xi:on",
+            f"input_files={self.input_folder}",
+            f"output_file={self.pre_extraction_file}",
+            f"sigle={self.sigle}",
+            "to_tei.xsl",
+            "to_tei.xsl"
+        ]
 
         subprocess.run(list_command)
         f = etree.parse(self.pre_extraction_file)
@@ -107,10 +107,9 @@ class DocumentXML:
             # On enregistre
             newIm = Image.fromarray(newImArray, "RGBA")
             cropped_img = newIm.crop(rectangle_coordinates)
-            os.makedirs("lignes", exist_ok=True) # l'exception ne marche pas, je ne sais pas pourquoi
+            os.makedirs("lignes", exist_ok=True)  # l'exception ne marche pas, je ne sais pas pourquoi
             cropped_img.save(f"lignes/{image_basename.replace('.jpg', '')}_{identifiant}.png")
             print(f"lignes/{image_basename.replace('.jpg', '')}_{identifiant}.png")
-
 
     def update_xml_tree(self, element):
         all_element = self.root.xpath(element, namespaces=tei)  # https://stackoverflow.com/a/17269384 pour l'efficacité
@@ -139,22 +138,23 @@ class DocumentXML:
             current_lb.set("facs", f"#facs_{identifiant}")
             current_lb.set('{http://www.w3.org/XML/1998/namespace}id', xml_id)
 
-    def get_images(self, xpath_expression):
+    def get_images(self, xpath_expressions):
         """
         Cette fonction permet d'extraire les coordonnées, les images, et de créer le xml de sortie.
+        :param xpath_expressions:
         :param xpath_expression: une expression xpath vers l'élément donc les images sont à extraire.
         :return: None
         """
-        self.get_coordinates(xpath_expression)
-        self.extract_images()
-        self.update_xml_tree(xpath_expression)
+        for expression in xpath_expressions:
+            self.get_coordinates(expression)
+            self.extract_images()
+            self.update_xml_tree(expression)
 
     def produce_xml_file(self):
         sortie = f'output/{self.sigle}_out.xml'
         with open(sortie, 'w+') as sortie_xml:
             output = etree.tostring(self.root, pretty_print=True, encoding='utf-8', xml_declaration=True).decode('utf8')
             sortie_xml.write(str(output))
-
 
 
 def generateur_lettre_initiale(size=1, chars=string.ascii_lowercase):  # éviter les nombres en premier caractère de
@@ -166,13 +166,10 @@ def generateur_id(size=5, chars=string.ascii_uppercase + string.ascii_lowercase 
     return generateur_lettre_initiale() + ''.join(random.choice(chars) for _ in range(size))
 
 
-
 def main(dossier, sigle):
     fichier_xml = DocumentXML(dossier, sigle)
     fichier_xml.to_tei()
-    fichier_xml.get_images("//tei:lb")
-    fichier_xml.get_images("//tei:graphic[@type='lettrine']")
-    fichier_xml.get_images("//tei:add")
+    fichier_xml.get_images(["//tei:lb", "//tei:graphic[@type='lettrine']", "//tei:add"])
     fichier_xml.produce_xml_file()
 
 
