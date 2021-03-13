@@ -43,9 +43,10 @@ class DocumentXML:
 
     def get_coordinates(self, element):
         """
-        Extrait les coordonnées à partir du XML
+        Extrait les coordonnées à partir du XML.
         :return: Un dictionnaire e la forme {position : (id, chemin_vers_le_folio, coordonnees)}
         """
+        print(f"Getting coordinates for {element}")
         liste_element = self.root.xpath(element, namespaces=tei)
         liste_images = [element.xpath("preceding::tei:pb[1]/@facs", namespaces=tei)[0] for element in liste_element]
         liste_coordonnees = [element.xpath("@facs", namespaces=tei)[0] for element in liste_element]
@@ -74,6 +75,7 @@ class DocumentXML:
         :return: None
         """
         # https://stackoverflow.com/a/22650239
+        print("Extracting images")
         for position, (identifiant, image_path, coordonnees) in tqdm.tqdm(self.coordonnees.items()):
             image_basename = image_path.split("/")[-1]
             image = Image.open(image_path).convert("RGBA")
@@ -109,14 +111,20 @@ class DocumentXML:
             cropped_img = newIm.crop(rectangle_coordinates)
             os.makedirs("lignes", exist_ok=True)  # l'exception ne marche pas, je ne sais pas pourquoi
             cropped_img.save(f"lignes/{image_basename.replace('.jpg', '')}_{identifiant}.png")
-            print(f"lignes/{image_basename.replace('.jpg', '')}_{identifiant}.png")
+            # print(f"lignes/{image_basename.replace('.jpg', '')}_{identifiant}.png")
 
     def update_xml_tree(self, element):
+        """
+        Met à jour l'arbre XML de sortie: crée un élément tei:surface, ajoute les liens vers l'image découpée
+        et met à jour l'élément correspondant en lui ajoutant un @facs qui pointe vers cette zone
+        :param element:
+        :return:
+        """
+        print(f"Updating xml tree for {element}")
         all_element = self.root.xpath(element, namespaces=tei)  # https://stackoverflow.com/a/17269384 pour l'efficacité
         # plutôt que de chercher à chaque fois le bon élément tei avec un count(preceding::tei:*) qui est très
         # long à calculer
-        for position, (identifiant, path_to_folio, coordonnees) in tqdm.tqdm(self.coordonnees.items()):
-            print(path_to_folio)
+        for position, (identifiant, path_to_folio, coordonnees) in self.coordonnees.items():
             folio_basename = path_to_folio.split("/")[-1]
             path_to_line = f"../lignes/{folio_basename.replace('.jpg', '')}_{identifiant}.png"
             coordonnees_out = []
@@ -151,6 +159,7 @@ class DocumentXML:
             self.update_xml_tree(expression)
 
     def produce_xml_file(self):
+        print("Saving xml file.")
         sortie = f'output/{self.sigle}_out.xml'
         with open(sortie, 'w+') as sortie_xml:
             output = etree.tostring(self.root, pretty_print=True, encoding='utf-8', xml_declaration=True).decode('utf8')
