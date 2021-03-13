@@ -96,7 +96,7 @@ class DocumentXML:
         for position, (identifiant, path_to_folio, coordonnees) in tqdm.tqdm(self.coordonnees.items()):
             print(path_to_folio)
             folio_basename = path_to_folio.split("/")[-1]
-            path_to_line = f"lignes/{folio_basename.replace('.jpg', '')}_{identifiant}.png"
+            path_to_line = f"../lignes/{folio_basename.replace('.jpg', '')}_{identifiant}.png"
             coordonnees_out = []
             for tuple_coordonnees in coordonnees:
                 x, y = tuple_coordonnees
