@@ -89,7 +89,7 @@ class DocumentXML:
             print(f"lignes/{image_basename.replace('.jpg', '')}_{identifiant}.png")
 
 
-    def produce_xml_file(self, element):
+    def update_xml_tree(self, element):
         all_element = self.root.xpath(element, namespaces=tei)  # https://stackoverflow.com/a/17269384 pour l'efficacité
         # plutôt que de chercher à chaque fois le bon élément tei avec un count(preceding::tei:*) qui est très
         # long à calculer
@@ -128,7 +128,15 @@ class DocumentXML:
         """
         self.get_coordinates(xpath_expression)
         self.extract_images()
-        self.produce_xml_file(xpath_expression)
+        self.update_xml_tree(xpath_expression)
+
+    def produce_xml_file(self):
+        sortie = f'output/{self.sigle}_out.xml'
+        with open(sortie, 'w+') as sortie_xml:
+            output = etree.tostring(self.root, pretty_print=True, encoding='utf-8', xml_declaration=True).decode('utf8')
+            sortie_xml.write(str(output))
+
+
 
 def generateur_lettre_initiale(size=1, chars=string.ascii_lowercase):  # éviter les nombres en premier caractère de
     # l'@xml:id (interdit)
@@ -139,21 +147,21 @@ def generateur_id(size=5, chars=string.ascii_uppercase + string.ascii_lowercase 
     return generateur_lettre_initiale() + ''.join(random.choice(chars) for _ in range(size))
 
 
-def to_tei(input_folder, output_file):
+def to_tei(input_folder, output_file, sigle):
     # On utilise le fichier xsl comme fichier xml d'entrée: on a toujours besoin d'un fichier
     # d'entrée...
     subprocess.run(["java", "-jar", saxon, "-xi:on", f"input_files={input_folder}", f"output_file={output_file}",
-                    "to_tei.xsl", "to_tei.xsl"])
+                    f"sigle={sigle}", "to_tei.xsl", "to_tei.xsl"])
 
 
 def main(fichier, sigle):
     output_file = f"output/{sigle}.xml"
-    to_tei(fichier, output_file)
+    to_tei(fichier, output_file, sigle)
     fichier_xml = DocumentXML(output_file, sigle)
-
     fichier_xml.get_images("//tei:lb")
     fichier_xml.get_images("//tei:graphic[@type='lettrine']")
     fichier_xml.get_images("//tei:add")
+    fichier_xml.produce_xml_file()
 
 
 tei = {'tei': 'http://www.tei-c.org/ns/1.0'}
