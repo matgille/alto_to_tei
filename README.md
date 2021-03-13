@@ -32,3 +32,6 @@ il faut extraire les images.
 Les fichiers alto doivent être dans un dossier, avec les images.
 
 `python3 alto_to_tei.py dossier_entree sigle_du_temoin`
+
+Exemple avec les fichiers de test:
+`python3 alto_to_tei.py test Mad_A`
