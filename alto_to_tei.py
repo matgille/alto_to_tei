@@ -83,11 +83,7 @@ class DocumentXML:
             # On enregistre
             newIm = Image.fromarray(newImArray, "RGBA")
             cropped_img = newIm.crop(rectangle_coordinates)
-            try:
-                os.path.isdir("lignes")  # ça ne marche pas...
-            except NotADirectoryError:
-                print("Not found")
-                os.mkdir("lignes/")
+            os.makedirs("lignes", exist_ok=True) # l'exception ne marche pas, je ne sais pas pourquoi
             cropped_img.save(f"lignes/{image_basename.replace('.jpg', '')}_{identifiant}.png")
             print(f"lignes/{image_basename.replace('.jpg', '')}_{identifiant}.png")
 
