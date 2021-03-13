@@ -115,10 +115,6 @@ class DocumentXML:
             current_lb = all_element[position]
             current_lb.set("facs", f"#facs_{identifiant}")
             current_lb.set('{http://www.w3.org/XML/1998/namespace}id', xml_id)
-        sortie = f'output/{self.sigle}_out.xml'
-        with open(sortie, 'w+') as sortie_xml:
-            output = etree.tostring(self.root, pretty_print=True, encoding='utf-8', xml_declaration=True).decode('utf8')
-            sortie_xml.write(str(output))
 
     def get_images(self, xpath_expression):
         """
