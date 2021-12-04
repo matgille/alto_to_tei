@@ -34,7 +34,11 @@ class DocumentXML:
         self.directory = sigle
         self.workers = workers
         try:
-            os.mkdir(f"lignes")
+            os.mkdir("output")
+        except:
+            pass
+        try:
+            os.mkdir("lignes")
         except:
             pass
         try:
