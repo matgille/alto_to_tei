@@ -74,7 +74,8 @@
     </xsl:template>
 
     <xsl:template match="alto:PrintSpace">
-        <!--L'export ALTO pose problème du point de vue de l'ordre des colonnes-->
+        <!--Depuis eScriptorium l'export ALTO pose problème du point de vue de l'ordre des colonnes: 
+        https://gitlab.com/scripta/escriptorium/-/issues/373-->
         <!--On va donc aller rétablir l'ordre en prenant la position du début de chaque zone de texte (point supérieur gauche)-->
         <!--Merci à Simon Gabay pour cette suggestion-->
         <xsl:apply-templates select="descendant::alto:TextBlock">
