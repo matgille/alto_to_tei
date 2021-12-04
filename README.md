@@ -21,8 +21,8 @@ pip3 install -r requirements.txt
 
 La feuille de style xsl permet de produire un document XML/TEI à peu
 près conforme; elle est actuellement écrite en fonction de
-ma typologie des zones et des lignes et il s'agit donc de la 
-personnaliser à votre projet.
+ma propre typologie des zones et des lignes et il s'agit donc de la 
+personnaliser à votre projet dans le fichier xsl.
 
 Par ailleurs il faut indiquer au script le chemin vers les éléments dont
 il faut extraire les images.
@@ -35,4 +35,4 @@ Les fichiers alto doivent être dans un dossier, avec les images.
 
 Exemple avec les fichiers de test:
 
-`python3 alto_to_tei.py test Mad_A`
+`python3 alto_to_tei.py test test`
