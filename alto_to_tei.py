@@ -30,11 +30,11 @@ class DocumentXML:
         self.sortie = None
         self.root = None
         self.coordonnees = None  # On la définit plus bas.
-        self.pre_extraction_file = f"output/{sigle}.xml"
+        self.pre_extraction_file = f"output/{sigle}/{sigle}.xml"
         self.directory = sigle
         self.workers = workers
         try:
-            os.mkdir("output")
+            os.mkdir(f"output/{self.directory}")
         except:
             pass
         try:
@@ -123,9 +123,10 @@ class DocumentXML:
         all_element = self.root.xpath(element, namespaces=tei)  # https://stackoverflow.com/a/17269384 pour l'efficacité
         # plutôt que de chercher à chaque fois le bon élément tei avec un count(preceding::tei:*) qui est très
         # long à calculer
+
         for position, (identifiant, path_to_folio, coordonnees) in self.coordonnees.items():
             folio_basename = path_to_folio.split("/")[-1]
-            path_to_line = f"../lignes/{self.directory}/{folio_basename.replace('.jpg', '')}_{identifiant}.png"
+            path_to_line = f"../../lignes/{self.directory}/{folio_basename.replace(f'.{self.input_format}', '')}_{identifiant}.png"
             coordonnees_out = []
             for tuple_coordonnees in coordonnees:
                 x, y = tuple_coordonnees
@@ -145,6 +146,7 @@ class DocumentXML:
             graphic = etree.SubElement(surface, f"{tei_namespace}graphic")
             graphic.set("url", path_to_line)
 
+
     def get_images(self, xpath_expressions):
         """
         Cette fonction permet d'extraire les coordonnées, les images, et de créer le xml de sortie.
@@ -159,7 +161,12 @@ class DocumentXML:
 
     def produce_xml_file(self):
         print("Saving xml file.")
-        sortie = f'output/{self.sigle}_out.xml'
+        sortie = f'output/{self.directory}/{self.sigle}_out.xml'
+
+        for page_break in self.root.xpath("//tei:pb", namespaces=tei):
+            path = page_break.xpath("@facs")[0]
+            page_break.set("facs", f"../../{path}")
+
         with open(sortie, 'w+') as sortie_xml:
             output = etree.tostring(self.root, pretty_print=True, encoding='utf-8', xml_declaration=True).decode('utf8')
             sortie_xml.write(str(output))
