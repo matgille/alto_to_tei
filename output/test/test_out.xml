@@ -6,302 +6,410 @@
         <title>test</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication
-                                information</p>
+        <p>Publication information</p>
       </publicationStmt>
       <sourceDesc>
-        <p>Information
-                                about the source</p>
+        <p>Information about the source</p>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
   <facsimile>
-    <surface xml:id="facs_fAHRvi" points="798,106 804,5 875,23 870,111 865,143 793,129" corresp="#elem_fAHRvi">
+    <surface xml:id="facs_fAHRvi" points="798,106 804,5 875,23 870,111 865,143 793,129"
+      corresp="#elem_fAHRvi">
       <graphic url="../../lignes/test/pg_10_fAHRvi.png"/>
     </surface>
-    <surface xml:id="facs_aqGOyQ" points="1252,132 1249,66 1332,63 1350,45 1350,45 1353,45 1353,45 1353,45 1356,45 1356,45 1358,45 1419,45 1419,45 1419,45 1422,45 1422,45 1422,45 1425,45 1425,45 1425,47 1443,66 1448,68 1507,66 1509,132 1509,159 1398,174 1398,174 1395,174 1249,164" corresp="#elem_aqGOyQ">
+    <surface xml:id="facs_aqGOyQ"
+      points="1252,132 1249,66 1332,63 1350,45 1350,45 1353,45 1353,45 1353,45 1356,45 1356,45 1358,45 1419,45 1419,45 1419,45 1422,45 1422,45 1422,45 1425,45 1425,45 1425,47 1443,66 1448,68 1507,66 1509,132 1509,159 1398,174 1398,174 1395,174 1249,164"
+      corresp="#elem_aqGOyQ">
       <graphic url="../../lignes/test/pg_10_aqGOyQ.png"/>
     </surface>
-    <surface xml:id="facs_kgDORf" points="1828,140 1820,55 1910,71 1915,135 1921,161 1873,190 1870,190 1870,190 1868,190 1868,190 1868,190 1865,190 1828,188" corresp="#elem_kgDORf">
+    <surface xml:id="facs_kgDORf"
+      points="1828,140 1820,55 1910,71 1915,135 1921,161 1873,190 1870,190 1870,190 1868,190 1868,190 1868,190 1865,190 1828,188"
+      corresp="#elem_kgDORf">
       <graphic url="../../lignes/test/pg_10_kgDORf.png"/>
     </surface>
-    <surface xml:id="facs_f7BMSG" points="626,275 623,209 772,206 774,206 774,206 777,206 790,209 865,230 1064,214 1098,212 1101,212 1101,212 1101,212 1117,214 1223,241 1289,241 1332,217 1340,291 1334,310 620,291" corresp="#elem_f7BMSG">
+    <surface xml:id="facs_f7BMSG"
+      points="626,275 623,209 772,206 774,206 774,206 777,206 790,209 865,230 1064,214 1098,212 1101,212 1101,212 1101,212 1117,214 1223,241 1289,241 1332,217 1340,291 1334,310 620,291"
+      corresp="#elem_f7BMSG">
       <graphic url="../../lignes/test/pg_10_f7BMSG.png"/>
     </surface>
-    <surface xml:id="facs_yBAls7" points="623,328 623,275 1329,294 1332,349 1326,371 618,349" corresp="#elem_yBAls7">
+    <surface xml:id="facs_yBAls7" points="623,328 623,275 1329,294 1332,349 1326,371 618,349"
+      corresp="#elem_yBAls7">
       <graphic url="../../lignes/test/pg_10_yBAls7.png"/>
     </surface>
-    <surface xml:id="facs_conlfc" points="620,379 620,336 1334,352 1334,397 1329,413 615,405" corresp="#elem_conlfc">
+    <surface xml:id="facs_conlfc" points="620,379 620,336 1334,352 1334,397 1329,413 615,405"
+      corresp="#elem_conlfc">
       <graphic url="../../lignes/test/pg_10_conlfc.png"/>
     </surface>
-    <surface xml:id="facs_wpWPzr" points="623,434 623,392 1318,394 1321,445 1316,461 618,453" corresp="#elem_wpWPzr">
+    <surface xml:id="facs_wpWPzr" points="623,434 623,392 1318,394 1321,445 1316,461 618,453"
+      corresp="#elem_wpWPzr">
       <graphic url="../../lignes/test/pg_10_wpWPzr.png"/>
     </surface>
-    <surface xml:id="facs_xTdlT7" points="618,477 618,432 1350,455 1350,501 1345,516 612,503" corresp="#elem_xTdlT7">
+    <surface xml:id="facs_xTdlT7" points="618,477 618,432 1350,455 1350,501 1345,516 612,503"
+      corresp="#elem_xTdlT7">
       <graphic url="../../lignes/test/pg_10_xTdlT7.png"/>
     </surface>
-    <surface xml:id="facs_qL1ael" points="610,538 610,493 1332,511 1332,556 1326,572 605,551" corresp="#elem_qL1ael">
+    <surface xml:id="facs_qL1ael" points="610,538 610,493 1332,511 1332,556 1326,572 605,551"
+      corresp="#elem_qL1ael">
       <graphic url="../../lignes/test/pg_10_qL1ael.png"/>
     </surface>
-    <surface xml:id="facs_oTaNZO" points="615,593 618,538 671,551 724,540 727,540 727,540 727,540 729,540 729,540 735,540 809,556 1324,559 1326,607 1321,625 610,604" corresp="#elem_oTaNZO">
+    <surface xml:id="facs_oTaNZO"
+      points="615,593 618,538 671,551 724,540 727,540 727,540 727,540 729,540 729,540 735,540 809,556 1324,559 1326,607 1321,625 610,604"
+      corresp="#elem_oTaNZO">
       <graphic url="../../lignes/test/pg_10_oTaNZO.png"/>
     </surface>
-    <surface xml:id="facs_ec7OE7" points="607,641 607,588 1329,604 1332,652 1326,670 602,657" corresp="#elem_ec7OE7">
+    <surface xml:id="facs_ec7OE7" points="607,641 607,588 1329,604 1332,652 1326,670 602,657"
+      corresp="#elem_ec7OE7">
       <graphic url="../../lignes/test/pg_10_ec7OE7.png"/>
     </surface>
-    <surface xml:id="facs_x8cFTs" points="607,689 607,636 1316,652 1318,707 1313,728 602,710" corresp="#elem_x8cFTs">
+    <surface xml:id="facs_x8cFTs" points="607,689 607,636 1316,652 1318,707 1313,728 602,710"
+      corresp="#elem_x8cFTs">
       <graphic url="../../lignes/test/pg_10_x8cFTs.png"/>
     </surface>
-    <surface xml:id="facs_uQm1zO" points="605,739 605,694 1316,710 1318,755 1313,774 599,755" corresp="#elem_uQm1zO">
+    <surface xml:id="facs_uQm1zO" points="605,739 605,694 1316,710 1318,755 1313,774 599,755"
+      corresp="#elem_uQm1zO">
       <graphic url="../../lignes/test/pg_10_uQm1zO.png"/>
     </surface>
-    <surface xml:id="facs_v5gPYT" points="602,792 602,736 1324,755 1324,803 1318,824 597,803" corresp="#elem_v5gPYT">
+    <surface xml:id="facs_v5gPYT" points="602,792 602,736 1324,755 1324,803 1318,824 597,803"
+      corresp="#elem_v5gPYT">
       <graphic url="../../lignes/test/pg_10_v5gPYT.png"/>
     </surface>
-    <surface xml:id="facs_gYHwVJ" points="602,837 602,795 1305,808 1308,850 1302,866 597,853" corresp="#elem_gYHwVJ">
+    <surface xml:id="facs_gYHwVJ" points="602,837 602,795 1305,808 1308,850 1302,866 597,853"
+      corresp="#elem_gYHwVJ">
       <graphic url="../../lignes/test/pg_10_gYHwVJ.png"/>
     </surface>
-    <surface xml:id="facs_zIwYTp" points="597,888 597,842 1308,856 1308,903 1302,927 591,906" corresp="#elem_zIwYTp">
+    <surface xml:id="facs_zIwYTp" points="597,888 597,842 1308,856 1308,903 1302,927 591,906"
+      corresp="#elem_zIwYTp">
       <graphic url="../../lignes/test/pg_10_zIwYTp.png"/>
     </surface>
-    <surface xml:id="facs_bwhyhI" points="594,943 594,888 1324,909 1324,956 1318,970 589,954" corresp="#elem_bwhyhI">
+    <surface xml:id="facs_bwhyhI" points="594,943 594,888 1324,909 1324,956 1318,970 589,954"
+      corresp="#elem_bwhyhI">
       <graphic url="../../lignes/test/pg_10_bwhyhI.png"/>
     </surface>
-    <surface xml:id="facs_wuNhYw" points="464,991 464,906 565,914 565,994 559,1041 459,1039" corresp="#elem_wuNhYw">
+    <surface xml:id="facs_wuNhYw" points="464,991 464,906 565,914 565,994 559,1041 459,1039"
+      corresp="#elem_wuNhYw">
       <graphic url="../../lignes/test/pg_10_wuNhYw.png"/>
     </surface>
-    <surface xml:id="facs_wq7b4y" points="578,994 578,941 1321,962 1324,1007 1318,1023 573,1009" corresp="#elem_wq7b4y">
+    <surface xml:id="facs_wq7b4y" points="578,994 578,941 1321,962 1324,1007 1318,1023 573,1009"
+      corresp="#elem_wq7b4y">
       <graphic url="../../lignes/test/pg_10_wq7b4y.png"/>
     </surface>
-    <surface xml:id="facs_ecTOrq" points="591,1041 591,994 1313,1015 1316,1060 1310,1081 586,1062" corresp="#elem_ecTOrq">
+    <surface xml:id="facs_ecTOrq" points="591,1041 591,994 1313,1015 1316,1060 1310,1081 586,1062"
+      corresp="#elem_ecTOrq">
       <graphic url="../../lignes/test/pg_10_ecTOrq.png"/>
     </surface>
-    <surface xml:id="facs_m5Fmqo" points="591,1086 591,1044 1308,1062 1310,1105 1305,1116 586,1102" corresp="#elem_m5Fmqo">
+    <surface xml:id="facs_m5Fmqo" points="591,1086 591,1044 1308,1062 1310,1105 1305,1116 586,1102"
+      corresp="#elem_m5Fmqo">
       <graphic url="../../lignes/test/pg_10_m5Fmqo.png"/>
     </surface>
-    <surface xml:id="facs_q3zVaQ" points="586,1134 586,1092 1310,1108 1310,1150 1305,1161 581,1145" corresp="#elem_q3zVaQ">
+    <surface xml:id="facs_q3zVaQ" points="586,1134 586,1092 1310,1108 1310,1150 1305,1161 581,1145"
+      corresp="#elem_q3zVaQ">
       <graphic url="../../lignes/test/pg_10_q3zVaQ.png"/>
     </surface>
-    <surface xml:id="facs_rEJ4TS" points="581,1184 581,1137 1302,1161 1302,1206 1300,1216 1125,1227 1122,1227 575,1198" corresp="#elem_rEJ4TS">
+    <surface xml:id="facs_rEJ4TS"
+      points="581,1184 581,1137 1302,1161 1302,1206 1300,1216 1125,1227 1122,1227 575,1198"
+      corresp="#elem_rEJ4TS">
       <graphic url="../../lignes/test/pg_10_rEJ4TS.png"/>
     </surface>
-    <surface xml:id="facs_h2cYDI" points="578,1237 578,1190 1308,1198 1310,1251 1305,1267 573,1253" corresp="#elem_h2cYDI">
+    <surface xml:id="facs_h2cYDI" points="578,1237 578,1190 1308,1198 1310,1251 1305,1267 573,1253"
+      corresp="#elem_h2cYDI">
       <graphic url="../../lignes/test/pg_10_h2cYDI.png"/>
     </surface>
-    <surface xml:id="facs_fgmFzW" points="575,1293 575,1235 1305,1261 1308,1306 1302,1330 570,1312" corresp="#elem_fgmFzW">
+    <surface xml:id="facs_fgmFzW" points="575,1293 575,1235 1305,1261 1308,1306 1302,1330 570,1312"
+      corresp="#elem_fgmFzW">
       <graphic url="../../lignes/test/pg_10_fgmFzW.png"/>
     </surface>
-    <surface xml:id="facs_q4IRkW" points="575,1346 575,1293 1305,1312 1308,1362 1302,1375 570,1370" corresp="#elem_q4IRkW">
+    <surface xml:id="facs_q4IRkW" points="575,1346 575,1293 1305,1312 1308,1362 1302,1375 570,1370"
+      corresp="#elem_q4IRkW">
       <graphic url="../../lignes/test/pg_10_q4IRkW.png"/>
     </surface>
-    <surface xml:id="facs_x2brO1" points="573,1399 573,1354 1302,1370 1305,1415 1300,1439 567,1420" corresp="#elem_x2brO1">
+    <surface xml:id="facs_x2brO1" points="573,1399 573,1354 1302,1370 1305,1415 1300,1439 567,1420"
+      corresp="#elem_x2brO1">
       <graphic url="../../lignes/test/pg_10_x2brO1.png"/>
     </surface>
-    <surface xml:id="facs_qA9HKN" points="575,1452 575,1399 1289,1420 1292,1465 1287,1473 570,1471" corresp="#elem_qA9HKN">
+    <surface xml:id="facs_qA9HKN" points="575,1452 575,1399 1289,1420 1292,1465 1287,1473 570,1471"
+      corresp="#elem_qA9HKN">
       <graphic url="../../lignes/test/pg_10_qA9HKN.png"/>
     </surface>
-    <surface xml:id="facs_jalbsS" points="575,1505 573,1460 1297,1452 1302,1510 1297,1534 570,1518" corresp="#elem_jalbsS">
+    <surface xml:id="facs_jalbsS" points="575,1505 573,1460 1297,1452 1302,1510 1297,1534 570,1518"
+      corresp="#elem_jalbsS">
       <graphic url="../../lignes/test/pg_10_jalbsS.png"/>
     </surface>
-    <surface xml:id="facs_uhHXYt" points="573,1550 573,1503 1308,1513 1310,1566 1305,1587 567,1563" corresp="#elem_uhHXYt">
+    <surface xml:id="facs_uhHXYt" points="573,1550 573,1503 1308,1513 1310,1566 1305,1587 567,1563"
+      corresp="#elem_uhHXYt">
       <graphic url="../../lignes/test/pg_10_uhHXYt.png"/>
     </surface>
-    <surface xml:id="facs_uVB6iG" points="575,1603 575,1558 1300,1569 1302,1614 1297,1638 570,1617" corresp="#elem_uVB6iG">
+    <surface xml:id="facs_uVB6iG" points="575,1603 575,1558 1300,1569 1302,1614 1297,1638 570,1617"
+      corresp="#elem_uVB6iG">
       <graphic url="../../lignes/test/pg_10_uVB6iG.png"/>
     </surface>
-    <surface xml:id="facs_nr2ae4" points="573,1659 573,1598 1310,1622 1313,1670 1308,1693 777,1688 777,1688 777,1688 774,1688 774,1688 745,1675 743,1675 729,1675 594,1685 591,1685 591,1685 591,1685 589,1685 589,1685 589,1685 586,1685 562,1670" corresp="#elem_nr2ae4">
+    <surface xml:id="facs_nr2ae4"
+      points="573,1659 573,1598 1310,1622 1313,1670 1308,1693 777,1688 777,1688 777,1688 774,1688 774,1688 745,1675 743,1675 729,1675 594,1685 591,1685 591,1685 591,1685 589,1685 589,1685 589,1685 586,1685 562,1670"
+      corresp="#elem_nr2ae4">
       <graphic url="../../lignes/test/pg_10_nr2ae4.png"/>
     </surface>
-    <surface xml:id="facs_aIFHVP" points="573,1712 573,1664 1297,1680 1300,1728 1294,1749 567,1723" corresp="#elem_aIFHVP">
+    <surface xml:id="facs_aIFHVP" points="573,1712 573,1664 1297,1680 1300,1728 1294,1749 567,1723"
+      corresp="#elem_aIFHVP">
       <graphic url="../../lignes/test/pg_10_aIFHVP.png"/>
     </surface>
-    <surface xml:id="facs_c11cjg" points="570,1765 570,1704 1308,1723 1308,1781 1302,1799 565,1784" corresp="#elem_c11cjg">
+    <surface xml:id="facs_c11cjg" points="570,1765 570,1704 1308,1723 1308,1781 1302,1799 565,1784"
+      corresp="#elem_c11cjg">
       <graphic url="../../lignes/test/pg_10_c11cjg.png"/>
     </surface>
-    <surface xml:id="facs_iFB4gc" points="570,1810 570,1762 1276,1786 1279,1834 1273,1844 565,1831" corresp="#elem_iFB4gc">
+    <surface xml:id="facs_iFB4gc" points="570,1810 570,1762 1276,1786 1279,1834 1273,1844 565,1831"
+      corresp="#elem_iFB4gc">
       <graphic url="../../lignes/test/pg_10_iFB4gc.png"/>
     </surface>
-    <surface xml:id="facs_uCVLSu" points="567,1863 565,1818 936,1815 939,1815 939,1815 942,1815 952,1818 1003,1831 1186,1821 1188,1821 1188,1821 1188,1821 1191,1821 1191,1821 1191,1821 1194,1821 1194,1821 1194,1823 1207,1834 1284,1821 1289,1876 1284,1895 562,1879" corresp="#elem_uCVLSu">
+    <surface xml:id="facs_uCVLSu"
+      points="567,1863 565,1818 936,1815 939,1815 939,1815 942,1815 952,1818 1003,1831 1186,1821 1188,1821 1188,1821 1188,1821 1191,1821 1191,1821 1191,1821 1194,1821 1194,1821 1194,1823 1207,1834 1284,1821 1289,1876 1284,1895 562,1879"
+      corresp="#elem_uCVLSu">
       <graphic url="../../lignes/test/pg_10_uCVLSu.png"/>
     </surface>
-    <surface xml:id="facs_brhFhp" points="573,1905 570,1866 1146,1863 1149,1863 1149,1863 1151,1863 1151,1863 1151,1863 1154,1863 1154,1863 1170,1876 1172,1879 1292,1879 1292,1919 1287,1929 567,1927" corresp="#elem_brhFhp">
+    <surface xml:id="facs_brhFhp"
+      points="573,1905 570,1866 1146,1863 1149,1863 1149,1863 1151,1863 1151,1863 1151,1863 1154,1863 1154,1863 1170,1876 1172,1879 1292,1879 1292,1919 1287,1929 567,1927"
+      corresp="#elem_brhFhp">
       <graphic url="../../lignes/test/pg_10_brhFhp.png"/>
     </surface>
-    <surface xml:id="facs_bbXSpy" points="567,1961 567,1908 1310,1921 1313,1969 1308,1990 814,1974 772,1974 597,1985 594,1985 594,1985 591,1985 591,1985 591,1985 559,1969" corresp="#elem_bbXSpy">
+    <surface xml:id="facs_bbXSpy"
+      points="567,1961 567,1908 1310,1921 1313,1969 1308,1990 814,1974 772,1974 597,1985 594,1985 594,1985 591,1985 591,1985 591,1985 559,1969"
+      corresp="#elem_bbXSpy">
       <graphic url="../../lignes/test/pg_10_bbXSpy.png"/>
     </surface>
-    <surface xml:id="facs_hRvYZB" points="562,2014 557,1953 1072,1961 1077,2011 1069,2049 1021,2030 830,2043 827,2043 827,2043 827,2043 825,2043 825,2043 822,2043 801,2030 761,2049 761,2049 761,2049 758,2049 758,2049 756,2049 756,2049 639,2038 562,2051" corresp="#elem_hRvYZB">
+    <surface xml:id="facs_hRvYZB"
+      points="562,2014 557,1953 1072,1961 1077,2011 1069,2049 1021,2030 830,2043 827,2043 827,2043 827,2043 825,2043 825,2043 822,2043 801,2030 761,2049 761,2049 761,2049 758,2049 758,2049 756,2049 756,2049 639,2038 562,2051"
+      corresp="#elem_hRvYZB">
       <graphic url="../../lignes/test/pg_10_hRvYZB.png"/>
     </surface>
-    <surface xml:id="facs_bpY8wO" points="764,2064 764,2014 1276,2022 1276,2075 1271,2096 758,2075" corresp="#elem_bpY8wO">
+    <surface xml:id="facs_bpY8wO" points="764,2064 764,2014 1276,2022 1276,2075 1271,2096 758,2075"
+      corresp="#elem_bpY8wO">
       <graphic url="../../lignes/test/pg_10_bpY8wO.png"/>
     </surface>
-    <surface xml:id="facs_oTE6aD" points="772,2115 772,2067 1300,2078 1302,2120 1297,2131 766,2128" corresp="#elem_oTE6aD">
+    <surface xml:id="facs_oTE6aD" points="772,2115 772,2067 1300,2078 1302,2120 1297,2131 766,2128"
+      corresp="#elem_oTE6aD">
       <graphic url="../../lignes/test/pg_10_oTE6aD.png"/>
     </surface>
-    <surface xml:id="facs_cZxSni" points="761,2165 761,2110 1263,2123 1265,2168 1260,2189 756,2181" corresp="#elem_cZxSni">
+    <surface xml:id="facs_cZxSni" points="761,2165 761,2110 1263,2123 1265,2168 1260,2189 756,2181"
+      corresp="#elem_cZxSni">
       <graphic url="../../lignes/test/pg_10_cZxSni.png"/>
     </surface>
-    <surface xml:id="facs_aVvWi7" points="557,2202 557,2163 1276,2178 1276,2218 1271,2232 551,2224" corresp="#elem_aVvWi7">
+    <surface xml:id="facs_aVvWi7" points="557,2202 557,2163 1276,2178 1276,2218 1271,2232 551,2224"
+      corresp="#elem_aVvWi7">
       <graphic url="../../lignes/test/pg_10_aVvWi7.png"/>
     </surface>
-    <surface xml:id="facs_dalNt6" points="557,2255 557,2208 1281,2224 1281,2271 1276,2290 551,2269" corresp="#elem_dalNt6">
+    <surface xml:id="facs_dalNt6" points="557,2255 557,2208 1281,2224 1281,2271 1276,2290 551,2269"
+      corresp="#elem_dalNt6">
       <graphic url="../../lignes/test/pg_10_dalNt6.png"/>
     </surface>
-    <surface xml:id="facs_crVyNy" points="557,2308 557,2253 1273,2271 1276,2324 1271,2338 551,2322" corresp="#elem_crVyNy">
+    <surface xml:id="facs_crVyNy" points="557,2308 557,2253 1273,2271 1276,2324 1271,2338 551,2322"
+      corresp="#elem_crVyNy">
       <graphic url="../../lignes/test/pg_10_crVyNy.png"/>
     </surface>
-    <surface xml:id="facs_umhLRr" points="559,2361 559,2314 1279,2324 1279,2380 1273,2399 554,2380" corresp="#elem_umhLRr">
+    <surface xml:id="facs_umhLRr" points="559,2361 559,2314 1279,2324 1279,2380 1273,2399 554,2380"
+      corresp="#elem_umhLRr">
       <graphic url="../../lignes/test/pg_10_umhLRr.png"/>
     </surface>
-    <surface xml:id="facs_yq5mhX" points="557,2412 557,2364 1276,2383 1279,2425 1273,2446 551,2433" corresp="#elem_yq5mhX">
+    <surface xml:id="facs_yq5mhX" points="557,2412 557,2364 1276,2383 1279,2425 1273,2446 551,2433"
+      corresp="#elem_yq5mhX">
       <graphic url="../../lignes/test/pg_10_yq5mhX.png"/>
     </surface>
-    <surface xml:id="facs_yQ007m" points="559,2459 559,2417 1268,2433 1271,2475 1265,2489 554,2473" corresp="#elem_yQ007m">
+    <surface xml:id="facs_yQ007m" points="559,2459 559,2417 1268,2433 1271,2475 1265,2489 554,2473"
+      corresp="#elem_yQ007m">
       <graphic url="../../lignes/test/pg_10_yQ007m.png"/>
     </surface>
-    <surface xml:id="facs_lL4wSz" points="554,2512 554,2467 1276,2467 1279,2523 1276,2552 1101,2573 1101,2573 1098,2573 1098,2573 1095,2573 1095,2573 1095,2573 1093,2573 1093,2573 1066,2552 1064,2552 1061,2552 918,2571 918,2571 915,2571 549,2547" corresp="#elem_lL4wSz">
+    <surface xml:id="facs_lL4wSz"
+      points="554,2512 554,2467 1276,2467 1279,2523 1276,2552 1101,2573 1101,2573 1098,2573 1098,2573 1095,2573 1095,2573 1095,2573 1093,2573 1093,2573 1066,2552 1064,2552 1061,2552 918,2571 918,2571 915,2571 549,2547"
+      corresp="#elem_lL4wSz">
       <graphic url="../../lignes/test/pg_10_lL4wSz.png"/>
     </surface>
-    <surface xml:id="facs_vQT1Nn" points="1361,68 1353,37 1427,29 1435,63 1438,76 1366,103" corresp="#elem_vQT1Nn">
+    <surface xml:id="facs_vQT1Nn" points="1361,68 1353,37 1427,29 1435,63 1438,76 1366,103"
+      corresp="#elem_vQT1Nn">
       <graphic url="../../lignes/test/pg_10_vQT1Nn.png"/>
     </surface>
-    <surface xml:id="facs_cWOAmb" points="1475,296 1472,246 1682,233 1685,233 1685,233 1685,233 1687,233 1751,251 1751,251 1754,251 1796,235 1796,235 1799,235 1799,235 1801,235 1801,235 1801,235 1804,235 1804,235 1804,235 1838,254 1841,254 1841,254 1892,238 1894,238 1894,238 1894,238 1897,238 1897,238 1900,238 1900,238 1900,238 1902,238 1902,238 1902,241 1918,254 1942,241 1945,241 1945,241 1947,241 1947,241 1947,241 1950,241 1950,241 2117,262 2133,312 2128,339 1470,315" corresp="#elem_cWOAmb">
+    <surface xml:id="facs_cWOAmb"
+      points="1475,296 1472,246 1682,233 1685,233 1685,233 1685,233 1687,233 1751,251 1751,251 1754,251 1796,235 1796,235 1799,235 1799,235 1801,235 1801,235 1801,235 1804,235 1804,235 1804,235 1838,254 1841,254 1841,254 1892,238 1894,238 1894,238 1894,238 1897,238 1897,238 1900,238 1900,238 1900,238 1902,238 1902,238 1902,241 1918,254 1942,241 1945,241 1945,241 1947,241 1947,241 1947,241 1950,241 1950,241 2117,262 2133,312 2128,339 1470,315"
+      corresp="#elem_cWOAmb">
       <graphic url="../../lignes/test/pg_10_cWOAmb.png"/>
     </surface>
-    <surface xml:id="facs_xd4oWG" points="1467,352 1467,307 2146,315 2146,368 2141,389 1462,373" corresp="#elem_xd4oWG">
+    <surface xml:id="facs_xd4oWG" points="1467,352 1467,307 2146,315 2146,368 2141,389 1462,373"
+      corresp="#elem_xd4oWG">
       <graphic url="../../lignes/test/pg_10_xd4oWG.png"/>
     </surface>
-    <surface xml:id="facs_fuqODi" points="1470,402 1470,357 2136,373 2138,418 2133,434 1464,416" corresp="#elem_fuqODi">
+    <surface xml:id="facs_fuqODi" points="1470,402 1470,357 2136,373 2138,418 2133,434 1464,416"
+      corresp="#elem_fuqODi">
       <graphic url="../../lignes/test/pg_10_fuqODi.png"/>
     </surface>
-    <surface xml:id="facs_pK0Q0M" points="1462,453 1462,402 2141,421 2141,471 2136,490 1456,466" corresp="#elem_pK0Q0M">
+    <surface xml:id="facs_pK0Q0M" points="1462,453 1462,402 2141,421 2141,471 2136,490 1456,466"
+      corresp="#elem_pK0Q0M">
       <graphic url="../../lignes/test/pg_10_pK0Q0M.png"/>
     </surface>
-    <surface xml:id="facs_xWJzW5" points="1462,503 1462,455 2138,474 2141,522 2136,546 1456,524" corresp="#elem_xWJzW5">
+    <surface xml:id="facs_xWJzW5" points="1462,503 1462,455 2138,474 2141,522 2136,546 1456,524"
+      corresp="#elem_xWJzW5">
       <graphic url="../../lignes/test/pg_10_xWJzW5.png"/>
     </surface>
-    <surface xml:id="facs_mkfLeV" points="1462,564 1462,506 2149,527 2149,577 2144,599 1456,585" corresp="#elem_mkfLeV">
+    <surface xml:id="facs_mkfLeV" points="1462,564 1462,506 2149,527 2149,577 2144,599 1456,585"
+      corresp="#elem_mkfLeV">
       <graphic url="../../lignes/test/pg_10_mkfLeV.png"/>
     </surface>
-    <surface xml:id="facs_ydk7cf" points="1462,612 1462,567 2146,580 2149,625 2144,646 1456,633" corresp="#elem_ydk7cf">
+    <surface xml:id="facs_ydk7cf" points="1462,612 1462,567 2146,580 2149,625 2144,646 1456,633"
+      corresp="#elem_ydk7cf">
       <graphic url="../../lignes/test/pg_10_ydk7cf.png"/>
     </surface>
-    <surface xml:id="facs_y1Auon" points="1462,668 1462,617 2133,625 2136,673 2130,689 1456,675" corresp="#elem_y1Auon">
+    <surface xml:id="facs_y1Auon" points="1462,668 1462,617 2133,625 2136,673 2130,689 1456,675"
+      corresp="#elem_y1Auon">
       <graphic url="../../lignes/test/pg_10_y1Auon.png"/>
     </surface>
-    <surface xml:id="facs_e23mMj" points="1456,713 1456,657 2152,673 2152,721 2146,742 1451,731" corresp="#elem_e23mMj">
+    <surface xml:id="facs_e23mMj" points="1456,713 1456,657 2152,673 2152,721 2146,742 1451,731"
+      corresp="#elem_e23mMj">
       <graphic url="../../lignes/test/pg_10_e23mMj.png"/>
     </surface>
-    <surface xml:id="facs_mfSMcg" points="1456,763 1456,713 2138,723 2141,774 2136,795 1451,784" corresp="#elem_mfSMcg">
+    <surface xml:id="facs_mfSMcg" points="1456,763 1456,713 2138,723 2141,774 2136,795 1451,784"
+      corresp="#elem_mfSMcg">
       <graphic url="../../lignes/test/pg_10_mfSMcg.png"/>
     </surface>
-    <surface xml:id="facs_lwOW0b" points="1459,805 1459,766 2149,768 2149,819 2144,840 1454,824" corresp="#elem_lwOW0b">
+    <surface xml:id="facs_lwOW0b" points="1459,805 1459,766 2149,768 2149,819 2144,840 1454,824"
+      corresp="#elem_lwOW0b">
       <graphic url="../../lignes/test/pg_10_lwOW0b.png"/>
     </surface>
-    <surface xml:id="facs_u5FGpf" points="1454,858 1454,811 2149,824 2149,872 2144,888 1448,872" corresp="#elem_u5FGpf">
+    <surface xml:id="facs_u5FGpf" points="1454,858 1454,811 2149,824 2149,872 2144,888 1448,872"
+      corresp="#elem_u5FGpf">
       <graphic url="../../lignes/test/pg_10_u5FGpf.png"/>
     </surface>
-    <surface xml:id="facs_ba7g8c" points="1448,906 1448,856 2138,872 2138,917 2133,941 1443,925" corresp="#elem_ba7g8c">
+    <surface xml:id="facs_ba7g8c" points="1448,906 1448,856 2138,872 2138,917 2133,941 1443,925"
+      corresp="#elem_ba7g8c">
       <graphic url="../../lignes/test/pg_10_ba7g8c.png"/>
     </surface>
-    <surface xml:id="facs_oPxHdN" points="1446,959 1446,909 2136,925 2138,972 2133,991 1440,978" corresp="#elem_oPxHdN">
+    <surface xml:id="facs_oPxHdN" points="1446,959 1446,909 2136,925 2138,972 2133,991 1440,978"
+      corresp="#elem_oPxHdN">
       <graphic url="../../lignes/test/pg_10_oPxHdN.png"/>
     </surface>
-    <surface xml:id="facs_wu5aO9" points="1451,1009 1451,962 2146,972 2146,1017 2141,1036 1446,1028" corresp="#elem_wu5aO9">
+    <surface xml:id="facs_wu5aO9" points="1451,1009 1451,962 2146,972 2146,1017 2141,1036 1446,1028"
+      corresp="#elem_wu5aO9">
       <graphic url="../../lignes/test/pg_10_wu5aO9.png"/>
     </surface>
-    <surface xml:id="facs_zIfd2u" points="1446,1060 1446,1007 2146,1031 2146,1073 2141,1084 1440,1081" corresp="#elem_zIfd2u">
+    <surface xml:id="facs_zIfd2u" points="1446,1060 1446,1007 2146,1031 2146,1073 2141,1084 1440,1081"
+      corresp="#elem_zIfd2u">
       <graphic url="../../lignes/test/pg_10_zIfd2u.png"/>
     </surface>
-    <surface xml:id="facs_sb2Yb8" points="1446,1113 1446,1062 2138,1070 2141,1116 2136,1126 1440,1123" corresp="#elem_sb2Yb8">
+    <surface xml:id="facs_sb2Yb8" points="1446,1113 1446,1062 2138,1070 2141,1116 2136,1126 1440,1123"
+      corresp="#elem_sb2Yb8">
       <graphic url="../../lignes/test/pg_10_sb2Yb8.png"/>
     </surface>
-    <surface xml:id="facs_vxhz6q" points="1443,1155 1443,1110 2128,1123 2130,1166 2125,1187 1438,1169" corresp="#elem_vxhz6q">
+    <surface xml:id="facs_vxhz6q" points="1443,1155 1443,1110 2128,1123 2130,1166 2125,1187 1438,1169"
+      corresp="#elem_vxhz6q">
       <graphic url="../../lignes/test/pg_10_vxhz6q.png"/>
     </surface>
-    <surface xml:id="facs_u37UuB" points="1443,1211 1443,1163 2125,1169 2128,1219 2122,1235 1438,1227" corresp="#elem_u37UuB">
+    <surface xml:id="facs_u37UuB" points="1443,1211 1443,1163 2125,1169 2128,1219 2122,1235 1438,1227"
+      corresp="#elem_u37UuB">
       <graphic url="../../lignes/test/pg_10_u37UuB.png"/>
     </surface>
-    <surface xml:id="facs_srUDdG" points="1443,1261 1443,1214 2133,1219 2133,1272 2128,1285 1438,1275" corresp="#elem_srUDdG">
+    <surface xml:id="facs_srUDdG" points="1443,1261 1443,1214 2133,1219 2133,1272 2128,1285 1438,1275"
+      corresp="#elem_srUDdG">
       <graphic url="../../lignes/test/pg_10_srUDdG.png"/>
     </surface>
-    <surface xml:id="facs_riHZXA" points="1443,1314 1443,1261 2144,1275 2144,1322 2138,1346 1438,1330" corresp="#elem_riHZXA">
+    <surface xml:id="facs_riHZXA" points="1443,1314 1443,1261 2144,1275 2144,1322 2138,1346 1438,1330"
+      corresp="#elem_riHZXA">
       <graphic url="../../lignes/test/pg_10_riHZXA.png"/>
     </surface>
-    <surface xml:id="facs_jvtQM8" points="1440,1365 1440,1314 2136,1328 2138,1373 2136,1391 1438,1391" corresp="#elem_jvtQM8">
+    <surface xml:id="facs_jvtQM8" points="1440,1365 1440,1314 2136,1328 2138,1373 2136,1391 1438,1391"
+      corresp="#elem_jvtQM8">
       <graphic url="../../lignes/test/pg_10_jvtQM8.png"/>
     </surface>
-    <surface xml:id="facs_il2Loo" points="1438,1415 1438,1373 2130,1381 2133,1426 2128,1450 1432,1439" corresp="#elem_il2Loo">
+    <surface xml:id="facs_il2Loo" points="1438,1415 1438,1373 2130,1381 2133,1426 2128,1450 1432,1439"
+      corresp="#elem_il2Loo">
       <graphic url="../../lignes/test/pg_10_il2Loo.png"/>
     </surface>
-    <surface xml:id="facs_bHSdfp" points="1438,1468 1438,1423 2125,1434 2128,1479 2122,1489 1432,1481" corresp="#elem_bHSdfp">
+    <surface xml:id="facs_bHSdfp" points="1438,1468 1438,1423 2125,1434 2128,1479 2122,1489 1432,1481"
+      corresp="#elem_bHSdfp">
       <graphic url="../../lignes/test/pg_10_bHSdfp.png"/>
     </surface>
-    <surface xml:id="facs_zzx0HO" points="1438,1521 1438,1476 2109,1484 2112,1529 2106,1550 1432,1537" corresp="#elem_zzx0HO">
+    <surface xml:id="facs_zzx0HO" points="1438,1521 1438,1476 2109,1484 2112,1529 2106,1550 1432,1537"
+      corresp="#elem_zzx0HO">
       <graphic url="../../lignes/test/pg_10_zzx0HO.png"/>
     </surface>
-    <surface xml:id="facs_ui9GWg" points="1438,1571 1438,1518 2136,1529 2136,1582 2130,1603 1432,1585" corresp="#elem_ui9GWg">
+    <surface xml:id="facs_ui9GWg" points="1438,1571 1438,1518 2136,1529 2136,1582 2130,1603 1432,1585"
+      corresp="#elem_ui9GWg">
       <graphic url="../../lignes/test/pg_10_ui9GWg.png"/>
     </surface>
-    <surface xml:id="facs_r2YQxg" points="1432,1619 1432,1571 2130,1585 2133,1630 2128,1651 1427,1632" corresp="#elem_r2YQxg">
+    <surface xml:id="facs_r2YQxg" points="1432,1619 1432,1571 2130,1585 2133,1630 2128,1651 1427,1632"
+      corresp="#elem_r2YQxg">
       <graphic url="../../lignes/test/pg_10_r2YQxg.png"/>
     </surface>
-    <surface xml:id="facs_edNLXL" points="1432,1672 1432,1614 2122,1635 2125,1683 2120,1693 1427,1691" corresp="#elem_edNLXL">
+    <surface xml:id="facs_edNLXL" points="1432,1672 1432,1614 2122,1635 2125,1683 2120,1693 1427,1691"
+      corresp="#elem_edNLXL">
       <graphic url="../../lignes/test/pg_10_edNLXL.png"/>
     </surface>
-    <surface xml:id="facs_eLHhQp" points="1430,1725 1430,1677 2117,1688 2120,1736 2117,1746 1427,1749" corresp="#elem_eLHhQp">
+    <surface xml:id="facs_eLHhQp" points="1430,1725 1430,1677 2117,1688 2120,1736 2117,1746 1427,1749"
+      corresp="#elem_eLHhQp">
       <graphic url="../../lignes/test/pg_10_eLHhQp.png"/>
     </surface>
-    <surface xml:id="facs_z2RRks" points="1430,1781 1430,1733 2136,1741 2136,1789 2133,1799 1427,1802" corresp="#elem_z2RRks">
+    <surface xml:id="facs_z2RRks" points="1430,1781 1430,1733 2136,1741 2136,1789 2133,1799 1427,1802"
+      corresp="#elem_z2RRks">
       <graphic url="../../lignes/test/pg_10_z2RRks.png"/>
     </surface>
-    <surface xml:id="facs_lPjceU" points="1432,1831 1432,1784 2125,1791 2128,1839 2122,1850 1427,1844" corresp="#elem_lPjceU">
+    <surface xml:id="facs_lPjceU" points="1432,1831 1432,1784 2125,1791 2128,1839 2122,1850 1427,1844"
+      corresp="#elem_lPjceU">
       <graphic url="../../lignes/test/pg_10_lPjceU.png"/>
     </surface>
-    <surface xml:id="facs_kw14YY" points="1430,1876 1430,1826 2125,1839 2128,1890 2122,1900 1425,1895" corresp="#elem_kw14YY">
+    <surface xml:id="facs_kw14YY" points="1430,1876 1430,1826 2125,1839 2128,1890 2122,1900 1425,1895"
+      corresp="#elem_kw14YY">
       <graphic url="../../lignes/test/pg_10_kw14YY.png"/>
     </surface>
-    <surface xml:id="facs_odgJ7m" points="1427,1929 1427,1890 2133,1890 2133,1929 2133,1943 1427,1945" corresp="#elem_odgJ7m">
+    <surface xml:id="facs_odgJ7m" points="1427,1929 1427,1890 2133,1890 2133,1929 2133,1943 1427,1945"
+      corresp="#elem_odgJ7m">
       <graphic url="../../lignes/test/pg_10_odgJ7m.png"/>
     </surface>
-    <surface xml:id="facs_too3bT" points="1425,1974 1425,1921 2122,1927 2125,1985 2120,1996 1419,1993" corresp="#elem_too3bT">
+    <surface xml:id="facs_too3bT" points="1425,1974 1425,1921 2122,1927 2125,1985 2120,1996 1419,1993"
+      corresp="#elem_too3bT">
       <graphic url="../../lignes/test/pg_10_too3bT.png"/>
     </surface>
-    <surface xml:id="facs_kuqClu" points="1427,2030 1425,1985 2128,1974 2130,2030 2130,2057 1427,2057" corresp="#elem_kuqClu">
+    <surface xml:id="facs_kuqClu" points="1427,2030 1425,1985 2128,1974 2130,2030 2130,2057 1427,2057"
+      corresp="#elem_kuqClu">
       <graphic url="../../lignes/test/pg_10_kuqClu.png"/>
     </surface>
-    <surface xml:id="facs_vH72F9" points="1425,2078 1425,2033 2128,2041 2130,2086 2128,2104 1422,2104" corresp="#elem_vH72F9">
+    <surface xml:id="facs_vH72F9" points="1425,2078 1425,2033 2128,2041 2130,2086 2128,2104 1422,2104"
+      corresp="#elem_vH72F9">
       <graphic url="../../lignes/test/pg_10_vH72F9.png"/>
     </surface>
-    <surface xml:id="facs_kyAq0Y" points="1425,2128 1425,2086 2117,2088 2120,2133 2117,2144 1422,2149" corresp="#elem_kyAq0Y">
+    <surface xml:id="facs_kyAq0Y" points="1425,2128 1425,2086 2117,2088 2120,2133 2117,2144 1422,2149"
+      corresp="#elem_kyAq0Y">
       <graphic url="../../lignes/test/pg_10_kyAq0Y.png"/>
     </surface>
-    <surface xml:id="facs_eX2vmY" points="1425,2173 1425,2125 2133,2139 2133,2181 2128,2205 1419,2197" corresp="#elem_eX2vmY">
+    <surface xml:id="facs_eX2vmY" points="1425,2173 1425,2125 2133,2139 2133,2181 2128,2205 1419,2197"
+      corresp="#elem_eX2vmY">
       <graphic url="../../lignes/test/pg_10_eX2vmY.png"/>
     </surface>
-    <surface xml:id="facs_iMXEP0" points="1419,2226 1419,2186 2114,2186 2114,2226 2112,2250 1417,2245" corresp="#elem_iMXEP0">
+    <surface xml:id="facs_iMXEP0" points="1419,2226 1419,2186 2114,2186 2114,2226 2112,2250 1417,2245"
+      corresp="#elem_iMXEP0">
       <graphic url="../../lignes/test/pg_10_iMXEP0.png"/>
     </surface>
-    <surface xml:id="facs_lZbetx" points="1414,2277 1414,2224 2138,2239 2138,2282 2136,2306 1411,2306" corresp="#elem_lZbetx">
+    <surface xml:id="facs_lZbetx" points="1414,2277 1414,2224 2138,2239 2138,2282 2136,2306 1411,2306"
+      corresp="#elem_lZbetx">
       <graphic url="../../lignes/test/pg_10_lZbetx.png"/>
     </surface>
-    <surface xml:id="facs_fGmjTi" points="1417,2332 1417,2287 2122,2287 2125,2338 2120,2348 1411,2343" corresp="#elem_fGmjTi">
+    <surface xml:id="facs_fGmjTi" points="1417,2332 1417,2287 2122,2287 2125,2338 2120,2348 1411,2343"
+      corresp="#elem_fGmjTi">
       <graphic url="../../lignes/test/pg_10_fGmjTi.png"/>
     </surface>
-    <surface xml:id="facs_yVoubt" points="1419,2377 1419,2327 2114,2338 2117,2383 2112,2406 1414,2393" corresp="#elem_yVoubt">
+    <surface xml:id="facs_yVoubt" points="1419,2377 1419,2327 2114,2338 2117,2383 2112,2406 1414,2393"
+      corresp="#elem_yVoubt">
       <graphic url="../../lignes/test/pg_10_yVoubt.png"/>
     </surface>
-    <surface xml:id="facs_uaqtkZ" points="1419,2428 1419,2375 2109,2393 2112,2436 2106,2459 1414,2446" corresp="#elem_uaqtkZ">
+    <surface xml:id="facs_uaqtkZ" points="1419,2428 1419,2375 2109,2393 2112,2436 2106,2459 1414,2446"
+      corresp="#elem_uaqtkZ">
       <graphic url="../../lignes/test/pg_10_uaqtkZ.png"/>
     </surface>
-    <surface xml:id="facs_yDELtJ" points="1419,2478 1419,2436 2133,2441 2133,2486 2130,2507 1417,2507" corresp="#elem_yDELtJ">
+    <surface xml:id="facs_yDELtJ" points="1419,2478 1419,2436 2133,2441 2133,2486 2130,2507 1417,2507"
+      corresp="#elem_yDELtJ">
       <graphic url="../../lignes/test/pg_10_yDELtJ.png"/>
     </surface>
-    <surface xml:id="facs_iM49Sm" points="1417,2528 1417,2486 2122,2486 2125,2539 2120,2579 1974,2568 1849,2579 1772,2587 1772,2587 1769,2587 1769,2587 1767,2587 1767,2587 1748,2579 1698,2563 1597,2576 1597,2576 1594,2576 1594,2576 1594,2576 1515,2560 1414,2579" corresp="#elem_iM49Sm">
+    <surface xml:id="facs_iM49Sm"
+      points="1417,2528 1417,2486 2122,2486 2125,2539 2120,2579 1974,2568 1849,2579 1772,2587 1772,2587 1769,2587 1769,2587 1767,2587 1767,2587 1748,2579 1698,2563 1597,2576 1597,2576 1594,2576 1594,2576 1594,2576 1515,2560 1414,2579"
+      corresp="#elem_iM49Sm">
       <graphic url="../../lignes/test/pg_10_iM49Sm.png"/>
     </surface>
-    <surface xml:id="facs_hHEnqK" points="554,2170 527,2086 460,2107 437,2002 540,2026 623,2014 776,2013 782,2169" corresp="#elem_hHEnqK">
+    <surface xml:id="facs_hHEnqK"
+      points="554,2170 527,2086 460,2107 437,2002 540,2026 623,2014 776,2013 782,2169"
+      corresp="#elem_hHEnqK">
       <graphic url="../../lignes/test/pg_10_hHEnqK.png"/>
     </surface>
     <surface xml:id="facs_krfBdC" points="478,1051 478,929 569,929 569,1051" corresp="#elem_krfBdC">
@@ -311,7 +419,104 @@
   <text>
     <body>
       <div>
-        <p><pb n="" facs="../../test/pg_10.png"/><ab type="untyped"><lb break="?" facs="#facs_fAHRvi" xml:id="elem_fAHRvi"/>.la<lb break="?" facs="#facs_aqGOyQ" xml:id="elem_aqGOyQ"/>Segunꝺa<lb break="?" facs="#facs_kgDORf" xml:id="elem_kgDORf"/>ꝑte</ab><graphic type="lettrine" facs="#facs_hHEnqK" xml:id="elem_hHEnqK"/><add type="margin" facs="#facs_krfBdC" xml:id="elem_krfBdC"/><lb break="?" facs="#facs_f7BMSG" xml:id="elem_f7BMSG"/>enemigos ⁊ oꞇras coſas q̄ ſe ayuntā<lb break="?" facs="#facs_yBAls7" xml:id="elem_yBAls7"/>aeſtas aꝺelanꞇe pareſçra/¶Lo ·viij° q̄<lb break="?" facs="#facs_conlfc" xml:id="elem_conlfc"/>ꝑꞇeneſçe alos liꝺiaꝺores es ꝺe aủ ủgu<lb break="?" facs="#facs_wpWPzr" xml:id="elem_wpWPzr"/>ença ⁊ ꝺe g̈rꝺar ſe ꝺe nō foyr ꞇorpe mē<lb break="?" facs="#facs_xTdlT7" xml:id="elem_xTdlT7"/>ꞇe ꝺła baꞇalla/· Ca aſſi cōmo ꝺiz̄e e l pħo<lb break="?" facs="#facs_qL1ael" xml:id="elem_qL1ael"/>en̄l ꞇ̀çero lobro dłas eꞇḧs enꞇre aq̄llos<lb break="?" facs="#facs_oTaNZO" xml:id="elem_oTaNZO"/>ſon los varones muy fuerꞇes enꞇre<lb break="?" facs="#facs_ec7OE7" xml:id="elem_ec7OE7"/>los q̈les los fuerꞇes ſon muẏ honrra<lb break="?" facs="#facs_x8cFTs" xml:id="elem_x8cFTs"/>ꝺos/· Mas enꞇre ꞇoꝺas las coſas q̄ fa<lb break="?" facs="#facs_uQm1zO" xml:id="elem_uQm1zO"/>zē al om̄ē buē liꝺiaꝺor es ꝺeſſear ꝺe<lb break="?" facs="#facs_v5gPYT" xml:id="elem_v5gPYT"/>ſer hōraꝺo por baꞇalla ⁊ ꝺe aủ ủguē<lb break="?" facs="#facs_gYHwVJ" xml:id="elem_gYHwVJ"/>na ꝺe foyr ꞇorpe mēꞇe dła baꞇalla/·<lb break="?" facs="#facs_zIwYTp" xml:id="elem_zIwYTp"/>Mas ꝺeuemos parar miēꞇes q̄ q̈nꝺo<lb break="?" facs="#facs_bwhyhI" xml:id="elem_bwhyhI"/>ꝺezimos q̄ los liꝺiaꝺores nō ꝺeuē abo<lb break="?" facs="#facs_wuNhYw" xml:id="elem_wuNhYw"/>nī<lb break="?" facs="#facs_wq7b4y" xml:id="elem_wq7b4y"/>rreſçer el eſꝑzimiēꞇo dła ſangrē ꝺe<lb break="?" facs="#facs_ecTOrq" xml:id="elem_ecTOrq"/>uē mucho p̀çiar la viꝺa corporal eꞇ<lb break="?" facs="#facs_m5Fmqo" xml:id="elem_m5Fmqo"/>las oꞇras coſas ꞇales q̄ mas cōpliꝺa<lb break="?" facs="#facs_q3zVaQ" xml:id="elem_q3zVaQ"/>mēꞇe cōꞇamos ꝺeſuſo · eſto ſe enꞇiē<lb break="?" facs="#facs_rEJ4TS" xml:id="elem_rEJ4TS"/>ꝺe ſi ouierē baꞇalla ꝺerecḧ/· Ca por<lb break="?" facs="#facs_h2cYDI" xml:id="elem_h2cYDI"/>ꝺefenꝺimīēꞇo dła iuſtiçia ⁊ por ꝺefē<lb break="?" facs="#facs_fgmFzW" xml:id="elem_fgmFzW"/>ꝺimiēꞇo ꝺł biē comū es ꝺe pon̉ la vi<lb break="?" facs="#facs_q4IRkW" xml:id="elem_q4IRkW"/>ꝺa corporal aꝑiglo ꝺe muerꞇe ⁊ nō<lb break="?" facs="#facs_x2brO1" xml:id="elem_x2brO1"/>ꝺeue foyr nī aủ mieꝺo ꝺe eſꝑzer la<lb break="?" facs="#facs_qA9HKN" xml:id="elem_qA9HKN"/>ſangre ⁊ ꞇoꝺas las oꞇras cōſas ꝺi<lb break="?" facs="#facs_jalbsS" xml:id="elem_jalbsS"/>cḧs q̄ ſon ꝺe faz̉ por las q̈les la iuſ<lb break="?" facs="#facs_uhHXYt" xml:id="elem_uhHXYt"/>ꞇiçia ⁊ el biē comū ſe pueꝺa ꝺefēꝺer<lb break="?" facs="#facs_uVB6iG" xml:id="elem_uVB6iG"/>Eꞇ ꝺeſtas coſas pareſçe llana mēꞇe<lb break="?" facs="#facs_nr2ae4" xml:id="elem_nr2ae4"/>q̈les liꝺiaꝺores ⁊ q̈les om̄s ꝑa liꞇ ꝺe<lb break="?" facs="#facs_aIFHVP" xml:id="elem_aIFHVP"/>ua eſcog̉ el Reẏ/o el p̀ncipe/· Ca aq̄<lb break="?" facs="#facs_c11cjg" xml:id="elem_c11cjg"/>llos ſon ꝺe eſcoger enlos q̈les ſon fa<lb break="?" facs="#facs_iFB4gc" xml:id="elem_iFB4gc"/>llaꝺas las mas coſas ꝺe aq̄llas q̄ ꝑ<lb break="?" facs="#facs_uCVLSu" xml:id="elem_uCVLSu"/>ꞇeneſçē ala baꞇalla/  Capło ·v°·<lb break="?" facs="#facs_brhFhp" xml:id="elem_brhFhp"/>q̈les ſon meiores liꝺiaꝺores/ o los<lb break="?" facs="#facs_bbXSpy" xml:id="elem_bbXSpy"/>çibꝺaꝺanos ⁊ los nobles / o los labra<lb break="?" facs="#facs_hRvYZB" xml:id="elem_hRvYZB"/>ꝺores o los alꝺeanos  ſe<lb break="?" facs="#facs_bpY8wO" xml:id="elem_bpY8wO"/>onꞇaꝺas aq̄llas coſas q̄<lb break="?" facs="#facs_oTE6aD" xml:id="elem_oTE6aD"/>los liꝺiaꝺores ꝺeuē auer<lb break="?" facs="#facs_cZxSni" xml:id="elem_cZxSni"/>finca ꝺe ꝺemāꝺar q̈les<lb break="?" facs="#facs_aVvWi7" xml:id="elem_aVvWi7"/>ſon los meiores liꝺiaꝺores/· o los<lb break="?" facs="#facs_dalNt6" xml:id="elem_dalNt6"/>dłas çibꝺaꝺes ⁊ los nobles/· o los al<lb break="?" facs="#facs_crVyNy" xml:id="elem_crVyNy"/>ꝺeanos ⁊ les villanos /· Mas pareſ<lb break="?" facs="#facs_umhLRr" xml:id="elem_umhLRr"/>çe q̄ ſi fuerē penſſaꝺas las coſas q̄<lb break="?" facs="#facs_yq5mhX" xml:id="elem_yq5mhX"/>ꝺichas ſon /· los alꝺeanos ſon me<lb break="?" facs="#facs_yQ007m" xml:id="elem_yQ007m"/>iores ꝑa liꝺiar/· Eꞇ ꝺeſta opinion<lb break="?" facs="#facs_lL4wSz" xml:id="elem_lL4wSz"/>fue vegeçio ꝺizienꝺo aſſi Creo q̄<fw type="titre_courant"><lb break="?" facs="#facs_vQT1Nn" xml:id="elem_vQT1Nn"/>iij°</fw><cb break="?"/><lb break="?" facs="#facs_cWOAmb" xml:id="elem_cWOAmb"/>nīguno nūca puꝺo ꝺubꝺar q̄los<lb break="?" facs="#facs_xd4oWG" xml:id="elem_xd4oWG"/>om̄s ruſticos ⁊ alꝺeanos nō fueſſen<lb break="?" facs="#facs_fuqODi" xml:id="elem_fuqODi"/>meiores ꝑa las armas q̄ los q̄ ſon ꝺe<lb break="?" facs="#facs_pK0Q0M" xml:id="elem_pK0Q0M"/>licaꝺa mēꞇe criaꝺos/· Eꞇ aeſto fazē<lb break="?" facs="#facs_xWJzW5" xml:id="elem_xWJzW5"/>avn aq̄llas coſas q̄ ꝺicḧs ſon ꝺeſuſo<lb break="?" facs="#facs_mkfLeV" xml:id="elem_mkfLeV"/>Ca aſſi cōmo ꝺixiemos ꝺeſuſo cōui<lb break="?" facs="#facs_ydk7cf" xml:id="elem_ydk7cf"/>ene q̄ los om̄s liꝺiaꝺores ſean ꞇales<lb break="?" facs="#facs_y1Auon" xml:id="elem_y1Auon"/>q̄ pueꝺā ſofrir grāꝺes pelos ⁊ grā<lb break="?" facs="#facs_e23mMj" xml:id="elem_e23mMj"/>ꝺes ꞇrabaios cōꞇinuaꝺos en los ſus cu<lb break="?" facs="#facs_mfSMcg" xml:id="elem_mfSMcg"/>erpos ⁊ q̄ pueꝺā ſofrir eſcaſſeça ꝺe vi<lb break="?" facs="#facs_lwOW0b" xml:id="elem_lwOW0b"/>anꝺas ⁊ ſofrir mal yazer ⁊ mal eſtar<lb break="?" facs="#facs_u5FGpf" xml:id="elem_u5FGpf"/>⁊ nō ꞇemer la muerꞇe ⁊ nō ꞇemer nī<lb break="?" facs="#facs_ba7g8c" xml:id="elem_ba7g8c"/>aboꝛreſçer el eſꝑzimiēꞇo ꝺła ſangre<lb break="?" facs="#facs_oPxHdN" xml:id="elem_oPxHdN"/>⁊ las oꞇras coſas q̄ cōꞇamos en̄l capło<lb break="?" facs="#facs_wu5aO9" xml:id="elem_wu5aO9"/>ſobreꝺicḧ /· Eꞇ çiẻꞇo es q̄ el pueblo alꝺe<lb break="?" facs="#facs_zIfd2u" xml:id="elem_zIfd2u"/>ano ha mas p̀nçipal mēꞇe eſtas coſas<lb break="?" facs="#facs_sb2Yb8" xml:id="elem_sb2Yb8"/>ſobreꝺichas q̄ los nobles q̄ſon criaꝺos<lb break="?" facs="#facs_vxhz6q" xml:id="elem_vxhz6q"/>viçioſa mēꞇe · por q̄ los aſꝺeanos ſon<lb break="?" facs="#facs_u37UuB" xml:id="elem_u37UuB"/>acoſtūbraꝺos aleuar grāꝺes cargas<lb break="?" facs="#facs_srUDdG" xml:id="elem_srUDdG"/>⁊ grāꝺes peſos /· Eꞇ por enꝺe nōſe ag̈<lb break="?" facs="#facs_riHZXA" xml:id="elem_riHZXA"/>uiariā ꝺe grāꞇ carga ꝺe amas enlas<lb break="?" facs="#facs_jvtQM8" xml:id="elem_jvtQM8"/>baꞇallas aq̄llos q̄ cōꞇinuaꝺa mēꞇe en<lb break="?" facs="#facs_il2Loo" xml:id="elem_il2Loo"/>ꞇp̄o dła paz ſon acoſtūbraꝺos amayo<lb break="?" facs="#facs_bHSdfp" xml:id="elem_bHSdfp"/>res cargas/· Eꞇ avn nō cāſſā en co<lb break="?" facs="#facs_zzx0HO" xml:id="elem_zzx0HO"/>rrer nī en moủ los braços nī vſar<lb break="?" facs="#facs_ui9GWg" xml:id="elem_ui9GWg"/>los mouimiēꞇos dłos oꞇros mebros<lb break="?" facs="#facs_r2YQxg" xml:id="elem_r2YQxg"/>ꝺł cuerꝑo/· Ca aeſtos ⁊ amayores ꞇra<lb break="?" facs="#facs_edNLXL" xml:id="elem_edNLXL"/>baios ſon vſaꝺos ꝺe caꝺal ꝺia/· Oꞇro<lb break="?" facs="#facs_eLHhQp" xml:id="elem_eLHhQp"/>ſſi eſtos nō reſçibē g̈nd ag̈uiamēꞇo<lb break="?" facs="#facs_z2RRks" xml:id="elem_z2RRks"/>dła eſcaſſeza dła vianꝺa alos q̈les aba<lb break="?" facs="#facs_lPjceU" xml:id="elem_lPjceU"/>ſta el agua en la ſeꝺ ⁊ el pā grueſo en<lb break="?" facs="#facs_kw14YY" xml:id="elem_kw14YY"/>comer/· Oꞇro ſſilos aſꝺeanos nō ſe ag̈<lb break="?" facs="#facs_odgJ7m" xml:id="elem_odgJ7m"/>niā en mal yazer nī en mal eſtar ca<lb break="?" facs="#facs_too3bT" xml:id="elem_too3bT"/>nō ꞇemē dła grāꞇ calenꞇ᷑a ꝺł ſol nī hā<lb break="?" facs="#facs_kuqClu" xml:id="elem_kuqClu"/>cuyꝺaꝺo ꝺe ſonbra nī ſabē dłos ſolazeᷤ<lb break="?" facs="#facs_vH72F9" xml:id="elem_vH72F9"/>dłos vānos/· Eꞇ yazieꝺo en la ꞇ̄rra du<lb break="?" facs="#facs_kyAq0Y" xml:id="elem_kyAq0Y"/>ra mas folgaꝺa mēꞇe ꝺuermē q̄ los<lb break="?" facs="#facs_eX2vmY" xml:id="elem_eX2vmY"/>çibꝺaꝺanos/ ⁊ los nobles fuelgā ē los<lb break="?" facs="#facs_iMXEP0" xml:id="elem_iMXEP0"/>coçeꝺras · Eꞇ avn aſas es coſa ꝓua<lb break="?" facs="#facs_lZbetx" xml:id="elem_lZbetx"/>ꝺa q̄ eſtos poco ꞇemē la muerꞇe ca ꞇāꞇo<lb break="?" facs="#facs_fGmjTi" xml:id="elem_fGmjTi"/>mas ꞇeme caꝺa vno la muerꞇe q̈nꞇo<lb break="?" facs="#facs_yVoubt" xml:id="elem_yVoubt"/>mas ꝺelicaꝺa mēꞇe biuē ⁊ q̈nꞇo mas<lb break="?" facs="#facs_uaqtkZ" xml:id="elem_uaqtkZ"/>vſo en ſu viꝺa ꝺe ꝺelicamiēꞇos /· Eꞇ<lb break="?" facs="#facs_yDELtJ" xml:id="elem_yDELtJ"/>avn pareſçe q̄ eſtos nō aboreſçē ꝺerra<lb break="?" facs="#facs_iM49Sm" xml:id="elem_iM49Sm"/>mamiēꞇo ꝺe ſangre/·Ca enꞇre ꞇoꝺas</p>
+        <p><pb n="" facs="../../test/pg_10.png"/><ab type="untyped"><lb break="?" facs="#facs_fAHRvi"
+              xml:id="elem_fAHRvi"/>.la<lb break="?" facs="#facs_aqGOyQ" xml:id="elem_aqGOyQ"/>Segunꝺa<lb
+              break="?" facs="#facs_kgDORf" xml:id="elem_kgDORf"/>ꝑte</ab><graphic type="lettrine"
+            facs="#facs_hHEnqK" xml:id="elem_hHEnqK"/><add type="margin" facs="#facs_krfBdC"
+            xml:id="elem_krfBdC"/><lb break="?" facs="#facs_f7BMSG" xml:id="elem_f7BMSG"/>enemigos ⁊
+          oꞇras coſas q̄ ſe ayuntā<lb break="?" facs="#facs_yBAls7" xml:id="elem_yBAls7"/>aeſtas
+          aꝺelanꞇe pareſçra/¶Lo ·viij° q̄<lb break="?" facs="#facs_conlfc" xml:id="elem_conlfc"/>ꝑꞇeneſçe
+          alos liꝺiaꝺores es ꝺe aủ ủgu<lb break="?" facs="#facs_wpWPzr" xml:id="elem_wpWPzr"/>ença ⁊ ꝺe
+          g̈rꝺar ſe ꝺe nō foyr ꞇorpe mē<lb break="?" facs="#facs_xTdlT7" xml:id="elem_xTdlT7"/>ꞇe ꝺła
+          baꞇalla/· Ca aſſi cōmo ꝺiz̄e e l pħo<lb break="?" facs="#facs_qL1ael" xml:id="elem_qL1ael"
+          />en̄l ꞇ̀çero lobro dłas eꞇḧs enꞇre aq̄llos<lb break="?" facs="#facs_oTaNZO"
+            xml:id="elem_oTaNZO"/>ſon los varones muy fuerꞇes enꞇre<lb break="?" facs="#facs_ec7OE7"
+            xml:id="elem_ec7OE7"/>los q̈les los fuerꞇes ſon muẏ honrra<lb break="?" facs="#facs_x8cFTs"
+            xml:id="elem_x8cFTs"/>ꝺos/· Mas enꞇre ꞇoꝺas las coſas q̄ fa<lb break="?" facs="#facs_uQm1zO"
+            xml:id="elem_uQm1zO"/>zē al om̄ē buē liꝺiaꝺor es ꝺeſſear ꝺe<lb break="?"
+            facs="#facs_v5gPYT" xml:id="elem_v5gPYT"/>ſer hōraꝺo por baꞇalla ⁊ ꝺe aủ ủguē<lb
+            break="?" facs="#facs_gYHwVJ" xml:id="elem_gYHwVJ"/>na ꝺe foyr ꞇorpe mēꞇe dła baꞇalla/·<lb
+            break="?" facs="#facs_zIwYTp" xml:id="elem_zIwYTp"/>Mas ꝺeuemos parar miēꞇes q̄ q̈nꝺo<lb
+            break="?" facs="#facs_bwhyhI" xml:id="elem_bwhyhI"/>ꝺezimos q̄ los liꝺiaꝺores nō ꝺeuē
+            abo<lb break="?" facs="#facs_wuNhYw" xml:id="elem_wuNhYw"/>nī<lb break="?"
+            facs="#facs_wq7b4y" xml:id="elem_wq7b4y"/>rreſçer el eſꝑzimiēꞇo dła ſangrē ꝺe<lb break="?"
+            facs="#facs_ecTOrq" xml:id="elem_ecTOrq"/>uē mucho p̀çiar la viꝺa corporal eꞇ<lb break="?"
+            facs="#facs_m5Fmqo" xml:id="elem_m5Fmqo"/>las oꞇras coſas ꞇales q̄ mas cōpliꝺa<lb break="?"
+            facs="#facs_q3zVaQ" xml:id="elem_q3zVaQ"/>mēꞇe cōꞇamos ꝺeſuſo · eſto ſe enꞇiē<lb break="?"
+            facs="#facs_rEJ4TS" xml:id="elem_rEJ4TS"/>ꝺe ſi ouierē baꞇalla ꝺerecḧ/· Ca por<lb break="?"
+            facs="#facs_h2cYDI" xml:id="elem_h2cYDI"/>ꝺefenꝺimīēꞇo dła iuſtiçia ⁊ por ꝺefē<lb
+            break="?" facs="#facs_fgmFzW" xml:id="elem_fgmFzW"/>ꝺimiēꞇo ꝺł biē comū es ꝺe pon̉ la
+            vi<lb break="?" facs="#facs_q4IRkW" xml:id="elem_q4IRkW"/>ꝺa corporal aꝑiglo ꝺe muerꞇe ⁊
+            nō<lb break="?" facs="#facs_x2brO1" xml:id="elem_x2brO1"/>ꝺeue foyr nī aủ mieꝺo ꝺe eſꝑzer
+            la<lb break="?" facs="#facs_qA9HKN" xml:id="elem_qA9HKN"/>ſangre ⁊ ꞇoꝺas las oꞇras cōſas
+            ꝺi<lb break="?" facs="#facs_jalbsS" xml:id="elem_jalbsS"/>cḧs q̄ ſon ꝺe faz̉ por las q̈les
+          la iuſ<lb break="?" facs="#facs_uhHXYt" xml:id="elem_uhHXYt"/>ꞇiçia ⁊ el biē comū ſe pueꝺa
+            ꝺefēꝺer<lb break="?" facs="#facs_uVB6iG" xml:id="elem_uVB6iG"/>Eꞇ ꝺeſtas coſas pareſçe llana
+            mēꞇe<lb break="?" facs="#facs_nr2ae4" xml:id="elem_nr2ae4"/>q̈les liꝺiaꝺores ⁊ q̈les om̄s ꝑa
+          liꞇ ꝺe<lb break="?" facs="#facs_aIFHVP" xml:id="elem_aIFHVP"/>ua eſcog̉ el Reẏ/o el p̀ncipe/·
+          Ca aq̄<lb break="?" facs="#facs_c11cjg" xml:id="elem_c11cjg"/>llos ſon ꝺe eſcoger enlos q̈les
+          ſon fa<lb break="?" facs="#facs_iFB4gc" xml:id="elem_iFB4gc"/>llaꝺas las mas coſas ꝺe aq̄llas
+          q̄ ꝑ<lb break="?" facs="#facs_uCVLSu" xml:id="elem_uCVLSu"/>ꞇeneſçē ala baꞇalla/ Capło ·v°·<lb
+            break="?" facs="#facs_brhFhp" xml:id="elem_brhFhp"/>q̈les ſon meiores liꝺiaꝺores/ o los<lb
+            break="?" facs="#facs_bbXSpy" xml:id="elem_bbXSpy"/>çibꝺaꝺanos ⁊ los nobles / o los labra<lb
+            break="?" facs="#facs_hRvYZB" xml:id="elem_hRvYZB"/>ꝺores o los alꝺeanos ſe<lb break="?"
+            facs="#facs_bpY8wO" xml:id="elem_bpY8wO"/>onꞇaꝺas aq̄llas coſas q̄<lb break="?"
+            facs="#facs_oTE6aD" xml:id="elem_oTE6aD"/>los liꝺiaꝺores ꝺeuē auer<lb break="?"
+            facs="#facs_cZxSni" xml:id="elem_cZxSni"/>finca ꝺe ꝺemāꝺar q̈les<lb break="?"
+            facs="#facs_aVvWi7" xml:id="elem_aVvWi7"/>ſon los meiores liꝺiaꝺores/· o los<lb break="?"
+            facs="#facs_dalNt6" xml:id="elem_dalNt6"/>dłas çibꝺaꝺes ⁊ los nobles/· o los al<lb break="?"
+            facs="#facs_crVyNy" xml:id="elem_crVyNy"/>ꝺeanos ⁊ les villanos /· Mas pareſ<lb break="?"
+            facs="#facs_umhLRr" xml:id="elem_umhLRr"/>çe q̄ ſi fuerē penſſaꝺas las coſas q̄<lb break="?"
+            facs="#facs_yq5mhX" xml:id="elem_yq5mhX"/>ꝺichas ſon /· los alꝺeanos ſon me<lb break="?"
+            facs="#facs_yQ007m" xml:id="elem_yQ007m"/>iores ꝑa liꝺiar/· Eꞇ ꝺeſta opinion<lb break="?"
+            facs="#facs_lL4wSz" xml:id="elem_lL4wSz"/>fue vegeçio ꝺizienꝺo aſſi Creo q̄<fw
+            type="titre_courant"><lb break="?" facs="#facs_vQT1Nn" xml:id="elem_vQT1Nn"/>iij°</fw><cb
+            break="?"/><lb break="?" facs="#facs_cWOAmb" xml:id="elem_cWOAmb"/>nīguno nūca puꝺo ꝺubꝺar
+            q̄los<lb break="?" facs="#facs_xd4oWG" xml:id="elem_xd4oWG"/>om̄s ruſticos ⁊ alꝺeanos nō
+            fueſſen<lb break="?" facs="#facs_fuqODi" xml:id="elem_fuqODi"/>meiores ꝑa las armas q̄ los q̄
+          ſon ꝺe<lb break="?" facs="#facs_pK0Q0M" xml:id="elem_pK0Q0M"/>licaꝺa mēꞇe criaꝺos/· Eꞇ aeſto
+            fazē<lb break="?" facs="#facs_xWJzW5" xml:id="elem_xWJzW5"/>avn aq̄llas coſas q̄ ꝺicḧs ſon
+            ꝺeſuſo<lb break="?" facs="#facs_mkfLeV" xml:id="elem_mkfLeV"/>Ca aſſi cōmo ꝺixiemos ꝺeſuſo
+            cōui<lb break="?" facs="#facs_ydk7cf" xml:id="elem_ydk7cf"/>ene q̄ los om̄s liꝺiaꝺores ſean
+            ꞇales<lb break="?" facs="#facs_y1Auon" xml:id="elem_y1Auon"/>q̄ pueꝺā ſofrir grāꝺes pelos ⁊
+            grā<lb break="?" facs="#facs_e23mMj" xml:id="elem_e23mMj"/>ꝺes ꞇrabaios cōꞇinuaꝺos en los
+          ſus cu<lb break="?" facs="#facs_mfSMcg" xml:id="elem_mfSMcg"/>erpos ⁊ q̄ pueꝺā ſofrir
+          eſcaſſeça ꝺe vi<lb break="?" facs="#facs_lwOW0b" xml:id="elem_lwOW0b"/>anꝺas ⁊ ſofrir mal yazer
+          ⁊ mal eſtar<lb break="?" facs="#facs_u5FGpf" xml:id="elem_u5FGpf"/>⁊ nō ꞇemer la muerꞇe ⁊ nō
+          ꞇemer nī<lb break="?" facs="#facs_ba7g8c" xml:id="elem_ba7g8c"/>aboꝛreſçer el eſꝑzimiēꞇo ꝺła
+            ſangre<lb break="?" facs="#facs_oPxHdN" xml:id="elem_oPxHdN"/>⁊ las oꞇras coſas q̄ cōꞇamos
+          en̄l capło<lb break="?" facs="#facs_wu5aO9" xml:id="elem_wu5aO9"/>ſobreꝺicḧ /· Eꞇ çiẻꞇo es q̄
+          el pueblo alꝺe<lb break="?" facs="#facs_zIfd2u" xml:id="elem_zIfd2u"/>ano ha mas p̀nçipal mēꞇe
+          eſtas coſas<lb break="?" facs="#facs_sb2Yb8" xml:id="elem_sb2Yb8"/>ſobreꝺichas q̄ los nobles
+          q̄ſon criaꝺos<lb break="?" facs="#facs_vxhz6q" xml:id="elem_vxhz6q"/>viçioſa mēꞇe · por q̄ los
+          aſꝺeanos ſon<lb break="?" facs="#facs_u37UuB" xml:id="elem_u37UuB"/>acoſtūbraꝺos aleuar
+          grāꝺes cargas<lb break="?" facs="#facs_srUDdG" xml:id="elem_srUDdG"/>⁊ grāꝺes peſos /· Eꞇ por
+          enꝺe nōſe ag̈<lb break="?" facs="#facs_riHZXA" xml:id="elem_riHZXA"/>uiariā ꝺe grāꞇ carga ꝺe
+          amas enlas<lb break="?" facs="#facs_jvtQM8" xml:id="elem_jvtQM8"/>baꞇallas aq̄llos q̄
+          cōꞇinuaꝺa mēꞇe en<lb break="?" facs="#facs_il2Loo" xml:id="elem_il2Loo"/>ꞇp̄o dła paz ſon
+          acoſtūbraꝺos amayo<lb break="?" facs="#facs_bHSdfp" xml:id="elem_bHSdfp"/>res cargas/· Eꞇ avn
+          nō cāſſā en co<lb break="?" facs="#facs_zzx0HO" xml:id="elem_zzx0HO"/>rrer nī en moủ los
+          braços nī vſar<lb break="?" facs="#facs_ui9GWg" xml:id="elem_ui9GWg"/>los mouimiēꞇos dłos
+          oꞇros mebros<lb break="?" facs="#facs_r2YQxg" xml:id="elem_r2YQxg"/>ꝺł cuerꝑo/· Ca aeſtos ⁊
+          amayores ꞇra<lb break="?" facs="#facs_edNLXL" xml:id="elem_edNLXL"/>baios ſon vſaꝺos ꝺe caꝺal
+          ꝺia/· Oꞇro<lb break="?" facs="#facs_eLHhQp" xml:id="elem_eLHhQp"/>ſſi eſtos nō reſçibē g̈nd
+            ag̈uiamēꞇo<lb break="?" facs="#facs_z2RRks" xml:id="elem_z2RRks"/>dła eſcaſſeza dła vianꝺa
+          alos q̈les aba<lb break="?" facs="#facs_lPjceU" xml:id="elem_lPjceU"/>ſta el agua en la ſeꝺ ⁊
+          el pā grueſo en<lb break="?" facs="#facs_kw14YY" xml:id="elem_kw14YY"/>comer/· Oꞇro ſſilos
+          aſꝺeanos nō ſe ag̈<lb break="?" facs="#facs_odgJ7m" xml:id="elem_odgJ7m"/>niā en mal yazer
+          nī en mal eſtar ca<lb break="?" facs="#facs_too3bT" xml:id="elem_too3bT"/>nō ꞇemē dła grāꞇ
+          calenꞇ᷑a ꝺł ſol nī hā<lb break="?" facs="#facs_kuqClu" xml:id="elem_kuqClu"/>cuyꝺaꝺo ꝺe
+          ſonbra nī ſabē dłos ſolazeᷤ<lb break="?" facs="#facs_vH72F9" xml:id="elem_vH72F9"/>dłos
+          vānos/· Eꞇ yazieꝺo en la ꞇ̄rra du<lb break="?" facs="#facs_kyAq0Y" xml:id="elem_kyAq0Y"/>ra
+          mas folgaꝺa mēꞇe ꝺuermē q̄ los<lb break="?" facs="#facs_eX2vmY" xml:id="elem_eX2vmY"
+          />çibꝺaꝺanos/ ⁊ los nobles fuelgā ē los<lb break="?" facs="#facs_iMXEP0" xml:id="elem_iMXEP0"
+          />coçeꝺras · Eꞇ avn aſas es coſa ꝓua<lb break="?" facs="#facs_lZbetx" xml:id="elem_lZbetx"/>ꝺa
+          q̄ eſtos poco ꞇemē la muerꞇe ca ꞇāꞇo<lb break="?" facs="#facs_fGmjTi" xml:id="elem_fGmjTi"
+          />mas ꞇeme caꝺa vno la muerꞇe q̈nꞇo<lb break="?" facs="#facs_yVoubt" xml:id="elem_yVoubt"/>mas
+          ꝺelicaꝺa mēꞇe biuē ⁊ q̈nꞇo mas<lb break="?" facs="#facs_uaqtkZ" xml:id="elem_uaqtkZ"/>vſo en
+          ſu viꝺa ꝺe ꝺelicamiēꞇos /· Eꞇ<lb break="?" facs="#facs_yDELtJ" xml:id="elem_yDELtJ"/>avn
+          pareſçe q̄ eſtos nō aboreſçē ꝺerra<lb break="?" facs="#facs_iM49Sm" xml:id="elem_iM49Sm"
+          />mamiēꞇo ꝺe ſangre/·Ca enꞇre ꞇoꝺas</p>
       </div>
     </body>
   </text>
