@@ -7,6 +7,14 @@
     <xsl:param name="sigle"/>
     <xsl:param name="input_files"/>
     <xsl:param name="output_file"/>
+    <xsl:param name="MainZoneTag"/>
+    <xsl:param name="MarginTextZoneTag"/>
+    <xsl:param name="NumberingZoneTag"/>
+    <xsl:param name="QuireMarksZoneTag"/>
+    <xsl:param name="RunningTitleZoneTag"/>
+    <xsl:param name="TitleZoneTag"/>
+    <xsl:param name="DropCapitalZoneTag"/>
+    <xsl:param name="HeadingLine_rubricTag"/>
 
     <xsl:strip-space elements="*"/>
     <xsl:output method="xml"/>
@@ -39,12 +47,12 @@
                             <xsl:element name="p" namespace="http://www.tei-c.org/ns/1.0">
                                 <xsl:for-each select="collection(concat($input_files, '?select=*.xml'))">
                                     <!--Change expression here to adapt to filenames-->
-                                    <xsl:sort
-                                        select="substring-before(substring-after(base-uri(), 'pg_'), '.xml')"
+                                    <xsl:sort select="substring-after(substring-before(base-uri(), '.xml'), 'in/')"
                                         data-type="number"/>
+                                    <xsl:message select="substring-after(substring-before(base-uri(), '.xml'), 'in/')"/>
                                     <xsl:variable name="folio">
                                         <xsl:value-of
-                                            select="substring-before(substring-after(substring-after(base-uri(), '/'), '-'), '.xml')"
+                                            select="substring-after(substring-before(base-uri(), '.xml'), 'in/')"
                                         />
                                     </xsl:variable>
                                     <xsl:element name="pb" namespace="http://www.tei-c.org/ns/1.0">
@@ -90,12 +98,12 @@
         <!--Ici on peut se servir de la typologie pour créer une typologie dans le tei:teiHeader-->
     </xsl:template>
 
-    <xsl:template match="alto:TextBlock[@TAGREFS = 'BT2']">
+    <xsl:template match="alto:TextBlock[@TAGREFS = $MainZoneTag]">
         <xsl:variable name="left_hor_pos">
             <xsl:value-of select="@HPOS"/>
         </xsl:variable>
         <!--On remet en place les tei:cb-->
-        <xsl:if test="parent::node()/alto:TextBlock[@TAGREFS = 'BT2'][@HPOS > $left_hor_pos]">
+        <xsl:if test="parent::node()/alto:TextBlock[@TAGREFS = $MainZoneTag][@HPOS > $left_hor_pos]">
             <xsl:element name="cb" namespace="http://www.tei-c.org/ns/1.0">
                 <xsl:attribute name="break">?</xsl:attribute>
             </xsl:element>
@@ -103,7 +111,7 @@
         <xsl:apply-templates/>
     </xsl:template>
 
-    <xsl:template match="alto:TextBlock[@TAGREFS = 'BT30']">
+    <xsl:template match="alto:TextBlock[@TAGREFS = $QuireMarksZoneTag]">
         <xsl:element name="fw" namespace="http://www.tei-c.org/ns/1.0">
             <xsl:attribute name="type">reclame</xsl:attribute>
             <xsl:apply-templates/>
@@ -112,7 +120,7 @@
 
 
 
-    <xsl:template match="alto:TextBlock[@TAGREFS = 'LT3']">
+    <xsl:template match="alto:TextBlock[@TAGREFS = $MarginTextZoneTag]">
         <xsl:element name="add" namespace="http://www.tei-c.org/ns/1.0">
             <xsl:attribute name="type">ajout</xsl:attribute>
             <xsl:attribute name="place">?</xsl:attribute>
@@ -124,7 +132,7 @@
 
 
 
-    <xsl:template match="alto:TextBlock[@TAGREFS = 'LT6']">
+    <!--<xsl:template match="alto:TextBlock[@TAGREFS = 'LT6']">
         <xsl:element name="add" namespace="http://www.tei-c.org/ns/1.0">
             <xsl:attribute name="type">glose</xsl:attribute>
             <xsl:attribute name="place">?</xsl:attribute>
@@ -132,11 +140,11 @@
                 <xsl:value-of select="descendant::alto:Polygon/@POINTS"/>
             </xsl:attribute>
         </xsl:element>
-    </xsl:template>
+    </xsl:template>-->
 
 
 
-    <xsl:template match="alto:TextBlock[@TAGREFS = 'BT28']">
+    <!--<xsl:template match="alto:TextBlock[@TAGREFS = 'BT28']">
         <xsl:element name="add" namespace="http://www.tei-c.org/ns/1.0">
             <xsl:attribute name="type">margin</xsl:attribute>
             <xsl:attribute name="facs">
@@ -144,9 +152,9 @@
             </xsl:attribute>
             <xsl:apply-templates/>
         </xsl:element>
-    </xsl:template>
+    </xsl:template>-->
 
-    <xsl:template match="alto:TextBlock[@TAGREFS = 'BT32']">
+    <xsl:template match="alto:TextBlock[@TAGREFS = $DropCapitalZoneTag]">
         <xsl:element name="graphic" namespace="http://www.tei-c.org/ns/1.0">
             <xsl:attribute name="type">lettrine</xsl:attribute>
             <xsl:attribute name="facs">
@@ -155,7 +163,7 @@
         </xsl:element>
     </xsl:template>
 
-    <xsl:template match="alto:TextBlock[@TAGREFS = 'BT29']">
+    <xsl:template match="alto:TextBlock[@TAGREFS = $RunningTitleZoneTag]">
         <xsl:element name="fw" namespace="http://www.tei-c.org/ns/1.0">
             <xsl:attribute name="type">titre_courant</xsl:attribute>
             <xsl:apply-templates/>
@@ -164,7 +172,7 @@
 
 
 
-    <xsl:template match="alto:TextBlock[@TAGREFS = 'BT31']">
+    <xsl:template match="alto:TextBlock[@TAGREFS = $NumberingZoneTag]">
         <xsl:element name="fw" namespace="http://www.tei-c.org/ns/1.0">
             <xsl:attribute name="type">numerotation</xsl:attribute>
             <xsl:apply-templates/>

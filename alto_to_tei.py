@@ -1,7 +1,7 @@
 import argparse
 import glob
+import json
 import string
-import sys
 import numpy as np
 from PIL import Image, ImageDraw
 from lxml import etree
@@ -17,10 +17,10 @@ import istarmap
 def extract(dossier, sigle, workers):
     fichier_xml = DocumentXML(dossier, sigle, workers)
     fichier_xml.to_tei()
-    fichier_xml.get_images(["//tei:lb", "//tei:graphic[@type='lettrine']", "//tei:add"])
+    # fichier_xml.get_images(["//tei:lb", "//tei:graphic[@type='lettrine']", "//tei:add"])
+    # fichier_xml.get_images(["//tei:lb", "//tei:graphic[@type='lettrine']"])
+    fichier_xml.get_images(["//tei:lb"])
     fichier_xml.produce_xml_file()
-
-
 
 
 class DocumentXML:
@@ -62,6 +62,14 @@ class DocumentXML:
             f"input_files={self.input_folder}",
             f"output_file={self.pre_extraction_file}",
             f"sigle={self.sigle}",
+            f"MainZoneTag={MainZone}",
+            f"MarginTextZoneTag={MarginTextZone}",
+            f"NumberingZoneTag={NumberingZone}",
+            f"QuireMarksZoneTag={QuireMarksZone}",
+            f"RunningTitleZoneTag={RunningTitleZone}",
+            f"TitleZoneTag={TitleZone}",
+            f"DropCapitalZoneTag={DropCapitalZone}",
+            f"HeadingLine_rubricTag={HeadingLine_rubric}",
             "to_tei.xsl",
             "to_tei.xsl"
         ]
@@ -78,6 +86,12 @@ class DocumentXML:
         print(f"Getting coordinates for {element}")
         liste_element = self.root.xpath(element, namespaces=tei)
         liste_images = [element.xpath("preceding::tei:pb[1]/@facs", namespaces=tei)[0] for element in liste_element]
+        global dict_of_arrays
+        dict_of_arrays = {}
+        for image in list(set(liste_images)):
+            as_array = np.asarray(Image.open(image).convert("RGBA"))
+            maskIm = Image.new('L', (as_array.shape[1], as_array.shape[0]), 0)
+            dict_of_arrays[image] = (as_array, maskIm)
         self.input_format = liste_images[0].split(".")[-1]
         liste_coordonnees = [element.xpath("@facs", namespaces=tei)[0] for element in liste_element]
 
@@ -146,11 +160,9 @@ class DocumentXML:
             graphic = etree.SubElement(surface, f"{tei_namespace}graphic")
             graphic.set("url", path_to_line)
 
-
     def get_images(self, xpath_expressions):
         """
         Cette fonction permet d'extraire les coordonnées, les images, et de créer le xml de sortie.
-        :param xpath_expressions:
         :param xpath_expression: une expression xpath vers l'élément donc les images sont à extraire.
         :return: None
         """
@@ -188,12 +200,14 @@ def extract_images(directory, identifiant, image_path, coordonnees, input_format
     """
     # https://stackoverflow.com/a/22650239
     image_basename = image_path.split("/")[-1]
-    image = Image.open(image_path).convert("RGBA")
 
     # convert to numpy (for convenience)
-    image_array = np.asarray(image)
+    # image_array = np.asarray(image)
+    global dict_of_arrays
+    image_array = dict_of_arrays[image_path][0]
+    maskIm = dict_of_arrays[image_path][1]
     polygone = coordonnees
-    maskIm = Image.new('L', (image_array.shape[1], image_array.shape[0]), 0)  # c'est ici qu'on initialise
+    # maskIm = Image.new('L', (image_array.shape[1], image_array.shape[0]), 0)  # c'est ici qu'on initialise
     # une plus petite image.
     ImageDraw.Draw(maskIm).polygon(polygone, outline=1, fill=1)
     mask = np.array(maskIm)
@@ -222,22 +236,35 @@ def extract_images(directory, identifiant, image_path, coordonnees, input_format
     cropped_img.save(f"lignes/{directory}/{image_basename.replace(f'.{input_format}', '')}_{identifiant}.png")
 
 
-
-
 tei = {'tei': 'http://www.tei-c.org/ns/1.0'}
 tei_namespace_url = 'http://www.tei-c.org/ns/1.0'
 tei_namespace = '{%s}' % tei_namespace_url
 NSMAP0 = {None: tei}
 saxon = "saxon9he.jar"
 
-
 arguments = argparse.ArgumentParser()
 arguments.add_argument("-i", "--inputs", help="Input folder")
 arguments.add_argument("-s", "--sigla", help="Sigla and output folder")
 arguments.add_argument("-w", "--workers", help="Number of workers", default=1)
+arguments.add_argument("-c", "--conf", help="Path to conf file with correct tagrefs", default=1)
 
 arguments = arguments.parse_args()
 inputs = arguments.inputs
 sigla = arguments.sigla
 workers = arguments.workers
+conf_file = arguments.conf
+
+with open(conf_file, "r") as input_conf_file:
+    conf_dict = json.load(input_conf_file)
+
+MainZone = conf_dict["MainZone"]
+MarginTextZone = conf_dict["MarginTextZone"]
+NumberingZone = conf_dict["NumberingZone"]
+QuireMarksZone = conf_dict["QuireMarksZone"]
+RunningTitleZone = conf_dict["RunningTitleZone"]
+TitleZone = conf_dict["TitleZone"]
+DropCapitalZone = conf_dict["DropCapitalZone"]
+HeadingLine_rubric = conf_dict["HeadingLine_rubric"]
+
+global dict_of_arrays
 extract(inputs, sigla, workers)
