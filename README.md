@@ -32,3 +32,4 @@ Les fichiers alto doivent être dans un dossier, avec les images. Ils doivent po
 
 `python3 alto_to_tei.py  -i alignement_multilingue/borghia_ch2/ -o output/borghia_ch2 -dp False -w 8 -s borghia_ch2`
 
+*Attention*: pour l'instant, le sigle doit correspondre exactement au répertoire d'entrée et de sortie (sera bientôt corrigé).
