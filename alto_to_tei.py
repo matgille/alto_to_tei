@@ -17,7 +17,7 @@ import random
 import subprocess
 import multiprocessing as mp
 
-import istarmap
+# import istarmap
 from operator import itemgetter
 from itertools import groupby
 from scipy.ndimage.interpolation import zoom
@@ -159,10 +159,15 @@ class DocumentXML:
     def chargement_parallele_images(self, list_of_images, resize_factor) -> dict:
         print("Charging images.")
         dictionnary = {}
-        with mp.Pool(processes=int(self.workers)) as pool:
-            data = [(image, resize_factor) for image in list_of_images]
-            for result in tqdm.tqdm(pool.istarmap(save_image_to_dict, data)):
-                dictionnary.update(result)
+        if int(self.workers) == 1:
+            for image in list_of_images:
+                for result in save_image_to_dict(image, resize_factor):
+                    dictionnary.update(result)
+        else:
+            with mp.Pool(processes=int(self.workers)) as pool:
+                data = [(image, resize_factor) for image in list_of_images]
+                for result in tqdm.tqdm(pool.starmap(save_image_to_dict, data)):
+                    dictionnary.update(result)
         return dictionnary
 
     def extraction_parallele(self):
@@ -171,7 +176,7 @@ class DocumentXML:
         with mp.Pool(processes=int(self.workers)) as pool:
             data = [(identifiant, image_path, coordonnees, self.input_format, output) for
                     _, (identifiant, image_path, coordonnees, output) in self.coordonnees.items()]
-            for _ in tqdm.tqdm(pool.istarmap(extract_images, data),
+            for _ in tqdm.tqdm(pool.starmap(extract_images, data),
                                total=len(data)):
                 pass
 
@@ -319,8 +324,8 @@ def save_image_to_dict(image, resize_factor):
                        (round(as_array.shape[1] * resize_factor), round(as_array.shape[0] * resize_factor)), 0)
     new_shape = (round(as_array.shape[1] * resize_factor), round(as_array.shape[0] * resize_factor))
     im = Image.fromarray(np.uint8(as_array))
-    downsampled = im.resize(new_shape, Image.Resampling.LANCZOS)
-    as_array = np.array(downsampled)
+    downsampled = im.resize(new_shape, Image.LANCZOS)
+    as_array = np.asarray(downsampled)
     dico[image] = (as_array, maskIm)
     return dico
 
@@ -342,7 +347,7 @@ def extract_images(identifiant, image_path, coordonnees, input_format, output):
     # une plus petite image.
     try:
         ImageDraw.Draw(maskIm).polygon(polygone, outline=1, fill=1)
-        mask = np.array(maskIm)
+        mask = np.asarray(maskIm)
     
         # assemble new image (uint8: 0-255)
         newImArray = np.empty(image_array.shape, dtype='uint8')
