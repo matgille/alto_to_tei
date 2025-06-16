@@ -17,10 +17,8 @@ import random
 import subprocess
 import multiprocessing as mp
 
-# import istarmap
 from operator import itemgetter
 from itertools import groupby
-from scipy.ndimage.interpolation import zoom
 
 
 def move_input_files(dossier, output):
